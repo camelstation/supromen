@@ -31,5 +31,13 @@ SOCIAL = (
 
 DEFAULT_PAGINATION = False
 
+# We keep docs/index.html as a hand-written splash page.
+# So: do not let Pelican generate any direct template pages (including index.html).
+DIRECT_TEMPLATES = ()
+PAGINATED_DIRECT_TEMPLATES = ()
+INDEX_SAVE_AS = ""
+
+
+
 # Uncomment following line if you want document-relative URLs when developing
 # RELATIVE_URLS = True
