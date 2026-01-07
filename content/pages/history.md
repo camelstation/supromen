@@ -3,6 +3,3 @@ Slug: history
 Url: history/
 Save_as: history/index.html
 Status: published
-
-Welcome to Supr Omen.
-

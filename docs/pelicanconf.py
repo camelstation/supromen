@@ -37,6 +37,18 @@ DIRECT_TEMPLATES = ()
 PAGINATED_DIRECT_TEMPLATES = ()
 INDEX_SAVE_AS = ""
 
+# Use our minimal theme
+THEME = "theme"
+THEME_STATIC_DIR = "theme"
+
+# Copy static images from content/images -> output/images
+STATIC_PATHS = ["images"]
+
+# Keep docs/index.html as a hand-written splash page (not Pelican-generated)
+DIRECT_TEMPLATES = ()
+PAGINATED_DIRECT_TEMPLATES = ()
+INDEX_SAVE_AS = ""
+
 
 
 # Uncomment following line if you want document-relative URLs when developing

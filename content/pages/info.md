@@ -3,6 +3,3 @@ Slug: info
 Url: info/
 Save_as: info/index.html
 Status: published
-
-Welcome to Supr Omen.
-

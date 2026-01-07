@@ -1,0 +1,14 @@
+{% extends "base.html" %}
+
+{% block title %}{{ page.title }} | {{ SITENAME }}{% endblock %}
+{% block body_class %}page page--{{ page.slug }}{% endblock %}
+
+{% block content %}
+  {% if page.slug == "home" %}
+    <img class="hero" src="{{ SITEURL }}/images/home.jpg" alt="">
+  {% else %}
+    {# Keep these pages visually blank for now #}
+    <div class="blank"></div>
+  {% endif %}
+{% endblock %}
+
