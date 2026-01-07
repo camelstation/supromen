@@ -39,7 +39,8 @@ INDEX_SAVE_AS = ""
 
 # Use our minimal theme
 THEME = "theme"
-THEME_STATIC_DIR = "theme"
+# Serve theme assets from /assets/ instead of /theme/ to avoid “copy onto itself” issue
+THEME_STATIC_DIR = "assets"
 
 # Copy static images from content/images -> output/images
 STATIC_PATHS = ["images"]
