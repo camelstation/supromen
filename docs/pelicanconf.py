@@ -47,7 +47,6 @@ STATIC_PATHS = ["images"]
 
 # Keep docs/index.html as a hand-written splash page (not Pelican-generated)
 DIRECT_TEMPLATES = ()
-PAGINATED_DIRECT_TEMPLATES = ()
 INDEX_SAVE_AS = ""
 
 
