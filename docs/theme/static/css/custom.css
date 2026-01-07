@@ -29,8 +29,13 @@
   color: #e8e8e8;
 }
 
-.nav__summary::-webkit-details-marker {
-  display: none;
+.nav__summary {
+  list-style: none;
+  cursor: pointer;
+  user-select: none;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  color: chartreuse;
 }
 
 /* Panel */
@@ -43,7 +48,7 @@
 .nav__link {
   display: block;
   padding: 14px 16px;
-  text-decoration: none;
+  color: chartreuse;
 }
 
 .nav__link:hover {
