@@ -1,2 +1,2 @@
 # supromen
-Website for Supr Omen
+Website for SUPR OMEN
