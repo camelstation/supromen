@@ -125,29 +125,26 @@ a:hover {
   --accent: rgb(193, 251, 79);
 }
 
-/* Dropdown menu text */
+/* Dropdown (summary + links) */
 .nav__summary {
-  color: var(--accent);
+  color: var(--accent) !important;
 }
 
-.nav__link {
-  color: var(--accent);
-  text-decoration: none;
+.nav__panel .nav__link,
+.nav__panel .nav__link:visited,
+.nav__panel .nav__link:active,
+.nav__panel .nav__link:hover {
+  color: var(--accent) !important;
+  text-decoration: none !important;
 }
 
-.nav__link:hover {
-  text-decoration: none;
-  opacity: 0.85;
-}
-
-/* Footer links */
+/* Footer (container + links) */
 .site-footer,
-.site-footer a {
-  color: var(--accent);
-}
-
+.site-footer a,
+.site-footer a:visited,
+.site-footer a:active,
 .site-footer a:hover {
-  text-decoration: none;
-  opacity: 0.85;
+  color: var(--accent) !important;
+  text-decoration: none !important;
 }
 
