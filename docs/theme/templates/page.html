@@ -5,9 +5,11 @@
 
 {% block content %}
   {% if page.slug == "home" %}
-    <img class="hero" src="{{ SITEURL }}/images/home.jpg" alt="">
+    {% set hero = page.hero if page.hero else "images/home.jpg" %}
+    <div class="hero-wrap">
+      <img class="hero" src="{{ SITEURL }}/{{ hero }}" alt="">
+    </div>
   {% else %}
-    {# Keep these pages visually blank for now #}
     <div class="blank"></div>
   {% endif %}
 {% endblock %}
