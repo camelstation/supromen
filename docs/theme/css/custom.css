@@ -36,7 +36,6 @@
 /* Panel */
 .nav__panel {
   margin-top: 10px;
-  border: 1px solid #e8e8e8;
   background: #000;
   min-width: 220px;
 }
@@ -45,11 +44,6 @@
   display: block;
   padding: 14px 16px;
   text-decoration: none;
-  border-top: 1px solid #e8e8e8;
-}
-
-.nav__link:first-child {
-  border-top: 0;
 }
 
 .nav__link:hover {

@@ -7,7 +7,7 @@
   {% if page.slug == "home" %}
     {% set hero = page.hero if page.hero else "images/home.jpg" %}
     <div class="hero-wrap">
-      <img class="hero" src="{{ SITEURL }}/{{ hero }}" alt="">
+      <img class="hero" src="/{{ hero }}" alt="">
     </div>
   {% else %}
     <div class="blank"></div>
