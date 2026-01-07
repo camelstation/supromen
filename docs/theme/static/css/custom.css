@@ -35,7 +35,6 @@
   user-select: none;
   font-weight: 700;
   letter-spacing: 0.02em;
-  color: chartreuse;
 }
 
 /* Panel */
@@ -48,7 +47,6 @@
 .nav__link {
   display: block;
   padding: 14px 16px;
-  color: chartreuse;
 }
 
 .nav__link:hover {
@@ -120,4 +118,36 @@ a:hover {
   opacity: 0.85;
 }
 
+
+
+/* Accent color */
+:root {
+  --accent: rgb(193, 251, 79);
+}
+
+/* Dropdown menu text */
+.nav__summary {
+  color: var(--accent);
+}
+
+.nav__link {
+  color: var(--accent);
+  text-decoration: none;
+}
+
+.nav__link:hover {
+  text-decoration: none;
+  opacity: 0.85;
+}
+
+/* Footer links */
+.site-footer,
+.site-footer a {
+  color: var(--accent);
+}
+
+.site-footer a:hover {
+  text-decoration: none;
+  opacity: 0.85;
+}
 
