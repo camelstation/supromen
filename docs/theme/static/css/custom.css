@@ -57,7 +57,8 @@ a:active {
 
 .nav {
   position: relative;
-  display: inline-block;
+  display: block;
+  width: 100%;
   margin-bottom: 12px;
 }
 
@@ -79,14 +80,10 @@ a:active {
 .nav__panel {
   margin-top: 10px;
   background: var(--bg);
-  
-  /* make the dropdown span the full page width inside the frame border */
   position: absolute;
   left: 0;
   right: 0;
-
-  /* optional: a little breathing room from the summary */
-  padding: 0;
+  z-index: 10;
 }
 
 /* Dropdown items */
