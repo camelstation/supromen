@@ -79,7 +79,14 @@ a:active {
 .nav__panel {
   margin-top: 10px;
   background: var(--bg);
-  min-width: 220px;
+  
+  /* make the dropdown span the full page width inside the frame border */
+  position: absolute;
+  left: 0;
+  right: 0;
+
+  /* optional: a little breathing room from the summary */
+  padding: 0;
 }
 
 /* Dropdown items */
