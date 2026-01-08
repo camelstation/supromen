@@ -57,7 +57,7 @@ a:active {
 
 .nav {
   position: relative;
-  display: block;
+  /* display: block; */
   width: 100%;
   margin-bottom: 12px;
 }
@@ -76,32 +76,34 @@ a:active {
   display: none;
 }
 
-/* Dropdown panel */
+/* Dropdown panel: full width inside the frame */
 .nav__panel {
   margin-top: 10px;
   background: var(--bg);
   position: absolute;
   left: 0;
   right: 0;
-  z-index: 10;
+  z-index: 9999;
 }
 
 /* Dropdown items */
 .nav__link {
-  display: block;
+  /* display: block; */
   padding: 14px 16px;
   width: 100%;
   box-sizing: border-box;
-  color: var(--accent);
+  color: var(--accent) !important;
+  text-decoration: none !important;
+  opacity: 1;
 }
 
-/* Full-width hover highlight */
+/* Full-width hover highlight bar */
 .nav__panel .nav__link:hover,
 .nav__panel .nav__link:active,
 .nav__panel .nav__link:focus-visible {
-  background: var(--accent);
-  color: #000 !important;   /* readable on green */
-  opacity: 1;
+  background: var(--accent) !important;
+  color: #000 !important;
+  opacity: 1 !important;
   outline: none;
 }
 
