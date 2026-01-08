@@ -110,46 +110,6 @@ a:active {
 }
 
 
-.menu-icon {
-  display: inline-block;
-  width: 14px;
-  height: 16px;
-  margin: 0 8px;
-  position: relative;
-}
-
-.menu-icon::before,
-.menu-icon::after {
-  content: "";
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  width: 2px;
-  background: var(--accent);
-}
-
-.menu-icon::before {
-  left: 0;
-}
-
-.menu-icon::after {
-  right: 0;
-}
-
-/* center line */
-.menu-icon {
-  background:
-    linear-gradient(
-      to right,
-      transparent 6px,
-      var(--accent) 6px,
-      var(--accent) 8px,
-      transparent 8px
-    );
-}
-
-
-
 
 /* =========================
    Home hero
