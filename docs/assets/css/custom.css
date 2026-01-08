@@ -98,6 +98,8 @@ a:active {
 }
 
 /* Full-width hover highlight bar */
+/* Force dropdown items to stack vertically no matter what other CSS does */
+
 .nav__panel .nav__link:hover,
 .nav__panel .nav__link:active,
 .nav__panel .nav__link:focus-visible {
@@ -171,4 +173,17 @@ a:active {
 .footer-sep {
   margin: 0 8px;
 }
+
+
+/* Force dropdown items to stack vertically no matter what other CSS does */
+.nav__panel {
+  display: block !important;         /* defeats display:flex from elsewhere */
+}
+
+.nav__panel .nav__link {
+  display: block !important;         /* defeats inline/inline-block from elsewhere */
+  width: 100% !important;
+}
+
+.nav__panel { outline: 2px solid red !important; }
 
