@@ -1,152 +1,27 @@
-.frame {
-  min-height: 100vh;
-  padding: 18px;          /* “small border around top and edges” */
-  box-sizing: border-box;
-  display: flex;
-  flex-direction: column;
+/* =========================
+   SUPR OMEN custom styles
+   ========================= */
+
+/* Accent color */
+:root {
+  --accent: rgb(193, 251, 79);
+  --text: #e8e8e8;
+  --bg: #000;
 }
 
-.content {
-  flex: 1;
-  display: flex;
-  flex-direction: column;
-  min-height: 0;
-}
-
-/* Dropdown menu (top-left) */
-.nav {
-  position: relative;
-  display: inline-block;
-  margin-bottom: 12px;
-}
-
-.nav__summary {
-  list-style: none;
-  cursor: pointer;
-  user-select: none;
-  font-weight: 700;
-  letter-spacing: 0.02em;
-  color: #e8e8e8;
-}
-
-.nav__summary {
-  list-style: none;
-  cursor: pointer;
-  user-select: none;
-  font-weight: 700;
-  letter-spacing: 0.02em;
-}
-
-/* Panel */
-.nav__panel {
-  margin-top: 10px;
-  background: #000;
-  min-width: 220px;
-}
-
-.nav__link {
-  display: block;
-  padding: 14px 16px;
-  width: 100%;
-  box-sizing: border-box;
-}
-
-.hero-wrap {
-  flex: 1;
-  min-height: 0;              /* important for flex overflow behavior */
-}
-
-.hero {
-  display: block;
-  width: 100%;
-  height: 100%;
-  object-fit: cover;      /* crop to fill */
-}
-
-.hero-wrap {
-  position: relative;
-}
-
-.hero-overlay {
-  position: absolute;
-  left: 50%;
-  top: 50%;
-  transform: translate(-50%, -50%);
-  max-width: 80%;
-  max-height: 60%;
-  height: auto;
-  width: auto;
-  pointer-events: none;
-}
-
-/* Blank pages keep height but show nothing */
-.blank {
-  flex: 1;
-}
-
-/* Footer */
-.site-footer {
-  margin-top: 12px;
-  padding-top: 0;
-  text-align: center;
-  font-size: 10px;
-  font-weight: 700;
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
-  color: #e8e8e8;
-}
-
-.site-footer a {
-  text-decoration: none;
-}
-
-.site-footer a:hover {
-  text-decoration: none;
-  opacity: 0.85;
-}
-
-.footer-sep {
-  margin: 0 8px;
-}
-
-/* Global colors */
+/* Global layout + color */
 html, body {
   height: 100%;
 }
 
 body {
   margin: 0;
-  background: #000;
-  color: #e8e8e8;
+  background: var(--bg);
+  color: var(--text);
 }
 
-/* Links should look like regular text */
-a {
-  color: inherit;
-  text-decoration: none;
-}
-
-a:hover {
-  text-decoration: none;
-  opacity: 0.85;
-}
-
-/* Accent */
-:root {
-  --accent: rgb(193, 251, 79);
-}
-
-/* Full-width hover highlight */
-.nav__panel .nav__link:hover,
-.nav__panel .nav__link:active,
-.nav__panel .nav__link:focus-visible {
-  background: var(--accent);
-  color: #000 !important;          /* readable on green */
-  opacity: 1;
-  outline: none;
-}
-
-/* Kill the old theme link styling (main.css sets a:link/a:visited red+underline) */
+/* Make all links look like text (no blue, no underline) */
+a,
 a:link,
 a:visited {
   color: inherit;
@@ -157,30 +32,137 @@ a:hover,
 a:active {
   color: inherit;
   text-decoration: none;
-  background-color: transparent;
-  opacity: 0.85;
 }
 
-/* Dropdown items (Events/History/Team) */
-.nav__panel .nav__link:link,
-.nav__panel .nav__link:visited {
-    color: var(--accent);
-    text-decoration: none;
+/* Page frame (the border/padding around content) */
+.frame {
+  min-height: 100vh;
+  padding: 18px;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
 }
 
-/* Dropdown label (SUPR OMEN text) */
+/* Main content area grows so footer sits at bottom */
+.content {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  min-height: 0;
+}
+
+/* =========================
+   Dropdown nav
+   ========================= */
+
+.nav {
+  position: relative;
+  display: inline-block;
+  margin-bottom: 12px;
+}
+
+/* “SUPR OMEN” label */
 .nav__summary {
+  list-style: none;
+  cursor: pointer;
+  user-select: none;
+  font-weight: 700;
+  letter-spacing: 0.02em;
   color: var(--accent);
 }
 
-/* Footer links */
-.site-footer,
+.nav__summary::-webkit-details-marker {
+  display: none;
+}
+
+/* Dropdown panel */
+.nav__panel {
+  margin-top: 10px;
+  background: var(--bg);
+  min-width: 220px;
+}
+
+/* Dropdown items */
+.nav__link {
+  display: block;
+  padding: 14px 16px;
+  width: 100%;
+  box-sizing: border-box;
+  color: var(--accent);
+}
+
+/* Full-width hover highlight */
+.nav__panel .nav__link:hover,
+.nav__panel .nav__link:active,
+.nav__panel .nav__link:focus-visible {
+  background: var(--accent);
+  color: #000 !important;   /* readable on green */
+  opacity: 1;
+  outline: none;
+}
+
+/* =========================
+   Home hero
+   ========================= */
+
+.hero-wrap {
+  flex: 1;
+  min-height: 0;
+  position: relative;
+}
+
+.hero {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+/* Centered overlay PNG */
+.hero-overlay {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  max-width: 80%;
+  max-height: 60%;
+  width: auto;
+  height: auto;
+  pointer-events: none;
+}
+
+/* Blank pages still occupy space */
+.blank {
+  flex: 1;
+}
+
+/* =========================
+   Footer
+   ========================= */
+
+.site-footer {
+  margin-top: 12px;
+  text-align: center;
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--accent);
+}
+
+.site-footer a,
 .site-footer a:link,
-.site-footer a:visited,
+.site-footer a:visited {
+  color: var(--accent);
+}
+
 .site-footer a:hover,
 .site-footer a:active {
   color: var(--accent);
-  text-decoration: none;
-  background-color: transparent;
+  opacity: 0.85;
+}
+
+.footer-sep {
+  margin: 0 8px;
 }
 
