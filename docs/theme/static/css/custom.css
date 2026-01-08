@@ -51,11 +51,6 @@
   box-sizing: border-box;
 }
 
-.nav__link:hover {
-  text-decoration: none;
-  opacity: 0.85;
-}
-
 .hero-wrap {
   flex: 1;
   min-height: 0;              /* important for flex overflow behavior */
@@ -136,8 +131,6 @@ a:hover {
   opacity: 0.85;
 }
 
-
-
 /* Accent */
 :root {
   --accent: rgb(193, 251, 79);
@@ -173,12 +166,6 @@ a:active {
 .nav__panel .nav__link:visited {
     color: var(--accent);
     text-decoration: none;
-}
-.nav__panel .nav__link:hover,
-.nav__panel .nav__link:active {
-  color: var(--accent);
-  text-decoration: none;
-  background-color: transparent;
 }
 
 /* Dropdown label (SUPR OMEN text) */
