@@ -20,6 +20,8 @@
       display: flex;
       align-items: center;
       justify-content: center;
+      text-decoration: none;
+      cursor: pointer;
     }
 
     .splash img {
@@ -28,17 +30,19 @@
       width: auto;
       height: auto;
       object-fit: contain; /* KEY LINE */
+      display: block;
     }
   </style>
 </head>
 
 <body>
-  <div class="splash">
+  <a class="splash" href="/home/" aria-label="Enter">
     <img
       src="images/coming_soon.png"
-      alt="Coming Soon"
+      alt="Website coming soon"
     >
-  </div>
+  </a>
 </body>
+
 </html>
 
