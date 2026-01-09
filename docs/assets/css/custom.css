@@ -132,8 +132,8 @@ a:active {
 
 /* Logo: smaller */
 .home-logo {
-  width: 70%;             /* ~30% smaller than EVA */
-  max-width: 420px;
+  width: 100%;             /* ~30% smaller than EVA */
+  max-width: 600px;
 }
 
 /* EVA image: larger */
