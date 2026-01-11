@@ -83,7 +83,7 @@ a:active {
   position: static;
   left: auto;
   right: auto;
-  width: 100%
+  width: 100%;
   z-index: auto;
   padding: 0;
 }
@@ -131,18 +131,17 @@ a:active {
 
 .home-images img { 
   display: block; 
+  width: 100%;
   height: auto; 
 } 
 
 /* Logo: smaller */ 
 .home-logo { 
-  width: 100%; 
   max-width: 700px; 
 } 
 
 /* EVA image: larger */ 
 .home-eva { 
-  width: 100%; 
   max-width: 600px; 
 } 
 
