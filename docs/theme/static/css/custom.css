@@ -127,7 +127,7 @@ a:active {
 
 .home-images img {
   display: block;
-  width: auto;
+  width: 100%;
   height: auto;
   max-width: 100%;
   object-fit: contain;
@@ -147,7 +147,7 @@ a:active {
 /* Larger screens: top image ~30% bigger */
 @media (min-width: 900px) {
   .home-logo {
-    max-width: 780px; /* make it bigger */
+    max-width: 840px; /* make it bigger */
   }
   .home-eva {
     max-width: 600px;
