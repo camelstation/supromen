@@ -247,7 +247,7 @@ a:active {
 
 
 /* =========================
-   Other Nav Panel Stuff – Keep at End
+   Other Stuff – Keep at End
    ========================= */
 
 /* Force dropdown items to stack vertically no matter what other CSS does */
@@ -259,3 +259,13 @@ a:active {
   display: block !important;         /* defeats inline/inline-block from elsewhere */
   width: 100% !important;
 }
+
+/* Make membership page image feel clickable (because it is) */
+.page--membership .center-media a {
+  display: inline-block;
+}
+
+.page--membership .center-media a:hover {
+  opacity: 0.9;
+}
+
