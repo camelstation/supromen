@@ -206,7 +206,27 @@ a:active {
 }
 
 /* =========================
-   Other Nav Panel Stuff
+   Centered media (history, events)
+   ========================= */
+
+.center-media {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.center-media img,
+.center-media video {
+  max-width: 90vw;
+  max-height: 80vh;
+  object-fit: contain;
+}
+
+
+
+/* =========================
+   Other Nav Panel Stuff – Keep at End
    ========================= */
 
 /* Force dropdown items to stack vertically no matter what other CSS does */
