@@ -1,4 +1,8 @@
 Title: Contact
 Slug: contact
 
-info@supromen.com
+<div class="contact-page">
+  <a href="mailto:info@supromen.com" class="contact-email">
+    info@supromen.com
+  </a>
+</div>

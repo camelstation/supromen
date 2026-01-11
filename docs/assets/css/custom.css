@@ -180,24 +180,29 @@ a:active {
    Contact page
    ========================= */
 
-.page--contact .content {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
+/* Make the contact page a viewport canvas */
+.page--contact {
+  min-height: 100vh;
 }
 
-/* Push the email down ~40% of viewport height */
+/* Position email relative to viewport, not document flow */
 .page--contact .contact-email {
-  margin-top: 40vh;
-  transform: translateY(-50%); /* keeps it around the 40% mark visually */
+  position: fixed;
+  top: 40vh;
+  left: 50%;
+  transform: translate(-50%, -50%);
 
   color: var(--accent);
   font-weight: 700;
-  letter-spacing: 0.02em; /* match .nav__summary */
+  letter-spacing: 0.02em; /* matches .nav__summary */
+  font-size: 1.15em;
   text-align: center;
 
-  /* same size as dropdown menu label */
-  font-size: 1em;
+  opacity: 0.9;
+}
+
+.page--contact .contact-email:hover {
+  opacity: 1;
 }
 
 /* =========================
