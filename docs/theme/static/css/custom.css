@@ -214,14 +214,14 @@ a:active {
   justify-content: center;
   align-items: flex-start; /* not true vertical center */
   min-height: 100vh;
-  padding-top: 5vh; /* pushes media down from top */
+  padding-top: 2vh; /* pushes media down from top */
   box-sizing: border-box;
 }
 
 .center-media img,
 .center-media video {
-  max-width: 90vw;
-  max-height: 80vh;
+  max-width: 95vw;
+  max-height: 82vh;
   object-fit: contain;
 }
 
@@ -231,9 +231,18 @@ a:active {
    ========================= */
 
 .page--history .center-media img {
-  max-width: 1200px;
+  max-width: 1400px;
   width: 100%;
   height: auto;
+}
+
+/* =========================
+   Events page video sizing
+   ========================= */
+
+.page--events .center-media video {
+  max-width: 1400px;
+  width: 100%;
 }
 
 
