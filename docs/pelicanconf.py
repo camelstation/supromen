@@ -3,6 +3,8 @@ SITENAME = 'supromen'
 SITEURL = ""
 
 PATH = "content"
+PAGE_URL = "{slug}/"
+PAGE_SAVE_AS = "{slug}/index.html"
 
 TIMEZONE = 'America/New_York'
 
