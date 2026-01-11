@@ -258,20 +258,7 @@ a:active {
 }
 
 /* =========================
-   Membership page: remove link focus outline
-   ========================= */
-
-.page--membership .center-media a,
-.page--membership .center-media a:focus,
-.page--membership .center-media a:focus-visible,
-.page--membership .center-media a:hover {
-  outline: none;
-  box-shadow: none;
-}
-
-
-/* =========================
-   Other Stuff – Keep at End
+   Nav panel stuff – Keep near end
    ========================= */
 
 /* Force dropdown items to stack vertically no matter what other CSS does */
@@ -284,5 +271,25 @@ a:active {
   width: 100% !important;
 }
 
+/* =========================
+   Membership page: kill any hover/focus box around linked image. Keep near end
+   ========================= */
+
+.page--membership .center-media a,
+.page--membership .center-media a:hover,
+.page--membership .center-media a:focus,
+.page--membership .center-media a:focus-visible,
+.page--membership .center-media a:active {
+  outline: none !important;
+  box-shadow: none !important;
+  border: none !important;
+}
+
+.page--membership .center-media a img {
+  display: block;
+  border: 0 !important;
+  outline: none !important;
+  box-shadow: none !important;
+}
 
 
