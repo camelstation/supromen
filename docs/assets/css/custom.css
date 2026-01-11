@@ -251,10 +251,22 @@ a:active {
    ========================= */
 
 .page--membership .center-media img {
-  max-width: 800px;
+  max-width: 600px;
   max-height: none;
   width: 100%;
   height: auto;
+}
+
+/* =========================
+   Membership page: remove link focus outline
+   ========================= */
+
+.page--membership .center-media a,
+.page--membership .center-media a:focus,
+.page--membership .center-media a:focus-visible,
+.page--membership .center-media a:hover {
+  outline: none;
+  box-shadow: none;
 }
 
 
@@ -271,4 +283,6 @@ a:active {
   display: block !important;         /* defeats inline/inline-block from elsewhere */
   width: 100% !important;
 }
+
+
 
