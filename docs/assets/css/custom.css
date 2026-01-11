@@ -213,7 +213,8 @@ a:active {
   display: flex;
   justify-content: center;
   align-items: flex-start; /* not true vertical center */
-  min-height: 100vh;
+  flex: 1;
+  min-height: 0;
   padding-top: 6vh; /* pushes media down from top */
   box-sizing: border-box;
 }
@@ -256,6 +257,18 @@ a:active {
   width: 100%;
   height: auto;
 }
+
+/* =========================
+   Media pages: keep footer visible if there's space
+   ========================= */
+
+.page--events .center-media,
+.page--membership .center-media {
+  min-height: 0;      /* override min-height: 100vh */
+  flex: 1;            /* fill available space inside .content */
+  padding-bottom: 2vh; /* breathing room above footer */
+}
+
 
 /* =========================
    Nav panel stuff – Keep near end
