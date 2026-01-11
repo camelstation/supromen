@@ -214,7 +214,7 @@ a:active {
   justify-content: center;
   align-items: flex-start; /* not true vertical center */
   min-height: 100vh;
-  padding-top: 4vh; /* pushes media down from top */
+  padding-top: 6vh; /* pushes media down from top */
   box-sizing: border-box;
 }
 
@@ -231,7 +231,7 @@ a:active {
    ========================= */
 
 .page--history .center-media img {
-  max-width: 1600px;
+  max-width: 2000px;
   width: 100%;
   height: auto;
 }
@@ -241,7 +241,7 @@ a:active {
    ========================= */
 
 .page--events .center-media video {
-  max-width: 1600px;
+  max-width: 2000px;
   width: 100%;
 }
 
