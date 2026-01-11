@@ -212,8 +212,10 @@ a:active {
 .center-media {
   display: flex;
   justify-content: center;
-  align-items: center;
+  align-items: flex-start; /* not true vertical center */
   min-height: 100vh;
+  padding-top: 10vh; /* pushes media down from top */
+  box-sizing: border-box;
 }
 
 .center-media img,
@@ -223,6 +225,25 @@ a:active {
   object-fit: contain;
 }
 
+
+/* =========================
+   History page image sizing
+   ========================= */
+
+.page--history .center-media img {
+  max-width: 1000px;
+  width: 100%;
+  height: auto;
+}
+
+
+/* =========================
+   History page image sizing
+   ========================= */
+
+.page--events .center-media {
+  padding-top: 15vh;
+}
 
 
 /* =========================
