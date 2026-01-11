@@ -231,7 +231,7 @@ a:active {
    ========================= */
 
 .page--history .center-media img {
-  max-width: 800px;
+  max-width: 1200px;
   max-height: none;
   width: 100%;
   height: auto;
@@ -244,6 +244,17 @@ a:active {
 .page--events .center-media video {
   max-width: 800px;
   width: 100%;
+}
+
+/* =========================
+   Membership page image sizing
+   ========================= */
+
+.page--membership .center-media img {
+  max-width: 800px;
+  max-height: none;
+  width: 100%;
+  height: auto;
 }
 
 
@@ -259,14 +270,5 @@ a:active {
 .nav__panel .nav__link {
   display: block !important;         /* defeats inline/inline-block from elsewhere */
   width: 100% !important;
-}
-
-/* Make membership page image feel clickable (because it is) */
-.page--membership .center-media a {
-  display: inline-block;
-}
-
-.page--membership .center-media a:hover {
-  opacity: 0.9;
 }
 
