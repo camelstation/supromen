@@ -285,24 +285,28 @@ a:active {
 }
 
 /* =========================
-   Membership page: kill any hover/focus box around linked image. Keep near end
+   Membership page: kill ALL browser link highlights (Safari/WebKit)
    ========================= */
 
-.page--membership .center-media a,
-.page--membership .center-media a:hover,
+.page--membership .center-media a {
+  -webkit-tap-highlight-color: transparent !important;
+  outline: none !important;
+  border: none !important;
+  box-shadow: none !important;
+}
+
 .page--membership .center-media a:focus,
 .page--membership .center-media a:focus-visible,
 .page--membership .center-media a:active {
   outline: none !important;
-  box-shadow: none !important;
   border: none !important;
+  box-shadow: none !important;
 }
 
-.page--membership .center-media a img {
+.page--membership .center-media img {
   display: block;
   border: 0 !important;
   outline: none !important;
   box-shadow: none !important;
 }
-
 
