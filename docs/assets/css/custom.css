@@ -119,7 +119,7 @@ a:active {
   display: flex; 
   flex-direction: column; 
   align-items: center; 
-  gap: -12px; /* thin gap between images */ 
+  gap: 0px; /* thin gap between images */ 
   margin-top: 24px; 
 } 
 
@@ -247,18 +247,22 @@ a:active {
    Events page video sizing
    ========================= */
 
-.page--events .center-media video {
-  max-width: 800px;
-  width: 100%;
-}
-
-.event-link {
+.page--events .event-link {
   display: block;
   cursor: pointer;
+  line-height: 0;
+  margin: 0;
+  padding: 0;
 }
 
-.event-link video {
+.page--events .event-link video {
   pointer-events: none;
+  display: block;
+}
+
+.page--events .center-media {
+  margin: 0;
+  padding: 0;
 }
 
 /* =========================
