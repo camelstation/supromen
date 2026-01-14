@@ -247,6 +247,15 @@ a:active {
   width: 100%;
 }
 
+.event-link {
+  display: block;
+  cursor: pointer;
+}
+
+.event-link video {
+  pointer-events: none;
+}
+
 /* =========================
    Membership page image sizing
    ========================= */
