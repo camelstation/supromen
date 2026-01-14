@@ -140,6 +140,11 @@ a:active {
   max-width: 600px; 
 } 
 
+/* Info image: larger */ 
+.home-info { 
+  max-width: 600px; 
+} 
+
 /* Blank pages still occupy space */ 
 .blank { 
   flex: 1; 
