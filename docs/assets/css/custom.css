@@ -271,6 +271,21 @@ a:active {
 }
 
 /* =========================
+   Events page text
+   ========================= */
+
+.event-cta {
+  margin-top: 12px;
+  text-align: center;
+}
+
+.event-cta a {
+  color: var(--accent);
+  font-size: 1.1rem;
+}
+
+
+/* =========================
    Media pages: keep footer visible if there's space
    ========================= */
 
