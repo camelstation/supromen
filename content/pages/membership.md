@@ -10,3 +10,10 @@ Status: published
   </a>
 </div>
 
+<div class="event-cta">
+  <a href="https://form.typeform.com/to/nkQGR6i6?typeform-source=supromen.com"
+     target="_blank"
+     rel="noopener">
+    Click here for membership information
+  </a>
+</div>
