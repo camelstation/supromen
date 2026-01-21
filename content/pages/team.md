@@ -5,5 +5,5 @@ Save_as: team/index.html
 Status: published
 
 <div class="center-media">
-  <img src="/images/supromen_team.png" alt="SUPR OMEN Team">
+  <img src="/images/supromen_team.jpg" alt="SUPR OMEN Team">
 </div>
