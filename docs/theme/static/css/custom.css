@@ -291,19 +291,32 @@ a:active {
 
 .event-block {
   margin-bottom: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 /* Override flex: 1 for center-media inside event blocks */
 .page--events .event-block .center-media {
   flex: 0 0 auto;
   padding-top: 0;
+  width: 100%;
+  max-width: 480px;
+  justify-content: flex-start;
+}
+
+.page--events .event-block .center-media img {
+  width: 100%;
+  height: auto;
+  max-height: none;
 }
 
 .event-text {
   margin-top: 1rem;
   font-size: 0.95rem;
   line-height: 1.6;
-  max-width: 640px;
+  width: 100%;
+  max-width: 480px;
 }
 
 .event-text a {
