@@ -314,7 +314,7 @@ a:active {
 }
 
 .event-title {
-  font-size: 1rem;
+  font-size: 1.8rem;
   font-weight: 700;
   margin: 0 0 0.4rem 0;
   color: var(--accent);
