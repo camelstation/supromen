@@ -297,7 +297,8 @@ a:active {
 }
 
 /* Override flex: 1 for center-media inside event blocks */
-.page--events .event-block .center-media {
+.page--events .event-block .center-media,
+.page--classes .event-block .center-media {
   flex: 0 0 auto;
   padding-top: 0;
   width: 100%;
@@ -305,14 +306,23 @@ a:active {
   justify-content: flex-start;
 }
 
-.page--events .event-block .center-media img {
+.page--events .event-block .center-media img,
+.page--classes .event-block .center-media img {
   width: 100%;
   height: auto;
   max-height: none;
 }
 
+.event-title {
+  font-size: 1rem;
+  font-weight: 700;
+  margin: 0 0 0.4rem 0;
+  color: var(--accent);
+  letter-spacing: 0.02em;
+}
+
 .event-text {
-  margin-top: 1rem;
+  margin-top: 0.25rem;
   font-size: 0.95rem;
   line-height: 1.6;
   width: 100%;
