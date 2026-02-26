@@ -307,7 +307,9 @@ a:active {
 }
 
 .page--events .event-block .center-media img,
-.page--classes .event-block .center-media img {
+.page--events .event-block .center-media video,
+.page--classes .event-block .center-media img,
+.page--classes .event-block .center-media video {
   width: 100%;
   height: auto;
   max-height: none;
