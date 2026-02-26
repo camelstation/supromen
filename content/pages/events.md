@@ -24,16 +24,11 @@ Status: published
 
   <div class="event-block">
     <div class="center-media">
-      <a href="https://www.eventbrite.com/e/supr-omen-studio-launch-tickets-1980390100100" target="_blank" rel="noopener">
-        <video src="/images/opening_flyer.mov" autoplay muted loop playsinline></video>
-      </a>
+      <video src="/images/opening_flyer.mov" autoplay muted loop playsinline></video>
     </div>
-    <div class="event-cta">
-      <a href="https://www.eventbrite.com/e/supr-omen-studio-launch-tickets-1980390100100"
-         target="_blank"
-         rel="noopener">
-        Click here for launch party details
-      </a>
+    <h3 class="event-title">Launch Party</h3>
+    <div class="event-text">
+      <p>1/31/26 SUPR OMEN is taking off</p>
     </div>
   </div>
 </div>
