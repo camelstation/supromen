@@ -319,6 +319,8 @@ a:active {
   margin: 0 0 0.4rem 0;
   color: var(--accent);
   letter-spacing: 0.02em;
+  width: 100%;
+  max-width: 480px;
 }
 
 .event-text {
@@ -327,6 +329,7 @@ a:active {
   line-height: 1.6;
   width: 100%;
   max-width: 480px;
+  text-align: justify;
 }
 
 .event-text a {
