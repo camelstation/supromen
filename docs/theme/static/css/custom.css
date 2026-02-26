@@ -271,6 +271,47 @@ a:active {
 }
 
 /* =========================
+   Events page sections
+   ========================= */
+
+.events-section {
+  margin-bottom: 2.5rem;
+}
+
+.events-section__heading {
+  color: var(--accent);
+  font-size: 0.85rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  margin: 0 0 1rem 0;
+  border-bottom: 1px solid var(--accent);
+  padding-bottom: 6px;
+}
+
+.event-block {
+  margin-bottom: 1.5rem;
+}
+
+/* Override flex: 1 for center-media inside event blocks */
+.page--events .event-block .center-media {
+  flex: 0 0 auto;
+  padding-top: 0;
+}
+
+.event-text {
+  margin-top: 1rem;
+  font-size: 0.95rem;
+  line-height: 1.6;
+  max-width: 640px;
+}
+
+.event-text a {
+  color: var(--accent);
+  text-decoration: underline;
+}
+
+/* =========================
    Events page text
    ========================= */
 
