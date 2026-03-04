@@ -340,6 +340,63 @@ a:active {
 }
 
 /* =========================
+   Pricing page
+   ========================= */
+
+.pricing-images {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 2rem;
+}
+
+.pricing-images img {
+  width: 50%;
+  height: auto;
+  display: block;
+}
+
+.pricing-intro {
+  margin-bottom: 2rem;
+  font-size: 0.95rem;
+  line-height: 1.6;
+  text-align: justify;
+}
+
+.pricing-intro a {
+  color: var(--accent);
+}
+
+.pricing-section {
+  margin-bottom: 2rem;
+}
+
+.pricing-section__heading {
+  color: var(--accent);
+  font-size: 0.85rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  margin: 0 0 1rem 0;
+  border-bottom: 1px solid var(--accent);
+  padding-bottom: 6px;
+}
+
+.pricing-text {
+  font-size: 0.95rem;
+  line-height: 1.6;
+  text-align: justify;
+}
+
+.pricing-contact {
+  margin-top: 0.75rem;
+  font-size: 0.9rem;
+}
+
+.pricing-contact a {
+  color: var(--accent);
+}
+
+/* =========================
    Events page text
    ========================= */
 

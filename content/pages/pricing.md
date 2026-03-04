@@ -1,0 +1,61 @@
+Title: Pricing
+Slug: pricing
+Url: pricing/
+Save_as: pricing/index.html
+Status: published
+
+<div class="pricing-images">
+  <img src="/images/Rehearsal_Space_1.jpg" alt="SUPR OMEN Rehearsal Space">
+  <img src="/images/Rehearsal_Space_3.jpg" alt="SUPR OMEN Rehearsal Space">
+</div>
+
+<div class="pricing-intro">
+  <p>SUPR OMEN is a 1000sf performance space adjoining 1000sf of semi-private studios. To enquire about renting a studio, please contact <a href="mailto:info@supromen.com">info@supromen.com</a>. SUPR OMEN is located two blocks from the Morgan L in Bushwick, Brooklyn.</p>
+</div>
+
+<div class="pricing-section">
+  <h2 class="pricing-section__heading">Rehearsal Memberships</h2>
+  <div class="pricing-text">
+    <p>Become a rehearsal space member for access to our 1000sf rehearsal space, equipment, facilities, access to the calendar to make bookings directly and opportunities to share work in our quarterly member cohort gatherings.</p>
+    <p>Full-membership $260/m for 20 hours<br>
+    Half-membership $130/m for 10 hours</p>
+    <p>Additional hours for members $13<br>
+    Rehearsal hours for non-members $15 (reach out to us for availability, priority is given to members so consider becoming one)</p>
+  </div>
+  <p class="pricing-contact"><a href="mailto:info@supromen.com">Contact >> info@supromen.com</a></p>
+</div>
+
+<div class="pricing-section">
+  <h2 class="pricing-section__heading">Classes, Workshops &amp; Auditions</h2>
+  <div class="pricing-text">
+    <p>Classes, workshops and auditions are rated at $35/hr. Speak to us if you are interested in hosting regular classes on a weekly, monthly and quarterly basis and we can advertise your class on our website, social media, newsletter and substack.</p>
+  </div>
+  <p class="pricing-contact"><a href="mailto:info@supromen.com">Contact >> info@supromen.com</a></p>
+</div>
+
+<div class="pricing-section">
+  <h2 class="pricing-section__heading">Performances</h2>
+  <div class="pricing-text">
+    <p>Using the space to present performances is rated at $50/hr with a four hour minimum. We have an audience capacity of 70 people with chairs and floor cushions provided. You can use available tech including 2x QSC K12 speakers with stands, a small mixer, 3 cardiod Pevey mics and a projector. All performance events are subject to a refundable security deposit.</p>
+  </div>
+  <p class="pricing-contact"><a href="mailto:info@supromen.com">Contact >> info@supromen.com</a></p>
+</div>
+
+<div class="pricing-section">
+  <h2 class="pricing-section__heading">Photography Sessions</h2>
+  <div class="pricing-text">
+    <p>1-3 people $35/hour | 4-5 people $40/hour<br>
+    6-9 people $45/hour | 10-11 people $60/hour<br>
+    12-13 people $85/hour | 14+ people $135/hour</p>
+    <p>Photography bookings have a two hour minimum. Reach out to us directly for commercial film shoots.</p>
+  </div>
+  <p class="pricing-contact"><a href="mailto:info@supromen.com">Contact >> info@supromen.com</a></p>
+</div>
+
+<div class="pricing-section">
+  <h2 class="pricing-section__heading">Pitch Us!</h2>
+  <div class="pricing-text">
+    <p>If you have a performance night or community gathering you need for space for, reach out to us!</p>
+  </div>
+  <p class="pricing-contact"><a href="mailto:info@supromen.com">Contact >> info@supromen.com</a></p>
+</div>
