@@ -346,7 +346,9 @@ a:active {
 .pricing-images {
   display: flex;
   gap: 8px;
-  margin-bottom: 2rem;
+  width: 100%;
+  max-width: 480px;
+  margin: 0 auto 2rem;
 }
 
 .pricing-images img {
@@ -356,7 +358,9 @@ a:active {
 }
 
 .pricing-intro {
-  margin-bottom: 2rem;
+  width: 100%;
+  max-width: 480px;
+  margin: 0 auto 2rem;
   font-size: 0.95rem;
   line-height: 1.6;
   text-align: justify;
@@ -382,13 +386,18 @@ a:active {
 }
 
 .pricing-text {
+  width: 100%;
+  max-width: 480px;
+  margin: 0 auto;
   font-size: 0.95rem;
   line-height: 1.6;
   text-align: justify;
 }
 
 .pricing-contact {
-  margin-top: 0.75rem;
+  width: 100%;
+  max-width: 480px;
+  margin: 0.75rem auto 0;
   font-size: 0.9rem;
 }
 
