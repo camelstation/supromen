@@ -375,13 +375,16 @@ a:active {
 }
 
 .pricing-section__heading {
-  font-size: 1.8rem;
-  font-weight: 700;
   color: var(--accent);
-  letter-spacing: 0.02em;
+  font-size: 0.85rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  border-bottom: 1px solid var(--accent);
+  padding-bottom: 6px;
   width: 100%;
   max-width: 720px;
-  margin: 0 auto 0.4rem;
+  margin: 0 auto 1rem;
 }
 
 .pricing-text {
