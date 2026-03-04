@@ -347,7 +347,7 @@ a:active {
   display: flex;
   gap: 8px;
   width: 100%;
-  max-width: 480px;
+  max-width: 720px;
   margin: 0 auto 2rem;
 }
 
@@ -359,7 +359,7 @@ a:active {
 
 .pricing-intro {
   width: 100%;
-  max-width: 480px;
+  max-width: 720px;
   margin: 0 auto 2rem;
   font-size: 0.95rem;
   line-height: 1.6;
@@ -375,19 +375,18 @@ a:active {
 }
 
 .pricing-section__heading {
-  color: var(--accent);
-  font-size: 0.85rem;
+  font-size: 1.8rem;
   font-weight: 700;
-  letter-spacing: 0.12em;
-  text-transform: uppercase;
-  margin: 0 0 1rem 0;
-  border-bottom: 1px solid var(--accent);
-  padding-bottom: 6px;
+  color: var(--accent);
+  letter-spacing: 0.02em;
+  width: 100%;
+  max-width: 720px;
+  margin: 0 auto 0.4rem;
 }
 
 .pricing-text {
   width: 100%;
-  max-width: 480px;
+  max-width: 720px;
   margin: 0 auto;
   font-size: 0.95rem;
   line-height: 1.6;
@@ -396,7 +395,7 @@ a:active {
 
 .pricing-contact {
   width: 100%;
-  max-width: 480px;
+  max-width: 720px;
   margin: 0.75rem auto 0;
   font-size: 0.9rem;
 }
