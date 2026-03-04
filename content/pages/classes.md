@@ -23,7 +23,7 @@ Status: published
     </div>
     <h3 class="event-title">Yoga with Amelia</h3>
     <div class="event-text">
-      <p>3/17/26 &amp; 3/31/26 Studio member <a href="https://www.ameliakh.com/teaching" target="_blank" rel="noopener">Amelia Heitzelman</a> will be teaching two non-relaxing Yoga classes on Tuesdays at 7pm on March 17th and March 31st. BYO yoga mat and pay with cash or Venmo at the door, $15-30 sliding scale.</p>
+      <p>3/17/26 &amp; 3/31/26 Studio member <a href="https://www.ameliakh.com/" target="_blank" rel="noopener">Amelia Heitzelman</a> will be teaching two non-relaxing Yoga classes on Tuesdays at 7pm on March 17th and March 31st. BYO yoga mat and pay with cash or Venmo at the door, $15-30 sliding scale.</p>
     </div>
   </div>
 
