@@ -451,10 +451,27 @@ a:active {
   cursor: pointer;
 }
 
+.shop-dots {
+  display: flex;
+  gap: 5px;
+  margin-top: 6px;
+}
+
+.shop-dot {
+  width: 4px;
+  height: 4px;
+  border-radius: 50%;
+  background: #3a3a3a;
+}
+
+.shop-dot--active {
+  background: #666;
+}
+
 .shop-price {
   color: var(--text);
   font-size: 0.9rem;
-  margin: 6px 0 0 0;
+  margin: 5px 0 0 0;
   text-align: left;
 }
 
