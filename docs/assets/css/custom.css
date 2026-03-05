@@ -408,6 +408,70 @@ a:active {
 }
 
 /* =========================
+   Shop page
+   ========================= */
+
+.shop-header {
+  max-width: 700px;
+  margin: 0 auto 2rem;
+  text-align: center;
+}
+
+.shop-heading {
+  color: var(--accent);
+  font-size: 1.6rem;
+  font-weight: 700;
+  margin: 0 0 1rem 0;
+}
+
+.shop-intro {
+  font-size: 0.95rem;
+  line-height: 1.6;
+  color: var(--text);
+  margin: 0 0 0.5rem 0;
+}
+
+.shop-intro a {
+  color: var(--text);
+  text-decoration: underline;
+}
+
+.shop-subtext {
+  font-size: 0.8rem;
+  color: #999;
+  margin: 0;
+}
+
+.shop-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 24px;
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+.shop-item img {
+  width: 100%;
+  height: auto;
+  display: block;
+  cursor: pointer;
+}
+
+.shop-price {
+  color: var(--text);
+  font-size: 0.9rem;
+  margin: 6px 0 0 0;
+  text-align: center;
+}
+
+@media (max-width: 480px) {
+  .shop-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 12px;
+  }
+}
+
+/* =========================
    Events page text
    ========================= */
 
