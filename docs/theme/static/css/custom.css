@@ -449,6 +449,7 @@ a:active {
   height: auto;
   display: block;
   cursor: pointer;
+  mix-blend-mode: multiply;
 }
 
 .shop-dots {
