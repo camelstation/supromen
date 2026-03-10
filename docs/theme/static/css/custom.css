@@ -411,15 +411,16 @@ a:active {
    Team page
    ========================= */
 
-.team-heading {
-  color: var(--accent);
-  font-size: 1.6rem;
-  font-weight: 700;
-  margin: 0 0 2rem 0;
-  width: 100%;
+.team-graphic {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 2rem;
+}
+
+.team-graphic img {
   max-width: 720px;
-  margin-left: auto;
-  margin-right: auto;
+  width: 100%;
+  height: auto;
   display: block;
 }
 
@@ -427,6 +428,7 @@ a:active {
   width: 100%;
   max-width: 720px;
   margin: 0 auto;
+  text-align: center;
 }
 
 .team-entry {

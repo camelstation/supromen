@@ -4,7 +4,9 @@ Url: team/
 Save_as: team/index.html
 Status: published
 
-<h1 class="team-heading">SUPR OMEN Team</h1>
+<div class="team-graphic">
+  <img src="/images/supromen_team_graphic.png" alt="SUPR OMEN Team">
+</div>
 
 <div class="team-list">
 
