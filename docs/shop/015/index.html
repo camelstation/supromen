@@ -1,0 +1,102 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Item 015 | supromen</title>
+
+  <link rel="stylesheet" href="/assets/css/reset.css">
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/custom.css?v=4">
+</head>
+
+<body class="page page--shop-item">
+  <div class="frame">
+
+    <details class="nav">
+      <summary class="nav__summary">≡SUPR OMEN≡</summary>
+      <nav class="nav__panel">
+        <a class="nav__link" href="/home/">Home</a>
+        <a class="nav__link" href="/events/">Events</a>
+        <a class="nav__link" href="/classes/">Classes</a>
+        <a class="nav__link" href="/pricing/">Pricing</a>
+        <a class="nav__link" href="/team/">Team</a>
+        <a class="nav__link" href="/history/">History</a>
+      </nav>
+    </details>
+
+
+    <main class="content">
+
+<div class="siv">
+  <div class="siv-image-wrap">
+    <img id="siv-img"
+         src="/images/Merch/015_1.webp"
+         data-images="/images/Merch/015_1.webp,/images/Merch/015_2.webp,/images/Merch/015_3.webp,/images/Merch/015_4.webp"
+         data-idx="0"
+         alt="Item 015">
+    <button class="siv-arrow siv-arrow--prev" onclick="sivShift(-1)">&#8249;</button>
+    <button class="siv-arrow siv-arrow--next" onclick="sivShift(1)">&#8250;</button>
+  </div>
+
+  <div class="siv-dots" id="siv-dots">
+    <span class="siv-dot siv-dot--active"></span>
+    <span class="siv-dot"></span>
+    <span class="siv-dot"></span>
+    <span class="siv-dot"></span>
+  </div>
+
+  <div class="siv-meta">
+    <span class="siv-number">015</span>
+    <span class="siv-price">$35</span>
+  </div>
+</div>
+
+<script>
+var sivTouchX = 0;
+
+function sivShift(dir) {
+  var img = document.getElementById('siv-img');
+  var images = img.getAttribute('data-images').split(',');
+  var idx = parseInt(img.getAttribute('data-idx'));
+  idx = ((idx + dir) % images.length + images.length) % images.length;
+  img.setAttribute('data-idx', idx);
+  img.src = images[idx];
+  var dots = document.querySelectorAll('.siv-dot');
+  for (var i = 0; i < dots.length; i++) {
+    dots[i].classList.toggle('siv-dot--active', i === idx);
+  }
+}
+
+document.addEventListener('DOMContentLoaded', function() {
+  var wrap = document.querySelector('.siv-image-wrap');
+  if (!wrap) return;
+
+  wrap.addEventListener('touchstart', function(e) {
+    sivTouchX = e.touches[0].clientX;
+  }, { passive: true });
+
+  wrap.addEventListener('touchend', function(e) {
+    var dx = e.changedTouches[0].clientX - sivTouchX;
+    if (Math.abs(dx) > 40) sivShift(dx < 0 ? 1 : -1);
+  });
+
+  document.addEventListener('keydown', function(e) {
+    if (e.key === 'ArrowLeft') sivShift(-1);
+    if (e.key === 'ArrowRight') sivShift(1);
+  });
+});
+</script>
+    </main>
+ 
+    <footer class="site-footer">
+      <a href="https://instagram.com/supr_omen/" target="_blank" rel="noopener">INSTAGRAM</a>
+      <span class="footer-sep">|</span>
+      <a href="https://supromen.substack.com/" target="_blank" rel="noopener">SUBSTACK</a>
+      <span class="footer-sep">|</span>
+      <a href="mailto:info@supromen.com">CONTACT</a>
+    </footer>
+
+  </div>
+</body>
+</html>

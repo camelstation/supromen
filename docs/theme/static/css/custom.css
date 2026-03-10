@@ -451,7 +451,7 @@ a:active {
 }
 
 /* =========================
-   Shop page
+   Shop page: editorial grid
    ========================= */
 
 .shop-header {
@@ -479,140 +479,149 @@ a:active {
   text-decoration: underline;
 }
 
-.shop-grid {
+.shop-grid-editorial {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  gap: 24px;
-  max-width: 1100px;
+  gap: 5px;
+  max-width: 1200px;
   margin: 0 auto;
 }
 
-.shop-img-wrap {
-  position: relative;
+.shop-thumb {
+  display: block;
   overflow: hidden;
+  aspect-ratio: 1;
+  cursor: pointer;
+  text-decoration: none;
 }
 
-.shop-item img {
+.shop-thumb img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+  transition: opacity 0.2s;
+}
+
+.shop-thumb:hover img {
+  opacity: 0.8;
+}
+
+/* Editorial pattern: items at positions 4, 7, 11, 14, 18, 21 span 2 columns
+   Creates alternating wide-left / wide-right rows with normal rows between */
+.shop-thumb:nth-child(4),
+.shop-thumb:nth-child(11),
+.shop-thumb:nth-child(18) {
+  grid-column: span 2;
+}
+
+.shop-thumb:nth-child(7),
+.shop-thumb:nth-child(14),
+.shop-thumb:nth-child(21) {
+  grid-column: span 2;
+}
+
+@media (max-width: 600px) {
+  .shop-grid-editorial {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 3px;
+  }
+  .shop-thumb {
+    grid-column: span 1 !important;
+  }
+}
+
+/* =========================
+   Shop item viewer (detail page)
+   ========================= */
+
+.siv {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 12px;
+}
+
+.siv-image-wrap {
+  position: relative;
+  width: 100%;
+  max-width: 680px;
+}
+
+.siv-image-wrap img {
   width: 100%;
   height: auto;
   display: block;
-  cursor: pointer;
 }
 
-.shop-arrow {
+.siv-arrow {
   position: absolute;
   top: 50%;
   transform: translateY(-50%);
-  background: rgba(0, 0, 0, 0.35);
+  background: rgba(0, 0, 0, 0.4);
   border: none;
-  color: rgba(255, 255, 255, 0.75);
-  font-size: 1.4rem;
+  color: rgba(255, 255, 255, 0.8);
+  font-size: 2.4rem;
   line-height: 1;
-  padding: 6px 8px;
+  padding: 8px 14px;
   cursor: pointer;
   opacity: 0;
   transition: opacity 0.15s;
   z-index: 1;
 }
 
-.shop-item:hover .shop-arrow {
+.siv-image-wrap:hover .siv-arrow {
   opacity: 1;
 }
 
-.shop-arrow--prev { left: 0; }
-.shop-arrow--next { right: 0; }
+.siv-arrow--prev { left: 0; }
+.siv-arrow--next { right: 0; }
 
-.lightbox {
-  display: none;
-  position: fixed;
-  inset: 0;
-  background: rgba(0, 0, 0, 0.93);
-  z-index: 1000;
-  align-items: center;
+.siv-dots {
+  display: flex;
+  gap: 6px;
+  margin-top: 10px;
   justify-content: center;
 }
 
-.lightbox.is-open {
-  display: flex;
-}
-
-.lightbox-img {
-  max-width: 90vw;
-  max-height: 90vh;
-  object-fit: contain;
-  display: block;
-}
-
-.lightbox-close {
-  position: absolute;
-  top: 16px;
-  right: 20px;
-  background: none;
-  border: none;
-  color: rgba(255, 255, 255, 0.7);
-  font-size: 1.4rem;
-  cursor: pointer;
-  line-height: 1;
-}
-
-.lightbox-close:hover {
-  color: #fff;
-}
-
-.lightbox-arrow {
-  position: absolute;
-  top: 50%;
-  transform: translateY(-50%);
-  background: none;
-  border: none;
-  color: rgba(255, 255, 255, 0.5);
-  font-size: 3rem;
-  line-height: 1;
-  cursor: pointer;
-  padding: 16px;
-  transition: color 0.15s;
-}
-
-.lightbox-arrow:hover {
-  color: rgba(255, 255, 255, 0.9);
-}
-
-.lightbox-arrow--prev { left: 8px; }
-.lightbox-arrow--next { right: 8px; }
-
-@media (max-width: 600px) {
-  .lightbox-arrow { display: none; }
-}
-
-.shop-dots {
-  display: flex;
-  gap: 5px;
-  margin-top: 6px;
-}
-
-.shop-dot {
-  width: 4px;
-  height: 4px;
+.siv-dot {
+  width: 5px;
+  height: 5px;
   border-radius: 50%;
   background: #3a3a3a;
 }
 
-.shop-dot--active {
-  background: #666;
+.siv-dot--active {
+  background: var(--accent);
 }
 
-.shop-price {
+.siv-meta {
+  margin-top: 16px;
+  display: flex;
+  gap: 16px;
+  align-items: baseline;
+}
+
+.siv-number {
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--accent);
+}
+
+.siv-price {
+  font-size: 1rem;
   color: var(--text);
-  font-size: 0.9rem;
-  margin: 5px 0 0 0;
-  text-align: left;
 }
 
-@media (max-width: 600px) {
-  .shop-grid {
-    grid-template-columns: 1fr;
-    gap: 16px;
-  }
+.siv-desc {
+  font-size: 0.9rem;
+  color: var(--text);
+  margin: 12px 0 0;
+  max-width: 480px;
+  line-height: 1.6;
+  text-align: center;
 }
 
 /* =========================
