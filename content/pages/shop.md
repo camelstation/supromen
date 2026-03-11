@@ -6,7 +6,7 @@ Status: published
 
 <div class="shop-header">
   <h1 class="shop-heading">SUPR OMEN Merch is For Sale</h1>
-  <p class="shop-intro">Email <a href="mailto:info@supromen.com">info@supromen.com</a> to place your order and include a screenshot of the item/s you want. Shipping: US $10 | International $30 | Pickup always free</p>
+  <p class="shop-intro">Email <a href="mailto:info@supromen.com">info@supromen.com</a> to place your order.</p>
 </div>
 
 <div class="shop-grid-editorial">

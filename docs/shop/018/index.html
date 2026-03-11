@@ -29,63 +29,17 @@
     <main class="content">
 
 <div class="siv">
-  <div class="siv-image-wrap">
-    <img id="siv-img"
-         src="/images/Merch/018_1.webp"
-         data-images="/images/Merch/018_1.webp,/images/Merch/018_2.webp,/images/Merch/018_3.webp"
-         data-idx="0"
-         alt="Item 018">
-    <button class="siv-arrow siv-arrow--prev" onclick="sivShift(-1)">&#8249;</button>
-    <button class="siv-arrow siv-arrow--next" onclick="sivShift(1)">&#8250;</button>
+  <div class="siv-stack">
+    <img src="/images/Merch/018_1.webp" alt="Item 018">
+    <img src="/images/Merch/018_2.webp" alt="Item 018">
+    <img src="/images/Merch/018_3.webp" alt="Item 018">
   </div>
 
-  <div class="siv-dots" id="siv-dots">
-    <span class="siv-dot siv-dot--active"></span>
-    <span class="siv-dot"></span>
-    <span class="siv-dot"></span>
-  </div>
-
-  <div class="siv-meta">
-    <span class="siv-number">018</span>
-    <span class="siv-price">$35</span>
+  <div class="siv-info">
+    <p class="siv-meta-line">$35 | Description placeholder | Item #018</p>
+    <p class="siv-shipping">Shipping: US $10 | International $30 | Pickup always free. Email <a href="mailto:info@supromen.com">info@supromen.com</a> with the item number (e.g., #018) to place your order.</p>
   </div>
 </div>
-
-<script>
-var sivTouchX = 0;
-
-function sivShift(dir) {
-  var img = document.getElementById('siv-img');
-  var images = img.getAttribute('data-images').split(',');
-  var idx = parseInt(img.getAttribute('data-idx'));
-  idx = ((idx + dir) % images.length + images.length) % images.length;
-  img.setAttribute('data-idx', idx);
-  img.src = images[idx];
-  var dots = document.querySelectorAll('.siv-dot');
-  for (var i = 0; i < dots.length; i++) {
-    dots[i].classList.toggle('siv-dot--active', i === idx);
-  }
-}
-
-document.addEventListener('DOMContentLoaded', function() {
-  var wrap = document.querySelector('.siv-image-wrap');
-  if (!wrap) return;
-
-  wrap.addEventListener('touchstart', function(e) {
-    sivTouchX = e.touches[0].clientX;
-  }, { passive: true });
-
-  wrap.addEventListener('touchend', function(e) {
-    var dx = e.changedTouches[0].clientX - sivTouchX;
-    if (Math.abs(dx) > 40) sivShift(dx < 0 ? 1 : -1);
-  });
-
-  document.addEventListener('keydown', function(e) {
-    if (e.key === 'ArrowLeft') sivShift(-1);
-    if (e.key === 'ArrowRight') sivShift(1);
-  });
-});
-</script>
     </main>
  
     <footer class="site-footer">
