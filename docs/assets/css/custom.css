@@ -462,7 +462,7 @@ a:active {
 
 .shop-heading {
   color: var(--accent);
-  font-size: 1.6rem;
+  font-size: 3.2rem;
   font-weight: 700;
   margin: 0 0 1rem 0;
 }
@@ -500,11 +500,17 @@ a:active {
   height: 100%;
   object-fit: cover;
   display: block;
-  transition: opacity 0.2s;
 }
 
-.shop-thumb:hover img {
-  opacity: 0.8;
+.shop-thumb:hover {
+  cursor: pointer;
+}
+
+.shop-thumb,
+.shop-thumb:focus,
+.shop-thumb:active {
+  -webkit-tap-highlight-color: transparent;
+  outline: none;
 }
 
 /* Editorial pattern: items at positions 4, 7, 11, 14, 18, 21 span 2 columns
