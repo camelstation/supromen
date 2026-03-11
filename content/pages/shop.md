@@ -5,8 +5,7 @@ Save_as: shop/index.html
 Status: published
 
 <div class="shop-header">
-  <h1 class="shop-heading">SUPR OMEN Merch is For Sale</h1>
-  <p class="shop-intro">Email <a href="mailto:info@supromen.com">info@supromen.com</a> to place your order.</p>
+  <h1 class="shop-heading">SUPR OMEN Merch For Sale</h1>
 </div>
 
 <div class="shop-grid-editorial">

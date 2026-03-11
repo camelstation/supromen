@@ -554,25 +554,18 @@ a:active {
 }
 
 .siv-info {
-  margin-top: 16px;
+  margin-top: 20px;
 }
 
-.siv-meta-line {
-  font-size: 0.9rem;
-  color: var(--text);
-  margin: 0 0 8px;
-}
-
-.siv-shipping {
-  font-size: 0.85rem;
-  color: var(--text);
-  opacity: 0.7;
-  margin: 0;
+.siv-info p {
+  font-size: 1.1em;
+  color: #fff;
+  margin: 0 0 0.6em;
   line-height: 1.5;
 }
 
-.siv-shipping a {
-  color: var(--accent);
+.siv-info a {
+  color: #fff;
   text-decoration: underline;
 }
 
