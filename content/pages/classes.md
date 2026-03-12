@@ -7,11 +7,11 @@ Status: published
 <div class="events-section">
   <h2 class="events-section__heading">Upcoming Classes</h2>
 
-  <div class="event-block">
+  <div class="event-block" id="meditation-sessions">
     <div class="center-media">
       <img src="/images/MeditationSessions.jpg" alt="Monday Meditation Sessions">
     </div>
-    <h3 class="event-title" id="meditation-sessions">Monday Meditation Sessions</h3>
+    <h3 class="event-title">Monday Meditation Sessions</h3>
     <div class="event-text">
       <p>Mondays at 7pm | Artist Jemila MacEwan will be hosting meditation sessions every Monday at 7pm in the tranquil performance space. These sessions will take a practical and creative approach to meditation. Each week will focus on a different aspect of diverse meditation practices. This class is ideal for anyone interested in learning different approaches to meditation, or who have had difficulty getting into meditation in the past. Meditation mats and cushions supplied. $10+ sliding scale. Purchase in advance to guarantee entry or pay at the door. <a href="https://withfriends.events/event/PQyL4ikz/monday-meditation-sessions/" target="_blank" rel="noopener">Sign up here!</a></p>
     </div>
