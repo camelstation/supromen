@@ -7,6 +7,11 @@ Status: published
 <div class="events-section">
   <h2 class="events-section__heading">Upcoming Events</h2>
 
+</div>
+
+<div class="events-section">
+  <h2 class="events-section__heading">Past Events</h2>
+
   <div class="event-block">
     <div class="center-media">
       <img src="/images/RINSE_March13.jpg" alt="RINSE: Works in Progress – March 13">
@@ -17,10 +22,6 @@ Status: published
       <p>The March 13th program will feature visual artist Lemuel E. Saputra, theatre maker Matt Romein, performance artist Sonya Molansky, and comic writer Natalie Raskin.</p>
     </div>
   </div>
-</div>
-
-<div class="events-section">
-  <h2 class="events-section__heading">Past Events</h2>
 
   <div class="event-block">
     <div class="center-media">
