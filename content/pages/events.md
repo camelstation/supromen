@@ -7,6 +7,16 @@ Status: published
 <div class="events-section">
   <h2 class="events-section__heading">Upcoming Events</h2>
 
+  <div class="event-block">
+    <div class="center-media">
+      <img src="/images/PracticeSpace-Flyer.jpg" alt="Start Out: A night of spontaneous performance">
+    </div>
+    <h3 class="event-title">Start Out: A night of spontaneous performance</h3>
+    <div class="event-text">
+      <p>4/11/26, 7-10pm | We need your help to launch a revamped iteration of Practice Space. Please come perform and party with us to make it happen. Start Out is a lottery-style show where participants are randomly selected to enact impromptu performances. Tickets include one lottery entry if you dare. Drinks and merch for sale. All proceeds will go towards supporting a new iteration of Practice Space. Performances start at 8pm. Tickets available now</p>
+    </div>
+  </div>
+
 </div>
 
 <div class="events-section">
