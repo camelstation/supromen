@@ -9,11 +9,19 @@ Status: published
 
   <div class="event-block">
     <div class="center-media">
-      <img src="/images/AlwaysHuman.jpg" alt="Always Human Research Group">
+      <img src="/images/Bug_graphic.png" alt="Body Wash: Bug">
     </div>
-    <h3 class="event-title">Always Human Research Group</h3>
+    <h3 class="event-title">Body Wash: Bug</h3>
     <div class="event-text">
-      <p>3/28/26 | Monthly Workshop/Knowledge Creation with the (ARI) Saturday, March 28th Ari Elefterin will present Touch Tools, a workshop on skin hunger and the absurdity of having a body. Free to participate and open to all. If interested, <a href="https://www.instagram.com/p/DUn4-feESg4/?img_index=1" target="_blank" rel="noopener">please see more information here</a>.</p>
+      <p>4/11/2026 | Body Wash is a 90 minute creative movement session hosted by Maya Rubio. This iteration is inspired by bugs - their unique movement qualities, sensorial experiences, and range of other characteristics. Drop in and find your bug dance!</p>
+      <p>Participants can expect:</p>
+      <ul>
+        <li>20 min guided warm-up</li>
+        <li>30 min creative movement container (music plays + participants invited to move freely, using bug-inspired props and prompts as inspiration)</li>
+        <li>20 min journaling</li>
+        <li>20 min final circle</li>
+      </ul>
+      <p>Participants should dress comfortably for movement. Please bring a journal and a water bottle if you'd like. FREE to join — RSVP to <a href="mailto:maya.rubio@gmail.com">maya.rubio@gmail.com</a> or DM <a href="https://www.instagram.com/_body_wash/" target="_blank" rel="noopener">@_body_wash</a> on Instagram.</p>
     </div>
   </div>
 
@@ -30,6 +38,16 @@ Status: published
 
 <div class="events-section">
   <h2 class="events-section__heading">Past Classes</h2>
+
+  <div class="event-block">
+    <div class="center-media">
+      <img src="/images/AlwaysHuman.jpg" alt="Always Human Research Group">
+    </div>
+    <h3 class="event-title">Always Human Research Group</h3>
+    <div class="event-text">
+      <p>3/28/26 | Monthly Workshop/Knowledge Creation with the (ARI) Saturday, March 28th Ari Elefterin will present Touch Tools, a workshop on skin hunger and the absurdity of having a body. Free to participate and open to all. If interested, <a href="https://www.instagram.com/p/DUn4-feESg4/?img_index=1" target="_blank" rel="noopener">please see more information here</a>.</p>
+    </div>
+  </div>
 
   <div class="event-block">
     <div class="center-media">
