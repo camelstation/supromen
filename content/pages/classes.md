@@ -13,7 +13,7 @@ Status: published
     </div>
     <h3 class="event-title">Body Wash: Bug</h3>
     <div class="event-text">
-      <p>4/11/2026 from 11:15am to 12:45pm | Body Wash is a 90 minute creative movement session hosted by Maya Rubio. This iteration is inspired by bugs – their unique movement qualities, sensorial experiences, and range of other characteristics. Drop in and find your bug dance!</p>
+      <p>4/11/2026 11:15-12:45pm | Body Wash is a 90 minute creative movement session hosted by Maya Rubio. This iteration is inspired by bugs – their unique movement qualities, sensorial experiences, and range of other characteristics. Drop in and find your bug dance!</p>
       <p>Participants can expect:</p>
       <ul>
         <li>20 min guided warm-up</li>
