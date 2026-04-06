@@ -507,7 +507,21 @@ a:active {
 
 @media (max-width: 600px) {
   .shop-grid-editorial {
-    column-count: 2;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    column-count: unset;
+    gap: 6px;
+  }
+  .shop-grid-editorial .shop-thumb {
+    break-inside: unset;
+    margin-bottom: 0;
+    width: 100%;
+  }
+  .shop-grid-editorial .shop-thumb img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
   }
 }
 
