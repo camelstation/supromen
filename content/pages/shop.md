@@ -23,12 +23,12 @@ Status: published
   <a class="shop-thumb" href="/shop/012/"><img src="/images/Merch/012_1.webp" alt="Item 012"></a>
   <a class="shop-thumb" href="/shop/013/"><img src="/images/Merch/013_1.webp" alt="Item 013"></a>
   <a class="shop-thumb" href="/shop/014/"><img src="/images/Merch/014_1.webp" alt="Item 014"></a>
-  <a class="shop-thumb" href="/shop/015/"><img src="/images/Merch/015_1.webp" alt="Item 015"></a>
+  <a class="shop-thumb sold" href="/shop/015/"><img src="/images/Merch/015_1.webp" alt="Item 015"></a>
   <a class="shop-thumb" href="/shop/016/"><img src="/images/Merch/016_1.webp" alt="Item 016"></a>
   <a class="shop-thumb" href="/shop/017/"><img src="/images/Merch/017_1.webp" alt="Item 017"></a>
   <a class="shop-thumb" href="/shop/018/"><img src="/images/Merch/018_1.webp" alt="Item 018"></a>
   <a class="shop-thumb" href="/shop/019/"><img src="/images/Merch/019_1.webp" alt="Item 019"></a>
-  <a class="shop-thumb" href="/shop/020/"><img src="/images/Merch/020_1.webp" alt="Item 020"></a>
+  <a class="shop-thumb sold" href="/shop/020/"><img src="/images/Merch/020_1.webp" alt="Item 020"></a>
   <a class="shop-thumb" href="/shop/021/"><img src="/images/Merch/021_1.webp" alt="Item 021"></a>
   <a class="shop-thumb" href="/shop/022/"><img src="/images/Merch/022_1.webp" alt="Item 022"></a>
   <a class="shop-thumb sold" href="/shop/023/"><img src="/images/Merch/023_1.webp" alt="Item 023"></a>
