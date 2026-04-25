@@ -25,7 +25,7 @@ Status: published
     <div class="center-media">
       <img src="/images/Drift-Maxine.webp" alt="Axine M &amp; Solid Choir">
     </div>
-    <h3 class="event-title">Axine M &amp; Solid Choir</h3>
+    <h3 class="event-title" id="axine-m-solid-choir">Axine M &amp; Solid Choir</h3>
     <div class="event-text">
       <p>5/14/26 at 7pm and 5/16/26 at 6pm | SUPR OMEN welcomes Axine M &amp; Solid Choir on May 14 &amp; 16 as the premier performance for Drift, a monthly program at SUPR OMEN showcasing live-works by artists who push to the edge of the edge of their discipline.</p>
       <p>Over two nights, Axine M presents a solo guitar and vocal set followed by the premiere of Solid Choir performing three-part vocal arrangements of Maxine's original songs.</p>
