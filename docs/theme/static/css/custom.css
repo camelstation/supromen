@@ -698,3 +698,31 @@ body.page--shop-item .frame {
   margin-bottom: 0;
   line-height: 1.7;
 }
+
+
+/* =========================
+   Drift page
+   ========================= */
+
+body.page--drift {
+  background-image: url('/images/Test.webp');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  min-height: 100vh;
+}
+
+.drift-content {
+  background: rgba(0, 0, 0, 0.6);
+  padding: 40px;
+  border-radius: 4px;
+  max-width: 800px;
+  margin: 40px auto;
+}
+
+.drift-content p {
+  font-size: 0.95rem;
+  line-height: 1.6;
+  color: var(--text);
+  margin: 0 0 1em;
+}
