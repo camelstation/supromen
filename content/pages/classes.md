@@ -17,17 +17,17 @@ Status: published
       <p>Practice Space is a series inviting artists to share their improvisational performance practices. The accumulation of these scores will build into an improvised performance open to the public on July 6.</p>
       <p>You can choose to attend single sessions based on your schedule and interest, but you are encouraged to participate in as many workshops as possible, so we can build a vocabulary together.</p>
       <p>Single sessions are sliding scale $15-25. Get a bundle and save: all of May for $50-75, all of June for $60-85, or all sessions (including performance) for $100-200. Please pay what you can, and let us know if cost is a barrier — no one will be turned away for lack of funds.</p>
-      <p>WHEN &amp; WHO:<br>
+      <p>WHEN &amp; WHO<br>
       Doors at 6pm. Session from 6:30 - 8:30pm.</p>
       <p>TUESDAY May 5 → Tamás Marquardt<br>
       TUESDAY May 12 → Kayvon Pourazar<br>
-      TUESDAY MAY 19 → Liony Garcia<br>
+      TUESDAY May 19 → Liony Garcia<br>
       TUESDAY May 26 → evan ray suzuki<br>
+      MONDAY June 1 → James Barrett<br>
       MONDAY June 8 → Marguerite Hemmings<br>
-      MONDAY June 11 → James Barrett<br>
       MONDAY June 15 → Practice Space Team (Nora Raine Thompson, Chloë Engel, Neva Guido, Rose Cole-Cohen)<br>
       MONDAY June 22 → Jo Warren<br>
-      MONDAY June 26 → Kris Lee<br>
+      MONDAY June 29 → Kris Lee<br>
       MONDAY July 6 → PERFORMANCE NITE!</p>
     </div>
   </div>
