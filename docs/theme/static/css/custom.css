@@ -704,8 +704,8 @@ body.page--shop-item .frame {
    Drift page
    ========================= */
 
-body.page--drift {
-  background-image: url('/images/Test.webp');
+body.page--pillar-programs {
+  background-image: url('/images/pillar-programs.webp');
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
