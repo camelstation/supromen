@@ -1,10 +1,10 @@
-Title: Pillar Programs
-Slug: pillar-programs
-Url: pillar-programs/
-Save_as: pillar-programs/index.html
+Title: Curatorial Programs
+Slug: curatorial-programs
+Url: curatorial-programs/
+Save_as: curatorial-programs/index.html
 Status: published
 
-<h1 class="shop-heading" style="text-align: center; margin: 40px 0 0;">Pillar Programs</h1>
+<h1 class="shop-heading" style="text-align: center; margin: 40px 0 0;">Curatorial Programs</h1>
 
 <div class="drift-content">
   <h2 class="shop-heading">DRIFT</h2>
@@ -17,8 +17,8 @@ Status: published
   <h2 class="shop-heading">PITCH</h2>
   <p>Pitch is a monthly program presented by SUPR OMEN showcasing performances by early career dance makers, curated by emerging dance curators.</p>
   <p>Curators work solo or in teams to produce and present a season of three performances. Curators are encouraged to use the opportunity to work with emerging artists they would like to build long-term collaborative partnerships with and to develop their own curatorial approach to presenting dance. The philosophy behind the program is to create a way for emerging artists to support and invest in each other by building meaningful relationships in a field that often promotes competition over community.</p>
-  <p>The first season of Pitch is curated by <a href="https://www.instagram.com/bellathorpewoods/" target="_blank" rel="noopener">Bella Thorpe Woods</a> and <a href="https://norarainethompson.org/about/" target="_blank" rel="noopener">Nora Thompson</a>.</p>
-  <p>Curators are selected by nomination. If you would like to nominate a curator, please email <a href="mailto:info@supromen.com">info@supromen.com</a>.</p>
+  <p>The first season of Pitch is curated by <a href="https://www.instagram.com/bellathorpewoods/" target="_blank" rel="noopener" style="text-decoration: underline;">Bella Thorpe Woods</a> and <a href="https://norarainethompson.org/about/" target="_blank" rel="noopener" style="text-decoration: underline;">Nora Thompson</a>.</p>
+  <p>Curators are selected by nomination. If you would like to nominate a curator, please email <a href="mailto:info@supromen.com" style="text-decoration: underline;">info@supromen.com</a>.</p>
 </div>
 
 <div class="drift-content">
