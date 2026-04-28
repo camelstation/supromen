@@ -15,7 +15,7 @@ Status: published
 
 <div class="drift-content">
   <h2 class="shop-heading">PITCH</h2>
-  <p>Pitch is a monthly program presented by SUPR OMEN showcasing performances by early career dance makers, curated by emerging dance curators.</p>
+  <p>Pitch is a monthly program presented by SUPR OMEN showcasing performances by early career dance &amp; performance makers, curated by emerging dance &amp; performance curators and makers.</p>
   <p>Curators work solo or in teams to produce and present a season of three performances. Curators are encouraged to use the opportunity to work with emerging artists they would like to build long-term collaborative partnerships with and to develop their own curatorial approach to presenting dance. The philosophy behind the program is to create a way for emerging artists to support and invest in each other by building meaningful relationships in a field that often promotes competition over community.</p>
   <p>The first season of Pitch is curated by <a href="https://www.instagram.com/bellathorpewoods/" target="_blank" rel="noopener" style="text-decoration: underline;">Bella Thorpe Woods</a> and <a href="https://norarainethompson.org/about/" target="_blank" rel="noopener" style="text-decoration: underline;">Nora Thompson</a>.</p>
   <p>Curators are selected by nomination. If you would like to nominate a curator, please email <a href="mailto:info@supromen.com" style="text-decoration: underline;">info@supromen.com</a>.</p>
@@ -23,6 +23,6 @@ Status: published
 
 <div class="drift-content">
   <h2 class="shop-heading">RINSE</h2>
-  <p>Rinse is a quarterly work-in-progress event highlighting artists of all disciplines in 10-minute showings of developing ideas. Inspired by cross-genre dialogue. Curated by C. Francis Fischer.</p>
+  <p>Rinse is a quarterly work-in-progress event presented by SUPR OMEN highlighting artists of all disciplines in 10-minute showings of developing ideas. Inspired by cross-genre dialogue. Curated by C. Francis Fischer.</p>
   <p>Featured artists include Jerry Leiblich, Matt Romein, Sonya Molansky, Natalie Raskin, E. Adamo, Jimin Seo, Lemuel E. Saputra &amp; Noah Wertheimer.</p>
 </div>
