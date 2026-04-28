@@ -79,7 +79,7 @@ a:active {
 /* Dropdown panel: full width inside the frame */
 .nav__panel {
   margin-top: 10px;
-  background: var(--bg);
+  background: rgba(0, 0, 0, 0.3);
   position: static;
   left: auto;
   right: auto;
