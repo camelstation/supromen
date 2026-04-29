@@ -7,7 +7,7 @@ Status: published
 <div class="events-section">
   <h2 class="events-section__heading">Upcoming Events</h2>
 
-  <div class="event-block">
+  <div class="event-block" id="liminal-waves">
     <div class="center-media">
       <img src="/images/Kanami-LiminalWaves.jpeg" alt="Liminal Waves">
     </div>
@@ -32,6 +32,19 @@ Status: published
       <p>Axine M is a container for the musical impulses of Maxine de las Pozas. Born in Miami, seasoned by East Coast DIY, and based in Brooklyn. Axine M's Bored Giant Engine Sputter was released in 2025 on anno records. She was a 2024 Issue Project Room Artist in Residence. Maxine works as a Technical Director and Sound Engineer.</p>
       <p>Solid Choir is a choir and also a group chat comprised of Ali Carter, Martina Gordon, Lea Jaffe, Leni Kreienberg, Christina Lan, Tayla Roberge, Mallie Sanford, and Amanda Schmidt. Directed by Axine M.</p>
       <p><a href="https://withfriends.events/event/zYemPG0d/axine-m-solid-choir-may-14-16/" target="_blank" rel="noopener">Tickets available now</a></p>
+    </div>
+  </div>
+
+  <div class="event-block">
+    <div class="center-media">
+      <img src="/images/Rinse-May.webp" alt="RINSE: Works in Progress">
+    </div>
+    <h3 class="event-title">RINSE: Works in Progress</h3>
+    <div class="event-text">
+      <p>May 21 7pm | Our quarterly event RINSE: Works in Progress at 7pm with doors at 6:30.</p>
+      <p>Rinse is a quarterly work-in-progress event highlighting artists of all disciplines in 10-minute showings of developing ideas. Inspired by cross-genre dialogue. Curated by C. Francis Fischer.</p>
+      <p>Doors at 6:30, event starts at 7. Stay afterwards to chat with the artists over a cash bar. The May 21 program will feature Jerry Leiblich, E. Adamo, Jimin Seo &amp; Noah Wertheimer.</p>
+      <p><a href="https://withfriends.events/event/Cl16nqiy/rinse-works-in-progress/" target="_blank" rel="noopener">Tickets available now</a></p>
     </div>
   </div>
 
