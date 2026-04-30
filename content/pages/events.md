@@ -50,7 +50,7 @@ Status: published
 
   <div class="event-block">
     <div class="center-media">
-      <img src="/images/PITCH-may.webp" alt="PITCH presents Angel Zinovieff and Sol Cabrini">
+      <img src="/images/PITCH-May.webp" alt="PITCH presents Angel Zinovieff and Sol Cabrini">
     </div>
     <h3 class="event-title">PITCH presents Angel Zinovieff and Sol Cabrini</h3>
     <div class="event-text">
