@@ -16,11 +16,9 @@ Status: published
 <div class="pricing-section">
   <h2 class="pricing-section__heading">Rehearsal Memberships</h2>
   <div class="pricing-text">
-    <p>Become a rehearsal space member for access to our 1000sf rehearsal space, equipment, facilities, access to the calendar to make bookings directly and opportunities to share work in our quarterly member cohort gatherings.</p>
-    <p>Full-membership $260/m for 20 hours<br>
-    Half-membership $130/m for 10 hours</p>
-    <p>Additional hours for full-members $13 / half-members $15<br>
-    Rehearsal hours for non-members $15 (reach out to us for availability, priority given to members so consider joining)</p>
+    <p>Become a rehearsal space member for access to our 1000 sf rehearsal space, equipment, facilities, access to the calendar to make bookings directly and opportunities to share work in our quarterly member gatherings.</p>
+    <p>Full-membership $260/m for 20 hours</p>
+    <p>Half-membership $130/m for 10 hours</p>
   </div>
   <p class="pricing-contact"><a href="mailto:info@supromen.com">Contact >> info@supromen.com</a></p>
 </div>
