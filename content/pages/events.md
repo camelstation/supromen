@@ -52,8 +52,8 @@ Status: published
     </div>
     <h3 class="event-title">PITCH presents Angel Zinovieff and Sol Cabrini</h3>
     <div class="event-text">
-      <p>May 28 7pm | SUPR OMEN welcomes Angel Zinovieff and Sol Cabrini as the premier performance for PITCH, curated by Bella Thorpe Woods and Nora Thompson.</p>
-      <p>PITCH is a monthly program showcasing performances by early career dance &amp; performance makers, curated by emerging dance &amp; performance curators and makers. The first season of Pitch is curated by Bella Thorpe Woods and Nora Thompson.</p>
+      <p>May 28 7pm | SUPR OMEN welcomes Angel Zinovieff and Sol Cabrini as the premier performance for PITCH, curated by Bella Thorpe Woods and Nora Raine Thompson.</p>
+      <p>PITCH is a monthly program showcasing performances by early career dance &amp; performance makers, curated by emerging dance &amp; performance curators and makers. The first season of Pitch is curated by Bella Thorpe Woods and Nora Raine Thompson.</p>
       <p><a href="https://withfriends.events/event/aN9AuOt0/pitch-presents-angel-zinovieff-and-sol-cabrini/" target="_blank" rel="noopener">Tickets available now</a></p>
     </div>
   </div>
