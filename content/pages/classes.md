@@ -33,19 +33,6 @@ Status: published
     </div>
   </div>
 
-  <div class="event-block">
-    <div class="center-media">
-      <img src="/images/AriWorkshop_May2.jpg" alt="ARI Always Human Research Group">
-    </div>
-    <h3 class="event-title">ARI Always Human Research Group</h3>
-    <div class="event-text">
-      <p>May 2 11-3pm | If you love chairs so much, why don't you BE one?</p>
-      <p>🪑UPDATE: Full, join the waitlist🪑 for no.4/4 of my current workshop series.</p>
-      <p>This one is really self-explanatory…we will be making our bodies into chairs. We will explore balance, gravity, and support with movement exercises and eventually work our way into becoming devices for sitting. This one is the most movement-heavy of all 4, it is going to be FUN!</p>
-      <p><a href="https://www.instagram.com/ari_alwayshuman/p/DXaMHduEQyV/" target="_blank" rel="noopener">Please see more information here</a></p>
-    </div>
-  </div>
-
   <div class="event-block" id="meditation-sessions">
     <div class="center-media">
       <img src="/images/MeditationSessions.jpg" alt="Sunday Meditation Sessions">
@@ -59,6 +46,19 @@ Status: published
 
 <div class="events-section">
   <h2 class="events-section__heading">Past Classes</h2>
+
+  <div class="event-block">
+    <div class="center-media">
+      <img src="/images/AriWorkshop_May2.jpg" alt="ARI Always Human Research Group">
+    </div>
+    <h3 class="event-title">ARI Always Human Research Group</h3>
+    <div class="event-text">
+      <p>May 2 11-3pm | If you love chairs so much, why don't you BE one?</p>
+      <p>🪑UPDATE: Full, join the waitlist🪑 for no.4/4 of my current workshop series.</p>
+      <p>This one is really self-explanatory…we will be making our bodies into chairs. We will explore balance, gravity, and support with movement exercises and eventually work our way into becoming devices for sitting. This one is the most movement-heavy of all 4, it is going to be FUN!</p>
+      <p><a href="https://www.instagram.com/ari_alwayshuman/p/DXaMHduEQyV/" target="_blank" rel="noopener">Please see more information here</a></p>
+    </div>
+  </div>
 
   <div class="event-block">
     <div class="center-media">
