@@ -7,18 +7,6 @@ Status: published
 <div class="events-section">
   <h2 class="events-section__heading">Upcoming Events</h2>
 
-  <div class="event-block" id="liminal-waves">
-    <div class="center-media">
-      <img src="/images/Kanami-LiminalWaves.jpeg" alt="Liminal Waves">
-    </div>
-    <h3 class="event-title">Liminal Waves</h3>
-    <div class="event-text">
-      <p>May 9 7-9pm | Hi friends 🌷💥🌷 Missed our past shows? Curious what happens behind the scenes of our performance art?</p>
-      <p>We're opening up our archives — a glimpse into the process, the layers, the unseen ✨🐈‍⬛✨ This time, it's more than just watching… you'll step inside the work. Don't miss it again ⚡️</p>
-      <p><a href="https://partiful.com/e/ZORRUp1uplNQYVSvWaMp" target="_blank" rel="noopener">Tickets available now</a></p>
-    </div>
-  </div>
-
   <div class="event-block" id="axine-m-solid-choir">
     <div class="center-media">
       <img src="/images/Drift-Maxine.webp" alt="Axine M &amp; Solid Choir">
@@ -62,6 +50,18 @@ Status: published
 
 <div class="events-section">
   <h2 class="events-section__heading">Past Events</h2>
+
+  <div class="event-block" id="liminal-waves">
+    <div class="center-media">
+      <img src="/images/Kanami-LiminalWaves.jpeg" alt="Liminal Waves">
+    </div>
+    <h3 class="event-title">Liminal Waves</h3>
+    <div class="event-text">
+      <p>May 9 7-9pm | Hi friends 🌷💥🌷 Missed our past shows? Curious what happens behind the scenes of our performance art?</p>
+      <p>We're opening up our archives — a glimpse into the process, the layers, the unseen ✨🐈‍⬛✨ This time, it's more than just watching… you'll step inside the work. Don't miss it again ⚡️</p>
+      <p><a href="https://partiful.com/e/ZORRUp1uplNQYVSvWaMp" target="_blank" rel="noopener">Tickets available now</a></p>
+    </div>
+  </div>
 
   <div class="event-block">
     <div class="center-media">
