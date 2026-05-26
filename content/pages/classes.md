@@ -9,6 +9,16 @@ Status: published
 
   <div class="event-block">
     <div class="center-media">
+      <img src="/images/BodyWash-May31.webp" alt="Body Wash">
+    </div>
+    <h3 class="event-title">Body Wash</h3>
+    <div class="event-text">
+      <p>May 31 6:15-8:45pm | Body Wash is a creative movement workshop hosted by Maya Rubio. 90 mins: warm-up, open movement, journal, talk. Please bring a journal and a water bottle, and dress to move. Reflecting on: end of May, beginning of summer, personal symbols and ongoing trust / freedom / impulse. FREE to join — RSVP to <a href="mailto:maya.rubio@gmail.com">maya.rubio@gmail.com</a> or DM <a href="https://www.instagram.com/_body_wash/" target="_blank" rel="noopener">@_body_wash</a> on Instagram.</p>
+    </div>
+  </div>
+
+  <div class="event-block">
+    <div class="center-media">
       <img src="/images/PracticeSpace-Series.jpg" alt="Practice Space">
     </div>
     <h3 class="event-title">Practice Space</h3>
