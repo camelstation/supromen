@@ -9,19 +9,6 @@ Status: published
 
   <div class="event-block">
     <div class="center-media">
-      <img src="/images/Rinse-May.webp" alt="RINSE: Works in Progress">
-    </div>
-    <h3 class="event-title">RINSE: Works in Progress</h3>
-    <div class="event-text">
-      <p>May 21 7pm | Our quarterly event RINSE: Works in Progress at 7pm with doors at 6:30.</p>
-      <p><a href="https://supromen.com/curatorial-programs/">RINSE</a> is a quarterly work-in-progress event highlighting artists of all disciplines in 10-minute showings of developing ideas. Inspired by cross-genre dialogue. Curated by C. Francis Fischer.</p>
-      <p>Doors at 6:30, event starts at 7. Stay afterwards to chat with the artists over a cash bar. The May 21 program will feature Jerry Leiblich, E. Adamo, Jimin Seo &amp; Noah Wertheimer.</p>
-      <p><a href="https://withfriends.events/event/Cl16nqiy/rinse-works-in-progress/" target="_blank" rel="noopener">Tickets available now</a></p>
-    </div>
-  </div>
-
-  <div class="event-block">
-    <div class="center-media">
       <img src="/images/PITCH-May.webp" alt="PITCH presents Angel Zinovieff and Sol Cabrini">
     </div>
     <h3 class="event-title">PITCH presents Angel Zinovieff and Sol Cabrini</h3>
@@ -36,6 +23,19 @@ Status: published
 
 <div class="events-section">
   <h2 class="events-section__heading">Past Events</h2>
+
+  <div class="event-block">
+    <div class="center-media">
+      <img src="/images/Rinse-May.webp" alt="RINSE: Works in Progress">
+    </div>
+    <h3 class="event-title">RINSE: Works in Progress</h3>
+    <div class="event-text">
+      <p>May 21 7pm | Our quarterly event RINSE: Works in Progress at 7pm with doors at 6:30.</p>
+      <p><a href="https://supromen.com/curatorial-programs/">RINSE</a> is a quarterly work-in-progress event highlighting artists of all disciplines in 10-minute showings of developing ideas. Inspired by cross-genre dialogue. Curated by C. Francis Fischer.</p>
+      <p>Doors at 6:30, event starts at 7. Stay afterwards to chat with the artists over a cash bar. The May 21 program will feature Jerry Leiblich, E. Adamo, Jimin Seo &amp; Noah Wertheimer.</p>
+      <p><a href="https://withfriends.events/event/Cl16nqiy/rinse-works-in-progress/" target="_blank" rel="noopener">Tickets available now</a></p>
+    </div>
+  </div>
 
   <div class="event-block" id="axine-m-solid-choir">
     <div class="center-media">
