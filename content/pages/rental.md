@@ -1,7 +1,7 @@
-Title: Pricing
-Slug: pricing
-Url: pricing/
-Save_as: pricing/index.html
+Title: Rental
+Slug: rental
+Url: rental/
+Save_as: rental/index.html
 Status: published
 
 <div class="pricing-images">
