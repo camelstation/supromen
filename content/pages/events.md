@@ -9,6 +9,21 @@ Status: published
 
   <div class="event-block">
     <div class="center-media">
+      <img src="/images/poster-sarah-abellatif-chaves.webp" alt="Monument 1">
+    </div>
+    <h3 class="event-title">Monument 1</h3>
+    <div class="event-text">
+      <p>June 5 7pm | A group show with an immersive soundscape hosted and curated by Sarah Abdellatif-Chaves. Designed in collaboration with four distinct artists, each display is bespoke to the work. More info at <a href="https://www.instagram.com/p/DYlIPEsAD8d/" target="_blank" rel="noopener">https://www.instagram.com/p/DYlIPEsAD8d/</a></p>
+    </div>
+  </div>
+
+</div>
+
+<div class="events-section">
+  <h2 class="events-section__heading">Past Events</h2>
+
+  <div class="event-block">
+    <div class="center-media">
       <img src="/images/PITCH-May.webp" alt="PITCH presents Angel Zinovieff and Sol Cabrini">
     </div>
     <h3 class="event-title">PITCH presents Angel Zinovieff and Sol Cabrini</h3>
@@ -18,11 +33,6 @@ Status: published
       <p><a href="https://withfriends.events/event/aN9AuOt0/pitch-presents-angel-zinovieff-and-sol-cabrini/" target="_blank" rel="noopener">Tickets available now</a></p>
     </div>
   </div>
-
-</div>
-
-<div class="events-section">
-  <h2 class="events-section__heading">Past Events</h2>
 
   <div class="event-block">
     <div class="center-media">
