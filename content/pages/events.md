@@ -13,7 +13,7 @@ Status: published
     </div>
     <h3 class="event-title">Monument 1</h3>
     <div class="event-text">
-      <p>June 5 7pm | A group show with an immersive soundscape hosted and curated by Sarah Abdellatif-Chaves. Designed in collaboration with four distinct artists, each display is bespoke to the work. More info at <a href="https://www.instagram.com/p/DYlIPEsAD8d/" target="_blank" rel="noopener">https://www.instagram.com/p/DYlIPEsAD8d/</a></p>
+      <p>June 5 7pm | A group show with an immersive soundscape hosted and curated by Sarah Abdellatif-Chaves. Designed in collaboration with four distinct artists, each display is bespoke to the work. More info <a href="https://www.instagram.com/p/DYlIPEsAD8d/" target="_blank" rel="noopener">https://www.instagram.com/p/DYlIPEsAD8d/</a></p>
     </div>
   </div>
 
