@@ -156,13 +156,15 @@ a:active {
    ========================= */
 
 .site-footer {
-  margin-top: 12px;
+  margin-top: 10px;
   text-align: center;
-  font-size: 10px;
+  font-size: 1em;
   font-weight: 700;
   letter-spacing: 0.08em;
   text-transform: uppercase;
   color: var(--accent);
+  position: sticky;
+  bottom: 0;
 }
 
 .site-footer a,
