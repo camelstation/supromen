@@ -16,14 +16,14 @@ Status: published
 .cal-entry {
   display: flex;
   gap: 16px;
-  padding: 16px 0;
+  padding: 8px 0;
   border-bottom: 1px solid #222;
   align-items: flex-start;
 }
 
 .cal-date {
   min-width: 52px;
-  font-size: 0.75em;
+  font-size: 0.85em;
   font-weight: 700;
   letter-spacing: 0.06em;
   text-transform: uppercase;
@@ -44,7 +44,7 @@ Status: published
 }
 
 .cal-title {
-  font-size: 1em;
+  font-size: 1.1em;
   font-weight: 700;
   color: var(--text);
   letter-spacing: 0.02em;
@@ -71,7 +71,7 @@ Status: published
 
 .cal-meta {
   margin-top: 4px;
-  font-size: 0.82em;
+  font-size: 0.85em;
   color: #888;
 }
 
