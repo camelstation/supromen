@@ -1,0 +1,179 @@
+Title: Calendar
+Slug: calendar
+Url: calendar/
+Save_as: calendar/index.html
+Status: published
+
+<style>
+.cal-list {
+  list-style: none;
+  margin: 32px 0 0;
+  padding: 0;
+}
+
+.cal-entry {
+  display: flex;
+  gap: 16px;
+  padding: 16px 0;
+  border-bottom: 1px solid #222;
+  align-items: flex-start;
+}
+
+.cal-date {
+  min-width: 52px;
+  font-size: 0.75em;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--accent);
+  padding-top: 3px;
+  flex-shrink: 0;
+}
+
+.cal-body {
+  flex: 1;
+}
+
+.cal-title-row {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.cal-title {
+  font-size: 1em;
+  font-weight: 700;
+  color: var(--text);
+  letter-spacing: 0.02em;
+}
+
+.cal-tag {
+  font-size: 0.7em;
+  font-weight: 700;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+  padding: 2px 7px;
+  border-radius: 3px;
+}
+
+.cal-tag--event {
+  background: #2a1a3e;
+  color: #c9a0f5;
+}
+
+.cal-tag--class {
+  background: #162916;
+  color: #6abf69;
+}
+
+.cal-meta {
+  margin-top: 4px;
+  font-size: 0.82em;
+  color: #888;
+}
+
+.cal-link {
+  display: inline-block;
+  margin-top: 6px;
+  font-size: 0.82em;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  color: var(--accent);
+  text-decoration: none;
+}
+
+.cal-link:hover {
+  opacity: 0.8;
+}
+</style>
+
+<h2 class="shop-heading">Calendar</h2>
+
+<ul class="cal-list">
+
+  <li class="cal-entry">
+    <span class="cal-date">Jun 5</span>
+    <div class="cal-body">
+      <div class="cal-title-row">
+        <span class="cal-title">Monument 1</span>
+        <span class="cal-tag cal-tag--event">Event</span>
+      </div>
+      <div class="cal-meta">7pm &middot; Sarah Abdellatif-Chaves</div>
+      <a class="cal-link" href="https://www.instagram.com/p/DYlIPEsAD8d/" target="_blank" rel="noopener">More info &rarr;</a>
+    </div>
+  </li>
+
+  <li class="cal-entry">
+    <span class="cal-date">Jun 8</span>
+    <div class="cal-body">
+      <div class="cal-title-row">
+        <span class="cal-title">Practice Space</span>
+        <span class="cal-tag cal-tag--class">Class</span>
+      </div>
+      <div class="cal-meta">6:30pm &middot; Marguerite Hemmings</div>
+      <a class="cal-link" href="https://withfriends.events/event/FlhizUfq/practice-space/" target="_blank" rel="noopener">Tickets &rarr;</a>
+    </div>
+  </li>
+
+  <li class="cal-entry">
+    <span class="cal-date">Jun 11</span>
+    <div class="cal-body">
+      <div class="cal-title-row">
+        <span class="cal-title">Practice Space</span>
+        <span class="cal-tag cal-tag--class">Class</span>
+      </div>
+      <div class="cal-meta">6:30pm &middot; James Barrett</div>
+      <a class="cal-link" href="https://withfriends.events/event/FlhizUfq/practice-space/" target="_blank" rel="noopener">Tickets &rarr;</a>
+    </div>
+  </li>
+
+  <li class="cal-entry">
+    <span class="cal-date">Jun 15</span>
+    <div class="cal-body">
+      <div class="cal-title-row">
+        <span class="cal-title">Practice Space</span>
+        <span class="cal-tag cal-tag--class">Class</span>
+      </div>
+      <div class="cal-meta">6:30pm &middot; Practice Space Team</div>
+      <a class="cal-link" href="https://withfriends.events/event/FlhizUfq/practice-space/" target="_blank" rel="noopener">Tickets &rarr;</a>
+    </div>
+  </li>
+
+  <li class="cal-entry">
+    <span class="cal-date">Jun 22</span>
+    <div class="cal-body">
+      <div class="cal-title-row">
+        <span class="cal-title">Practice Space</span>
+        <span class="cal-tag cal-tag--class">Class</span>
+      </div>
+      <div class="cal-meta">6:30pm &middot; Jo Warren</div>
+      <a class="cal-link" href="https://withfriends.events/event/FlhizUfq/practice-space/" target="_blank" rel="noopener">Tickets &rarr;</a>
+    </div>
+  </li>
+
+  <li class="cal-entry">
+    <span class="cal-date">Jun 29</span>
+    <div class="cal-body">
+      <div class="cal-title-row">
+        <span class="cal-title">Practice Space</span>
+        <span class="cal-tag cal-tag--class">Class</span>
+      </div>
+      <div class="cal-meta">6:30pm &middot; Kris Lee</div>
+      <a class="cal-link" href="https://withfriends.events/event/FlhizUfq/practice-space/" target="_blank" rel="noopener">Tickets &rarr;</a>
+    </div>
+  </li>
+
+  <li class="cal-entry">
+    <span class="cal-date">Jul 6</span>
+    <div class="cal-body">
+      <div class="cal-title-row">
+        <span class="cal-title">Practice Space Performance Nite</span>
+        <span class="cal-tag cal-tag--event">Event</span>
+      </div>
+      <div class="cal-meta">6:30pm &middot; Open to public</div>
+      <a class="cal-link" href="https://withfriends.events/event/FlhizUfq/practice-space/" target="_blank" rel="noopener">Tickets &rarr;</a>
+    </div>
+  </li>
+
+</ul>

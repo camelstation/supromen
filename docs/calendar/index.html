@@ -1,0 +1,218 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Calendar | supromen</title>
+
+  <link rel="icon" type="image/webp" href="/images/logo-supromen.webp">
+  <link rel="stylesheet" href="/assets/css/reset.css">
+  <link rel="stylesheet" href="/assets/css/main.css">
+  <link rel="stylesheet" href="/assets/css/custom.css?v=5">
+</head>
+
+<body class="page page--calendar">
+  <div class="frame">
+
+    <details class="nav">
+      <summary class="nav__summary">≡SUPR OMEN≡</summary>
+      <nav class="nav__panel">
+        <a class="nav__link" href="/home/">Home</a>
+        <a class="nav__link" href="/curatorial-programs/">Curatorial Programs</a>
+        <a class="nav__link" href="/events/">Events</a>
+        <a class="nav__link" href="/classes/">Classes</a>
+        <a class="nav__link" href="/shop/">Merch</a>
+        <a class="nav__link" href="/rental/">Rental</a>
+        <a class="nav__link" href="/team/">Team</a>
+        <a class="nav__link" href="/history/">History</a>
+      </nav>
+    </details>
+
+
+    <main class="content">
+    <style>
+.cal-list {
+  list-style: none;
+  margin: 32px 0 0;
+  padding: 0;
+}
+
+.cal-entry {
+  display: flex;
+  gap: 16px;
+  padding: 16px 0;
+  border-bottom: 1px solid #222;
+  align-items: flex-start;
+}
+
+.cal-date {
+  min-width: 52px;
+  font-size: 0.75em;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--accent);
+  padding-top: 3px;
+  flex-shrink: 0;
+}
+
+.cal-body {
+  flex: 1;
+}
+
+.cal-title-row {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.cal-title {
+  font-size: 1em;
+  font-weight: 700;
+  color: var(--text);
+  letter-spacing: 0.02em;
+}
+
+.cal-tag {
+  font-size: 0.7em;
+  font-weight: 700;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+  padding: 2px 7px;
+  border-radius: 3px;
+}
+
+.cal-tag--event {
+  background: #2a1a3e;
+  color: #c9a0f5;
+}
+
+.cal-tag--class {
+  background: #162916;
+  color: #6abf69;
+}
+
+.cal-meta {
+  margin-top: 4px;
+  font-size: 0.82em;
+  color: #888;
+}
+
+.cal-link {
+  display: inline-block;
+  margin-top: 6px;
+  font-size: 0.82em;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  color: var(--accent);
+  text-decoration: none;
+}
+
+.cal-link:hover {
+  opacity: 0.8;
+}
+</style>
+
+<h2 class="shop-heading">Calendar</h2>
+
+<ul class="cal-list">
+
+  <li class="cal-entry">
+    <span class="cal-date">Jun 5</span>
+    <div class="cal-body">
+      <div class="cal-title-row">
+        <span class="cal-title">Monument 1</span>
+        <span class="cal-tag cal-tag--event">Event</span>
+      </div>
+      <div class="cal-meta">7pm &middot; Sarah Abdellatif-Chaves</div>
+      <a class="cal-link" href="https://www.instagram.com/p/DYlIPEsAD8d/" target="_blank" rel="noopener">More info &rarr;</a>
+    </div>
+  </li>
+
+  <li class="cal-entry">
+    <span class="cal-date">Jun 8</span>
+    <div class="cal-body">
+      <div class="cal-title-row">
+        <span class="cal-title">Practice Space</span>
+        <span class="cal-tag cal-tag--class">Class</span>
+      </div>
+      <div class="cal-meta">6:30pm &middot; Marguerite Hemmings</div>
+      <a class="cal-link" href="https://withfriends.events/event/FlhizUfq/practice-space/" target="_blank" rel="noopener">Tickets &rarr;</a>
+    </div>
+  </li>
+
+  <li class="cal-entry">
+    <span class="cal-date">Jun 11</span>
+    <div class="cal-body">
+      <div class="cal-title-row">
+        <span class="cal-title">Practice Space</span>
+        <span class="cal-tag cal-tag--class">Class</span>
+      </div>
+      <div class="cal-meta">6:30pm &middot; James Barrett</div>
+      <a class="cal-link" href="https://withfriends.events/event/FlhizUfq/practice-space/" target="_blank" rel="noopener">Tickets &rarr;</a>
+    </div>
+  </li>
+
+  <li class="cal-entry">
+    <span class="cal-date">Jun 15</span>
+    <div class="cal-body">
+      <div class="cal-title-row">
+        <span class="cal-title">Practice Space</span>
+        <span class="cal-tag cal-tag--class">Class</span>
+      </div>
+      <div class="cal-meta">6:30pm &middot; Practice Space Team</div>
+      <a class="cal-link" href="https://withfriends.events/event/FlhizUfq/practice-space/" target="_blank" rel="noopener">Tickets &rarr;</a>
+    </div>
+  </li>
+
+  <li class="cal-entry">
+    <span class="cal-date">Jun 22</span>
+    <div class="cal-body">
+      <div class="cal-title-row">
+        <span class="cal-title">Practice Space</span>
+        <span class="cal-tag cal-tag--class">Class</span>
+      </div>
+      <div class="cal-meta">6:30pm &middot; Jo Warren</div>
+      <a class="cal-link" href="https://withfriends.events/event/FlhizUfq/practice-space/" target="_blank" rel="noopener">Tickets &rarr;</a>
+    </div>
+  </li>
+
+  <li class="cal-entry">
+    <span class="cal-date">Jun 29</span>
+    <div class="cal-body">
+      <div class="cal-title-row">
+        <span class="cal-title">Practice Space</span>
+        <span class="cal-tag cal-tag--class">Class</span>
+      </div>
+      <div class="cal-meta">6:30pm &middot; Kris Lee</div>
+      <a class="cal-link" href="https://withfriends.events/event/FlhizUfq/practice-space/" target="_blank" rel="noopener">Tickets &rarr;</a>
+    </div>
+  </li>
+
+  <li class="cal-entry">
+    <span class="cal-date">Jul 6</span>
+    <div class="cal-body">
+      <div class="cal-title-row">
+        <span class="cal-title">Practice Space Performance Nite</span>
+        <span class="cal-tag cal-tag--event">Event</span>
+      </div>
+      <div class="cal-meta">6:30pm &middot; Open to public</div>
+      <a class="cal-link" href="https://withfriends.events/event/FlhizUfq/practice-space/" target="_blank" rel="noopener">Tickets &rarr;</a>
+    </div>
+  </li>
+
+</ul>
+    </main>
+ 
+    <footer class="site-footer">
+      <a href="https://instagram.com/supr_omen/" target="_blank" rel="noopener">INSTAGRAM</a>
+      <span class="footer-sep">|</span>
+      <a href="https://supromen.substack.com/" target="_blank" rel="noopener">SUBSTACK</a>
+      <span class="footer-sep">|</span>
+      <a href="mailto:info@supromen.com">CONTACT</a>
+    </footer>
+
+  </div>
+</body>
+</html>
