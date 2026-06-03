@@ -9,6 +9,8 @@ Status: published
   list-style: none;
   margin: 32px 0 0;
   padding: 0;
+  width: 100%;
+  max-width: 480px;
 }
 
 .cal-entry {
@@ -88,7 +90,8 @@ Status: published
 }
 </style>
 
-<h2 class="shop-heading">Calendar</h2>
+<div class="event-block" style="align-items: center;">
+<h2 class="shop-heading" style="text-align: center; width: 100%; max-width: 480px;">Calendar</h2>
 
 <ul class="cal-list">
 
@@ -177,3 +180,4 @@ Status: published
   </li>
 
 </ul>
+</div>
