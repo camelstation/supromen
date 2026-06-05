@@ -298,7 +298,8 @@ a:active {
 
 /* Override flex: 1 for center-media inside event blocks */
 .page--events .event-block .center-media,
-.page--classes .event-block .center-media {
+.page--classes .event-block .center-media,
+.page--workshops .event-block .center-media {
   flex: 0 0 auto;
   padding-top: 0;
   width: 100%;
@@ -309,7 +310,9 @@ a:active {
 .page--events .event-block .center-media img,
 .page--events .event-block .center-media video,
 .page--classes .event-block .center-media img,
-.page--classes .event-block .center-media video {
+.page--classes .event-block .center-media video,
+.page--workshops .event-block .center-media img,
+.page--workshops .event-block .center-media video {
   width: 100%;
   height: auto;
   max-height: none;
@@ -686,15 +689,17 @@ body.page--shop-item .frame {
 
 
 /* =========================
-   Classes page: tighten list spacing
+   Classes/Workshops page: tighten list spacing
    ========================= */
 
-.page--classes .event-text ul {
+.page--classes .event-text ul,
+.page--workshops .event-text ul {
   margin: 0.25em 0;
   padding-left: 1.4em;
 }
 
-.page--classes .event-text ul li {
+.page--classes .event-text ul li,
+.page--workshops .event-text ul li {
   margin-bottom: 0;
   line-height: 1.7;
 }
