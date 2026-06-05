@@ -24,5 +24,5 @@ Status: published
 <div class="drift-content">
   <h2 class="shop-heading">RINSE</h2>
   <p>Rinse is a quarterly work-in-progress event presented by SUPR OMEN highlighting artists of all disciplines in 10-minute showings of developing ideas. Inspired by cross-genre dialogue. Curated by C. Francis Fischer.</p>
-  <p>Featured artists include Jerry Leiblich, Matt Romein, Sonya Molansky, Natalie Raskin, E. Adamo, Jimin Seo, Lemuel E. Saputra &amp; Noah Wertheimer.</p>
+  <p>Featured artists (so far) include Jerry Leiblich, Matt Romein, Sonya Molansky, Natalie Raskin, E. Adamo, Jimin Seo, Lemuel E. Saputra &amp; Noah Wertheimer.</p>
 </div>
