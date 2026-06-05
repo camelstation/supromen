@@ -96,6 +96,18 @@ Status: published
 <ul class="cal-list">
 
   <li class="cal-entry">
+    <span class="cal-date">Jun 1</span>
+    <div class="cal-body">
+      <div class="cal-title-row">
+        <span class="cal-title">Practice Space</span>
+        <span class="cal-tag cal-tag--class">Class</span>
+      </div>
+      <div class="cal-meta">6:30pm &middot; James Barrett</div>
+      <a class="cal-link" href="https://withfriends.events/event/FlhizUfq/practice-space/" target="_blank" rel="noopener">Tickets &rarr;</a>
+    </div>
+  </li>
+
+  <li class="cal-entry">
     <span class="cal-date">Jun 5</span>
     <div class="cal-body">
       <div class="cal-title-row">
@@ -120,18 +132,6 @@ Status: published
   </li>
 
   <li class="cal-entry">
-    <span class="cal-date">Jun 11</span>
-    <div class="cal-body">
-      <div class="cal-title-row">
-        <span class="cal-title">Practice Space</span>
-        <span class="cal-tag cal-tag--class">Class</span>
-      </div>
-      <div class="cal-meta">6:30pm &middot; James Barrett</div>
-      <a class="cal-link" href="https://withfriends.events/event/FlhizUfq/practice-space/" target="_blank" rel="noopener">Tickets &rarr;</a>
-    </div>
-  </li>
-
-  <li class="cal-entry">
     <span class="cal-date">Jun 15</span>
     <div class="cal-body">
       <div class="cal-title-row">
@@ -144,6 +144,30 @@ Status: published
   </li>
 
   <li class="cal-entry">
+    <span class="cal-date">Jun 18</span>
+    <div class="cal-body">
+      <div class="cal-title-row">
+        <span class="cal-title">PITCH: Laura Witsken &amp; Benin Gardner</span>
+        <span class="cal-tag cal-tag--event">Event</span>
+      </div>
+      <div class="cal-meta">8pm</div>
+      <a class="cal-link" href="https://pools.events/t/acnukg6k/" target="_blank" rel="noopener">Tickets &rarr;</a>
+    </div>
+  </li>
+
+  <li class="cal-entry">
+    <span class="cal-date">Jun 20</span>
+    <div class="cal-body">
+      <div class="cal-title-row">
+        <span class="cal-title">POINT SOURCE V: Performances in QUAD</span>
+        <span class="cal-tag cal-tag--event">Event</span>
+      </div>
+      <div class="cal-meta">7:30pm</div>
+      <a class="cal-link" href="https://pools.events/t/g7f3wl9k/" target="_blank" rel="noopener">Tickets &rarr;</a>
+    </div>
+  </li>
+
+  <li class="cal-entry">
     <span class="cal-date">Jun 22</span>
     <div class="cal-body">
       <div class="cal-title-row">
@@ -152,6 +176,18 @@ Status: published
       </div>
       <div class="cal-meta">6:30pm &middot; Jo Warren</div>
       <a class="cal-link" href="https://withfriends.events/event/FlhizUfq/practice-space/" target="_blank" rel="noopener">Tickets &rarr;</a>
+    </div>
+  </li>
+
+  <li class="cal-entry">
+    <span class="cal-date">Jun 24</span>
+    <div class="cal-body">
+      <div class="cal-title-row">
+        <span class="cal-title">WHALE &mdash; Touch / Talk / Think / Sense</span>
+        <span class="cal-tag cal-tag--event">Event</span>
+      </div>
+      <div class="cal-meta">7:30pm</div>
+      <a class="cal-link" href="https://www.instagram.com/coiffeur.nyc" target="_blank" rel="noopener">More info &rarr;</a>
     </div>
   </li>
 
