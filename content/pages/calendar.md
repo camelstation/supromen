@@ -100,7 +100,7 @@ Status: published
     <div class="cal-body">
       <div class="cal-title-row">
         <span class="cal-title">Practice Space</span>
-        <span class="cal-tag cal-tag--class">Class</span>
+        <span class="cal-tag cal-tag--class">Workshop</span>
       </div>
       <div class="cal-meta">6:30pm &middot; James Barrett</div>
       <a class="cal-link" href="https://withfriends.events/event/FlhizUfq/practice-space/" target="_blank" rel="noopener">Tickets &rarr;</a>
@@ -124,7 +124,7 @@ Status: published
     <div class="cal-body">
       <div class="cal-title-row">
         <span class="cal-title">Practice Space</span>
-        <span class="cal-tag cal-tag--class">Class</span>
+        <span class="cal-tag cal-tag--class">Workshop</span>
       </div>
       <div class="cal-meta">6:30pm &middot; Marguerite Hemmings</div>
       <a class="cal-link" href="https://withfriends.events/event/FlhizUfq/practice-space/" target="_blank" rel="noopener">Tickets &rarr;</a>
@@ -136,7 +136,7 @@ Status: published
     <div class="cal-body">
       <div class="cal-title-row">
         <span class="cal-title">Practice Space</span>
-        <span class="cal-tag cal-tag--class">Class</span>
+        <span class="cal-tag cal-tag--class">Workshop</span>
       </div>
       <div class="cal-meta">6:30pm &middot; Practice Space Team</div>
       <a class="cal-link" href="https://withfriends.events/event/FlhizUfq/practice-space/" target="_blank" rel="noopener">Tickets &rarr;</a>
@@ -172,7 +172,7 @@ Status: published
     <div class="cal-body">
       <div class="cal-title-row">
         <span class="cal-title">Practice Space</span>
-        <span class="cal-tag cal-tag--class">Class</span>
+        <span class="cal-tag cal-tag--class">Workshop</span>
       </div>
       <div class="cal-meta">6:30pm &middot; Jo Warren</div>
       <a class="cal-link" href="https://withfriends.events/event/FlhizUfq/practice-space/" target="_blank" rel="noopener">Tickets &rarr;</a>
@@ -196,7 +196,7 @@ Status: published
     <div class="cal-body">
       <div class="cal-title-row">
         <span class="cal-title">Practice Space</span>
-        <span class="cal-tag cal-tag--class">Class</span>
+        <span class="cal-tag cal-tag--class">Workshop</span>
       </div>
       <div class="cal-meta">6:30pm &middot; Kris Lee</div>
       <a class="cal-link" href="https://withfriends.events/event/FlhizUfq/practice-space/" target="_blank" rel="noopener">Tickets &rarr;</a>
