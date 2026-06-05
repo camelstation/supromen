@@ -45,9 +45,9 @@ Status: published
 
   <div class="event-block">
     <div class="center-media">
-      <img src="/images/whaleproject_june.webp" alt="WHALE — Touch / Talk / Think / Sense">
+      <img src="/images/whaleproject_june.webp" alt="ECHOES">
     </div>
-    <h3 class="event-title">WHALE — Touch / Talk / Think / Sense</h3>
+    <h3 class="event-title">ECHOES</h3>
     <div class="event-text">
       <p>June 24 3pm / 7:30pm | Coiffeur + Art presents an immersive interactive art experience where touch, sensation and communication come alive through sensor-based technology, visuals and sound. Experience art that responds to your presence and connects people through interaction.</p>
       <p>The gallery opens at 3:00 PM, the performance starts at 7:30 PM</p>

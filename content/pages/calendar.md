@@ -157,7 +157,7 @@ Status: published
         <a class="cal-title" href="https://pools.events/t/g7f3wl9k/" target="_blank" rel="noopener" style="color: var(--text);">POINT SOURCE V: Performances in QUAD</a>
         <span class="cal-tag cal-tag--event">Event</span>
       </div>
-      <div class="cal-meta">7:30pm</div>
+      <div class="cal-meta">7:30pm &middot; Hosted by Mike Clemow</div>
     </div>
   </li>
 
@@ -176,7 +176,7 @@ Status: published
     <span class="cal-date">Jun 24</span>
     <div class="cal-body">
       <div class="cal-title-row">
-        <a class="cal-title" href="https://www.instagram.com/coiffeur.nyc" target="_blank" rel="noopener" style="color: var(--text);">WHALE &mdash; Touch / Talk / Think / Sense</a>
+        <a class="cal-title" href="https://www.instagram.com/coiffeur.nyc" target="_blank" rel="noopener" style="color: var(--text);">ECHOES</a>
         <span class="cal-tag cal-tag--event">Event</span>
       </div>
       <div class="cal-meta">7:30pm</div>
