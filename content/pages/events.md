@@ -17,6 +17,45 @@ Status: published
     </div>
   </div>
 
+  <div class="event-block">
+    <div class="center-media">
+      <img src="/images/PITCH-June2026.webp" alt="PITCH: Laura Witsken &amp; Benin Gardner">
+    </div>
+    <h3 class="event-title">PITCH: Laura Witsken &amp; Benin Gardner</h3>
+    <div class="event-text">
+      <p>June 18 8pm | SUPR OMEN welcomes Laura Witsken and Benin Gardner for PITCH.</p>
+      <p>PITCH is a monthly program showcasing performances by early career dance &amp; performance makers, curated by emerging dance &amp; performance curators and makers. The first season of PITCH is curated by Isabella Thorpe-Woods and Nora Raine Thompson.</p>
+      <p>Laura Witsken is a dancer based in NYC. Her current choreographic and improvisatory work explores alliance of articulation and effort. Her collaborative work with multidisciplinary artist Izzy Leung has been shared at the 6BC Botanical Garden (Slow Violence, 2025) and The Woods (SWAN SONG, 2025). Laura has performed in the work of Gillian Walsh, Moriah Evans, Ella Dawn W-S, Madeline Wilcox, Adrienne Westwood and Nicole Mannarino.</p>
+      <p>Benin Gardner is a dance artist and writer from Los Angeles who lives in New York.</p>
+      <p>Tickets available now</p>
+    </div>
+  </div>
+
+  <div class="event-block">
+    <div class="center-media">
+      <img src="/images/whaleproject_june.webp" alt="POINT SOURCE V: Performances in QUAD">
+    </div>
+    <h3 class="event-title">POINT SOURCE V: Performances in QUAD</h3>
+    <div class="event-text">
+      <p>June 20 7:30pm | With Keith Fullerton Whitman // sadnoise (Femi Shonuga-Fleming) // Brian Wenner // Cecilia Lopez &amp; Matthew Ryals</p>
+      <p>Point source is a recurring series of performances using quadraphonic sound. Why 4 speakers? Because it's flexible, forgiving and impactful. It requires no special hardware or knowledge to utilize and yet can accommodate complex spatialization methods as well as idiosyncratic approaches to spatialization. POINT SOURCE is about the accessibility of spatial sound.</p>
+      <p>Tickets available now</p>
+    </div>
+  </div>
+
+  <div class="event-block">
+    <div class="center-media">
+      <img src="/images/whaleproject_june.webp" alt="WHALE — Touch / Talk / Think / Sense">
+    </div>
+    <h3 class="event-title">WHALE — Touch / Talk / Think / Sense</h3>
+    <div class="event-text">
+      <p>June 24 3pm / 7:30pm | Coiffeur + Art presents an immersive interactive art experience where touch, sensation and communication come alive through sensor-based technology, visuals and sound. Experience art that responds to your presence and connects people through interaction.</p>
+      <p>The Gallery opens at 3:00 PM</p>
+      <p>Performance starts at 7:30 PM</p>
+      <p>More info</p>
+    </div>
+  </div>
+
 </div>
 
 <div class="events-section">
