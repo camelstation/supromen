@@ -99,11 +99,10 @@ Status: published
     <span class="cal-date">Jun 1</span>
     <div class="cal-body">
       <div class="cal-title-row">
-        <span class="cal-title">Practice Space</span>
+        <a class="cal-title" href="https://withfriends.events/event/FlhizUfq/practice-space/" target="_blank" rel="noopener" style="color: var(--text);">Practice Space</a>
         <span class="cal-tag cal-tag--class">Workshop</span>
       </div>
       <div class="cal-meta">6:30pm &middot; James Barrett</div>
-      <a class="cal-link" href="https://withfriends.events/event/FlhizUfq/practice-space/" target="_blank" rel="noopener">Tickets &rarr;</a>
     </div>
   </li>
 
@@ -111,11 +110,10 @@ Status: published
     <span class="cal-date">Jun 5</span>
     <div class="cal-body">
       <div class="cal-title-row">
-        <span class="cal-title">Monument 1</span>
+        <a class="cal-title" href="https://www.instagram.com/p/DYlIPEsAD8d/" target="_blank" rel="noopener" style="color: var(--text);">Monument 1</a>
         <span class="cal-tag cal-tag--event">Event</span>
       </div>
       <div class="cal-meta">7pm &middot; Sarah Abdellatif-Chaves</div>
-      <a class="cal-link" href="https://www.instagram.com/p/DYlIPEsAD8d/" target="_blank" rel="noopener">More info &rarr;</a>
     </div>
   </li>
 
@@ -123,11 +121,10 @@ Status: published
     <span class="cal-date">Jun 8</span>
     <div class="cal-body">
       <div class="cal-title-row">
-        <span class="cal-title">Practice Space</span>
+        <a class="cal-title" href="https://withfriends.events/event/FlhizUfq/practice-space/" target="_blank" rel="noopener" style="color: var(--text);">Practice Space</a>
         <span class="cal-tag cal-tag--class">Workshop</span>
       </div>
       <div class="cal-meta">6:30pm &middot; Marguerite Hemmings</div>
-      <a class="cal-link" href="https://withfriends.events/event/FlhizUfq/practice-space/" target="_blank" rel="noopener">Tickets &rarr;</a>
     </div>
   </li>
 
@@ -135,11 +132,10 @@ Status: published
     <span class="cal-date">Jun 15</span>
     <div class="cal-body">
       <div class="cal-title-row">
-        <span class="cal-title">Practice Space</span>
+        <a class="cal-title" href="https://withfriends.events/event/FlhizUfq/practice-space/" target="_blank" rel="noopener" style="color: var(--text);">Practice Space</a>
         <span class="cal-tag cal-tag--class">Workshop</span>
       </div>
       <div class="cal-meta">6:30pm &middot; Practice Space Team</div>
-      <a class="cal-link" href="https://withfriends.events/event/FlhizUfq/practice-space/" target="_blank" rel="noopener">Tickets &rarr;</a>
     </div>
   </li>
 
@@ -147,11 +143,10 @@ Status: published
     <span class="cal-date">Jun 18</span>
     <div class="cal-body">
       <div class="cal-title-row">
-        <span class="cal-title">PITCH: Laura Witsken &amp; Benin Gardner</span>
+        <a class="cal-title" href="https://pools.events/t/acnukg6k/" target="_blank" rel="noopener" style="color: var(--text);">PITCH: Laura Witsken &amp; Benin Gardner</a>
         <span class="cal-tag cal-tag--event">Event</span>
       </div>
-      <div class="cal-meta">8pm</div>
-      <a class="cal-link" href="https://pools.events/t/acnukg6k/" target="_blank" rel="noopener">Tickets &rarr;</a>
+      <div class="cal-meta">8pm &middot; Curated by Isabella Thorpe-Woods and Nora Raine Thompson</div>
     </div>
   </li>
 
@@ -159,11 +154,10 @@ Status: published
     <span class="cal-date">Jun 20</span>
     <div class="cal-body">
       <div class="cal-title-row">
-        <span class="cal-title">POINT SOURCE V: Performances in QUAD</span>
+        <a class="cal-title" href="https://pools.events/t/g7f3wl9k/" target="_blank" rel="noopener" style="color: var(--text);">POINT SOURCE V: Performances in QUAD</a>
         <span class="cal-tag cal-tag--event">Event</span>
       </div>
       <div class="cal-meta">7:30pm</div>
-      <a class="cal-link" href="https://pools.events/t/g7f3wl9k/" target="_blank" rel="noopener">Tickets &rarr;</a>
     </div>
   </li>
 
@@ -171,11 +165,10 @@ Status: published
     <span class="cal-date">Jun 22</span>
     <div class="cal-body">
       <div class="cal-title-row">
-        <span class="cal-title">Practice Space</span>
+        <a class="cal-title" href="https://withfriends.events/event/FlhizUfq/practice-space/" target="_blank" rel="noopener" style="color: var(--text);">Practice Space</a>
         <span class="cal-tag cal-tag--class">Workshop</span>
       </div>
       <div class="cal-meta">6:30pm &middot; Jo Warren</div>
-      <a class="cal-link" href="https://withfriends.events/event/FlhizUfq/practice-space/" target="_blank" rel="noopener">Tickets &rarr;</a>
     </div>
   </li>
 
@@ -183,11 +176,10 @@ Status: published
     <span class="cal-date">Jun 24</span>
     <div class="cal-body">
       <div class="cal-title-row">
-        <span class="cal-title">WHALE &mdash; Touch / Talk / Think / Sense</span>
+        <a class="cal-title" href="https://www.instagram.com/coiffeur.nyc" target="_blank" rel="noopener" style="color: var(--text);">WHALE &mdash; Touch / Talk / Think / Sense</a>
         <span class="cal-tag cal-tag--event">Event</span>
       </div>
       <div class="cal-meta">7:30pm</div>
-      <a class="cal-link" href="https://www.instagram.com/coiffeur.nyc" target="_blank" rel="noopener">More info &rarr;</a>
     </div>
   </li>
 
@@ -195,11 +187,10 @@ Status: published
     <span class="cal-date">Jun 29</span>
     <div class="cal-body">
       <div class="cal-title-row">
-        <span class="cal-title">Practice Space</span>
+        <a class="cal-title" href="https://withfriends.events/event/FlhizUfq/practice-space/" target="_blank" rel="noopener" style="color: var(--text);">Practice Space</a>
         <span class="cal-tag cal-tag--class">Workshop</span>
       </div>
       <div class="cal-meta">6:30pm &middot; Kris Lee</div>
-      <a class="cal-link" href="https://withfriends.events/event/FlhizUfq/practice-space/" target="_blank" rel="noopener">Tickets &rarr;</a>
     </div>
   </li>
 
@@ -207,11 +198,10 @@ Status: published
     <span class="cal-date">Jul 6</span>
     <div class="cal-body">
       <div class="cal-title-row">
-        <span class="cal-title">Practice Space Performance Nite</span>
+        <a class="cal-title" href="https://withfriends.events/event/FlhizUfq/practice-space/" target="_blank" rel="noopener" style="color: var(--text);">Practice Space Performance Nite</a>
         <span class="cal-tag cal-tag--event">Event</span>
       </div>
       <div class="cal-meta">6:30pm &middot; Open to public</div>
-      <a class="cal-link" href="https://withfriends.events/event/FlhizUfq/practice-space/" target="_blank" rel="noopener">Tickets &rarr;</a>
     </div>
   </li>
 
