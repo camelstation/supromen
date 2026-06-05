@@ -37,7 +37,7 @@ Status: published
     </div>
     <h3 class="event-title">POINT SOURCE V: Performances in QUAD</h3>
     <div class="event-text">
-      <p>June 20 7:30pm | With Keith Fullerton Whitman // sadnoise (Femi Shonuga-Fleming) // Brian Wenner // Cecilia Lopez &amp; Matthew Ryals</p>
+      <p>June 20 7:30pm | Featuring Keith Fullerton Whitman // sadnoise (Femi Shonuga-Fleming) // Brian Wenner // Cecilia Lopez &amp; Matthew Ryals</p>
       <p>Point source is a recurring series of performances using quadraphonic sound. Why 4 speakers? Because it's flexible, forgiving and impactful. It requires no special hardware or knowledge to utilize and yet can accommodate complex spatialization methods as well as idiosyncratic approaches to spatialization. POINT SOURCE is about the accessibility of spatial sound.</p>
       <p><a href="https://pools.events/t/g7f3wl9k/" target="_blank" rel="noopener">Tickets available now</a></p>
     </div>
