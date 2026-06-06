@@ -176,7 +176,7 @@ Status: published
     <span class="cal-date">Jun 24</span>
     <div class="cal-body">
       <div class="cal-title-row">
-        <a class="cal-title" href="https://www.instagram.com/coiffeur.nyc" target="_blank" rel="noopener" style="color: var(--text);">ECHOES</a>
+        <a class="cal-title" href="https://www.instagram.com/nanae_itoi/p/DYh-r92iSZD/" target="_blank" rel="noopener" style="color: var(--text);">ECHOES</a>
         <span class="cal-tag cal-tag--event">Event</span>
       </div>
       <div class="cal-meta">7:30pm</div>
