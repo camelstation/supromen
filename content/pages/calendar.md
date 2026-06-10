@@ -162,6 +162,17 @@ Status: published
   </li>
 
   <li class="cal-entry">
+    <span class="cal-date">Jun 20</span>
+    <div class="cal-body">
+      <div class="cal-title-row">
+        <span class="cal-title">Circle Piece</span>
+        <span class="cal-tag cal-tag--event">Event</span>
+      </div>
+      <div class="cal-meta">7pm &middot; Kareena Solanki</div>
+    </div>
+  </li>
+
+  <li class="cal-entry">
     <span class="cal-date">Jun 22</span>
     <div class="cal-body">
       <div class="cal-title-row">
