@@ -190,7 +190,7 @@ Status: published
         <a class="cal-title" href="https://www.instagram.com/nanae_itoi/p/DYh-r92iSZD/" target="_blank" rel="noopener" style="color: var(--text);">ECHOES</a>
         <span class="cal-tag cal-tag--event">Event</span>
       </div>
-      <div class="cal-meta">7:30pm</div>
+      <div class="cal-meta">7:30pm &middot; Nanae Itoi</div>
     </div>
   </li>
 
