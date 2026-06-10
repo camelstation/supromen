@@ -33,7 +33,7 @@ Status: published
     </div>
   </div>
 
-  <div class="event-block">
+  <div class="event-block" id="echoes">
     <div class="center-media">
       <img src="/images/whaleproject_june.webp" alt="ECHOES">
     </div>

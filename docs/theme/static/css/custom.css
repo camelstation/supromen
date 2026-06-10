@@ -709,7 +709,8 @@ body.page--shop-item .frame {
    Drift page
    ========================= */
 
-body.page--curatorial-programs {
+body.page--curatorial-programs,
+body.page--pitch-manifesto {
   background-image: url('/images/pillar-programs.webp');
   background-size: cover;
   background-position: center;
