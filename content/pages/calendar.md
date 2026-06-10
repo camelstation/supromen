@@ -162,7 +162,7 @@ Status: published
   </li>
 
   <li class="cal-entry">
-    <span class="cal-date">Jun 20</span>
+    <span class="cal-date">Jun 21</span>
     <div class="cal-body">
       <div class="cal-title-row">
         <span class="cal-title">Circle Piece</span>
