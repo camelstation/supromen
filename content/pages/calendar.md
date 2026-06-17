@@ -165,7 +165,7 @@ Status: published
     <span class="cal-date">Jun 21</span>
     <div class="cal-body">
       <div class="cal-title-row">
-        <span class="cal-title">Circle Piece</span>
+        <a class="cal-title" href="https://www.instagram.com/kareenaso_/p/DZd4qDtFFEr/" target="_blank" rel="noopener" style="color: var(--text);">Circle Piece</a>
         <span class="cal-tag cal-tag--event">Event</span>
       </div>
       <div class="cal-meta">7pm &middot; Kareena Solanki</div>
