@@ -125,7 +125,7 @@ Status: published
         <span class="cal-tag cal-tag--event">Event</span>
       </div>
       <div class="cal-meta">8pm &middot; Curated by Isabella Thorpe-Woods and Nora Raine Thompson</div>
-      <div class="cal-meta"><em>More info to come</em></div>
+      <div class="cal-meta">Emerging curator program for dance and performance</div>
     </div>
   </li>
 
@@ -137,7 +137,6 @@ Status: published
         <span class="cal-tag cal-tag--event">Event</span>
       </div>
       <div class="cal-meta">8pm &middot; A new play by Alex Ford</div>
-      <div class="cal-meta"><em>More info to come</em></div>
     </div>
   </li>
 
@@ -149,7 +148,7 @@ Status: published
         <span class="cal-tag cal-tag--event">Event</span>
       </div>
       <div class="cal-meta">8pm &middot; Curated by Jemila MacEwan</div>
-      <div class="cal-meta"><em>More info to come</em></div>
+      <div class="cal-meta">Experimental live arts program</div>
     </div>
   </li>
 
