@@ -23,7 +23,7 @@ Status: published
 
 .cal-date {
   min-width: 90px;
-  font-size: 1.1em;
+  font-size: 0.78em;
   font-weight: 700;
   letter-spacing: 0.06em;
   text-transform: uppercase;
