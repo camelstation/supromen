@@ -98,11 +98,11 @@ Status: published
 .cal-key {
   width: 100%;
   max-width: 480px;
-  margin: 16px 0 0;
+  margin: 0;
   font-size: 1.1em;
-  color: #888;
+  color: var(--text);
   line-height: 1.8;
-  background: #222;
+  border: 1px solid #333;
   padding: 16px 20px;
   text-align: center;
   text-transform: uppercase;
@@ -110,8 +110,12 @@ Status: published
   box-sizing: border-box;
 }
 
+.cal-key-sym {
+  color: #6abf69;
+}
+
 .cal-key a {
-  color: #888;
+  color: var(--text);
   text-decoration: underline;
   text-underline-offset: 2px;
 }
@@ -123,13 +127,6 @@ Status: published
 
 <div class="event-block" style="align-items: center;">
 <h2 class="shop-heading" style="text-align: center; width: 100%; max-width: 480px;">Calendar</h2>
-
-<div class="cal-key">
-  <div>♦ = SUPR OMEN Presents (<a href="http://supromen.com/curatorial-programs">Curatorial Program</a>)</div>
-  <div>◈ = Workshop / Artist Development</div>
-  <div>◇ = Member Presentation</div>
-  <div>◇ = Partner Presentation/Event</div>
-</div>
 
 <ul class="cal-list">
 
@@ -191,4 +188,12 @@ Status: published
   </li>
 
 </ul>
+
+<div class="cal-key">
+  <div><span class="cal-key-sym">♦</span> SUPR OMEN Presents (<a href="http://supromen.com/curatorial-programs">Curatorial Program</a>)</div>
+  <div><span class="cal-key-sym">◈</span> Workshop / Artist Development</div>
+  <div><span class="cal-key-sym">◇</span> Member Presentation</div>
+  <div><span class="cal-key-sym">◇</span> Partner Presentation/Event</div>
+</div>
+
 </div>
