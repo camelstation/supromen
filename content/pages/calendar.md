@@ -131,7 +131,6 @@ Status: published
   <div><span class="cal-key-sym">☾</span> Workshop / Artist Development</div>
   <div><span class="cal-key-sym">◆</span> Member Presentation</div>
   <div><span class="cal-key-sym">☀</span> Partner Presentation/Event</div>
-  <div><span class="cal-key-sym">☃</span> Unclassifiable</div>
 </div>
 
 <ul class="cal-list">
