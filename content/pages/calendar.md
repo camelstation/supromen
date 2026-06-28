@@ -7,7 +7,7 @@ Status: published
 <style>
 .cal-list {
   list-style: none;
-  margin: 32px 0 0;
+  margin: 16px 0 0;
   padding: 0;
   width: 100%;
   max-width: 480px;
