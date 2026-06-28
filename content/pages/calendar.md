@@ -96,105 +96,6 @@ Status: published
 <ul class="cal-list">
 
   <li class="cal-entry">
-    <span class="cal-date">Jun 1</span>
-    <div class="cal-body">
-      <div class="cal-title-row">
-        <a class="cal-title" href="https://withfriends.events/event/FlhizUfq/practice-space/" target="_blank" rel="noopener" style="color: var(--text);">Practice Space</a>
-        <span class="cal-tag cal-tag--class">Workshop</span>
-      </div>
-      <div class="cal-meta">6:30pm &middot; James Barrett</div>
-    </div>
-  </li>
-
-  <li class="cal-entry">
-    <span class="cal-date">Jun 5</span>
-    <div class="cal-body">
-      <div class="cal-title-row">
-        <a class="cal-title" href="https://www.instagram.com/p/DYlIPEsAD8d/" target="_blank" rel="noopener" style="color: var(--text);">Monument 1</a>
-        <span class="cal-tag cal-tag--event">Event</span>
-      </div>
-      <div class="cal-meta">7pm &middot; Sarah Abdellatif-Chaves</div>
-    </div>
-  </li>
-
-  <li class="cal-entry">
-    <span class="cal-date">Jun 8</span>
-    <div class="cal-body">
-      <div class="cal-title-row">
-        <a class="cal-title" href="https://withfriends.events/event/FlhizUfq/practice-space/" target="_blank" rel="noopener" style="color: var(--text);">Practice Space</a>
-        <span class="cal-tag cal-tag--class">Workshop</span>
-      </div>
-      <div class="cal-meta">6:30pm &middot; Marguerite Hemmings</div>
-    </div>
-  </li>
-
-  <li class="cal-entry">
-    <span class="cal-date">Jun 15</span>
-    <div class="cal-body">
-      <div class="cal-title-row">
-        <a class="cal-title" href="https://withfriends.events/event/FlhizUfq/practice-space/" target="_blank" rel="noopener" style="color: var(--text);">Practice Space</a>
-        <span class="cal-tag cal-tag--class">Workshop</span>
-      </div>
-      <div class="cal-meta">6:30pm &middot; Practice Space Team</div>
-    </div>
-  </li>
-
-  <li class="cal-entry">
-    <span class="cal-date">Jun 18</span>
-    <div class="cal-body">
-      <div class="cal-title-row">
-        <a class="cal-title" href="https://pools.events/t/acnukg6k/" target="_blank" rel="noopener" style="color: var(--text);">PITCH: Laura Witsken &amp; Benin Gardner</a>
-        <span class="cal-tag cal-tag--event">Event</span>
-      </div>
-      <div class="cal-meta">8pm &middot; Curated by Isabella Thorpe-Woods and Nora Raine Thompson</div>
-    </div>
-  </li>
-
-  <li class="cal-entry">
-    <span class="cal-date">Jun 20</span>
-    <div class="cal-body">
-      <div class="cal-title-row">
-        <a class="cal-title" href="https://pools.events/t/g7f3wl9k/" target="_blank" rel="noopener" style="color: var(--text);">POINT SOURCE V: Performances in QUAD</a>
-        <span class="cal-tag cal-tag--event">Event</span>
-      </div>
-      <div class="cal-meta">7:30pm &middot; Hosted by Mike Clemow</div>
-    </div>
-  </li>
-
-  <li class="cal-entry">
-    <span class="cal-date">Jun 21</span>
-    <div class="cal-body">
-      <div class="cal-title-row">
-        <a class="cal-title" href="https://www.instagram.com/kareenaso_/p/DZd4qDtFFEr/" target="_blank" rel="noopener" style="color: var(--text);">Circle Piece</a>
-        <span class="cal-tag cal-tag--event">Event</span>
-      </div>
-      <div class="cal-meta">7pm &middot; Kareena Solanki</div>
-    </div>
-  </li>
-
-  <li class="cal-entry">
-    <span class="cal-date">Jun 22</span>
-    <div class="cal-body">
-      <div class="cal-title-row">
-        <a class="cal-title" href="https://withfriends.events/event/FlhizUfq/practice-space/" target="_blank" rel="noopener" style="color: var(--text);">Practice Space</a>
-        <span class="cal-tag cal-tag--class">Workshop</span>
-      </div>
-      <div class="cal-meta">6:30pm &middot; Jo Warren</div>
-    </div>
-  </li>
-
-  <li class="cal-entry">
-    <span class="cal-date">Jun 24</span>
-    <div class="cal-body">
-      <div class="cal-title-row">
-        <a class="cal-title" href="https://www.instagram.com/nanae_itoi/p/DYh-r92iSZD/" target="_blank" rel="noopener" style="color: var(--text);">ECHOES</a>
-        <span class="cal-tag cal-tag--event">Event</span>
-      </div>
-      <div class="cal-meta">7:30pm &middot; Nanae Itoi</div>
-    </div>
-  </li>
-
-  <li class="cal-entry">
     <span class="cal-date">Jun 29</span>
     <div class="cal-body">
       <div class="cal-title-row">
@@ -213,6 +114,42 @@ Status: published
         <span class="cal-tag cal-tag--event">Event</span>
       </div>
       <div class="cal-meta">6:30pm &middot; Open to public</div>
+    </div>
+  </li>
+
+  <li class="cal-entry">
+    <span class="cal-date">Jul 23</span>
+    <div class="cal-body">
+      <div class="cal-title-row">
+        <span class="cal-title">PITCH: Tamas Marquardt &amp; Iris McCloughan</span>
+        <span class="cal-tag cal-tag--event">Event</span>
+      </div>
+      <div class="cal-meta">8pm &middot; Curated by Isabella Thorpe-Woods and Nora Raine Thompson</div>
+      <div class="cal-meta"><em>More info to come</em></div>
+    </div>
+  </li>
+
+  <li class="cal-entry">
+    <span class="cal-date">Jul 24–25</span>
+    <div class="cal-body">
+      <div class="cal-title-row">
+        <span class="cal-title">By Any Other Name</span>
+        <span class="cal-tag cal-tag--event">Event</span>
+      </div>
+      <div class="cal-meta">8pm &middot; A new play by Alex Ford</div>
+      <div class="cal-meta"><em>More info to come</em></div>
+    </div>
+  </li>
+
+  <li class="cal-entry">
+    <span class="cal-date">Jul 31</span>
+    <div class="cal-body">
+      <div class="cal-title-row">
+        <span class="cal-title">DRIFT: Gushes // PROTEIN</span>
+        <span class="cal-tag cal-tag--event">Event</span>
+      </div>
+      <div class="cal-meta">8pm &middot; Curated by Jemila MacEwan</div>
+      <div class="cal-meta"><em>More info to come</em></div>
     </div>
   </li>
 
