@@ -96,7 +96,7 @@ Status: published
 <ul class="cal-list">
 
   <li class="cal-entry">
-    <span class="cal-date">Sun Jun 29</span>
+    <span class="cal-date">Mon Jun 29</span>
     <div class="cal-body">
       <div class="cal-title-row">
         <a class="cal-title" href="https://withfriends.events/event/FlhizUfq/practice-space/" target="_blank" rel="noopener" style="color: var(--text);">Practice Space</a>
@@ -107,7 +107,7 @@ Status: published
   </li>
 
   <li class="cal-entry">
-    <span class="cal-date">Sun Jul 6</span>
+    <span class="cal-date">Mon Jul 6</span>
     <div class="cal-body">
       <div class="cal-title-row">
         <a class="cal-title" href="https://withfriends.events/event/FlhizUfq/practice-space/" target="_blank" rel="noopener" style="color: var(--text);">Practice Space Performance Nite</a>
@@ -118,7 +118,7 @@ Status: published
   </li>
 
   <li class="cal-entry">
-    <span class="cal-date">Wed Jul 23</span>
+    <span class="cal-date">Thu Jul 23</span>
     <div class="cal-body">
       <div class="cal-title-row">
         <span class="cal-title">PITCH: Tamas Marquardt &amp; Iris McCloughan</span>
@@ -141,7 +141,7 @@ Status: published
   </li>
 
   <li class="cal-entry">
-    <span class="cal-date">Thu Jul 31</span>
+    <span class="cal-date">Fri Jul 31</span>
     <div class="cal-body">
       <div class="cal-title-row">
         <span class="cal-title">DRIFT: Gushes // PROTEIN</span>
