@@ -88,10 +88,42 @@ Status: published
 .cal-link:hover {
   opacity: 0.8;
 }
+
+.cal-symbol {
+  font-size: 1em;
+  color: #888;
+  flex-shrink: 0;
+}
+
+.cal-key {
+  width: 100%;
+  max-width: 480px;
+  margin: 16px 0 0;
+  font-size: 0.82em;
+  color: #888;
+  line-height: 1.8;
+}
+
+.cal-key a {
+  color: #888;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.cal-key a:hover {
+  opacity: 0.7;
+}
 </style>
 
 <div class="event-block" style="align-items: center;">
 <h2 class="shop-heading" style="text-align: center; width: 100%; max-width: 480px;">Calendar</h2>
+
+<div class="cal-key">
+  <div>♦ = SUPR OMEN Presents (<a href="http://supromen.com/curatorial-programs">Curatorial Program</a>)</div>
+  <div>◈ = Workshop / Artist Development</div>
+  <div>◇ = Member Presentation</div>
+  <div>◇ = Partner Presentation/Event</div>
+</div>
 
 <ul class="cal-list">
 
@@ -100,7 +132,7 @@ Status: published
     <div class="cal-body">
       <div class="cal-title-row">
         <a class="cal-title" href="https://withfriends.events/event/FlhizUfq/practice-space/" target="_blank" rel="noopener" style="color: var(--text);">Practice Space</a>
-        <span class="cal-tag cal-tag--class">Workshop</span>
+        <span class="cal-symbol">◇</span>
       </div>
       <div class="cal-meta">6:30pm &middot; Kris Lee</div>
     </div>
@@ -111,7 +143,7 @@ Status: published
     <div class="cal-body">
       <div class="cal-title-row">
         <a class="cal-title" href="https://withfriends.events/event/FlhizUfq/practice-space/" target="_blank" rel="noopener" style="color: var(--text);">Practice Space Performance Nite</a>
-        <span class="cal-tag cal-tag--event">Event</span>
+        <span class="cal-symbol">◇</span>
       </div>
       <div class="cal-meta">6:30pm &middot; Open to public</div>
     </div>
@@ -122,7 +154,7 @@ Status: published
     <div class="cal-body">
       <div class="cal-title-row">
         <span class="cal-title">PITCH: Tamas Marquardt &amp; Iris McCloughan</span>
-        <span class="cal-tag cal-tag--event">Event</span>
+        <span class="cal-symbol">♦</span>
       </div>
       <div class="cal-meta">8pm &middot; Curated by Isabella Thorpe-Woods and Nora Raine Thompson</div>
       <div class="cal-meta">Emerging curator program for dance and performance</div>
@@ -134,7 +166,7 @@ Status: published
     <div class="cal-body">
       <div class="cal-title-row">
         <span class="cal-title">By Any Other Name</span>
-        <span class="cal-tag cal-tag--event">Event</span>
+        <span class="cal-symbol">◇</span>
       </div>
       <div class="cal-meta">8pm &middot; A new play by Alex Ford</div>
     </div>
@@ -145,7 +177,7 @@ Status: published
     <div class="cal-body">
       <div class="cal-title-row">
         <span class="cal-title">DRIFT: Gushes // PROTEIN</span>
-        <span class="cal-tag cal-tag--event">Event</span>
+        <span class="cal-symbol">♦</span>
       </div>
       <div class="cal-meta">8pm &middot; Curated by Jemila MacEwan</div>
       <div class="cal-meta">Experimental live arts program</div>
