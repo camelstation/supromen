@@ -23,7 +23,7 @@ Status: published
 
 .cal-date {
   min-width: 90px;
-  font-size: 0.85em;
+  font-size: 1.1em;
   font-weight: 700;
   letter-spacing: 0.06em;
   text-transform: uppercase;
@@ -71,14 +71,14 @@ Status: published
 
 .cal-meta {
   margin-top: 4px;
-  font-size: 0.85em;
+  font-size: 1.1em;
   color: #888;
 }
 
 .cal-link {
   display: inline-block;
   margin-top: 6px;
-  font-size: 0.82em;
+  font-size: 1.1em;
   font-weight: 700;
   letter-spacing: 0.04em;
   color: var(--accent);
@@ -91,22 +91,20 @@ Status: published
 
 .cal-symbol {
   font-size: 1em;
-  color: #888;
+  color: #6abf69;
   flex-shrink: 0;
 }
 
 .cal-key {
   width: 100%;
   max-width: 480px;
-  margin: 0;
+  margin: 0 0 16px;
   font-size: 1.1em;
-  color: var(--text);
+  color: #888;
   line-height: 1.8;
   border: 1px solid #333;
   padding: 16px 20px;
   text-align: center;
-  text-transform: uppercase;
-  letter-spacing: 0.02em;
   box-sizing: border-box;
 }
 
@@ -115,7 +113,7 @@ Status: published
 }
 
 .cal-key a {
-  color: var(--text);
+  color: #888;
   text-decoration: underline;
   text-underline-offset: 2px;
 }
@@ -127,6 +125,13 @@ Status: published
 
 <div class="event-block" style="align-items: center;">
 <h2 class="shop-heading" style="text-align: center; width: 100%; max-width: 480px;">Calendar</h2>
+
+<div class="cal-key">
+  <div><span class="cal-key-sym">♦</span> SUPR OMEN Presents (<a href="http://supromen.com/curatorial-programs">Curatorial Program</a>)</div>
+  <div><span class="cal-key-sym">◈</span> Workshop / Artist Development</div>
+  <div><span class="cal-key-sym">◇</span> Member Presentation</div>
+  <div><span class="cal-key-sym">◇</span> Partner Presentation/Event</div>
+</div>
 
 <ul class="cal-list">
 
@@ -188,12 +193,5 @@ Status: published
   </li>
 
 </ul>
-
-<div class="cal-key">
-  <div><span class="cal-key-sym">♦</span> SUPR OMEN Presents (<a href="http://supromen.com/curatorial-programs">Curatorial Program</a>)</div>
-  <div><span class="cal-key-sym">◈</span> Workshop / Artist Development</div>
-  <div><span class="cal-key-sym">◇</span> Member Presentation</div>
-  <div><span class="cal-key-sym">◇</span> Partner Presentation/Event</div>
-</div>
 
 </div>
