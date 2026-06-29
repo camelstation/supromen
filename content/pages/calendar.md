@@ -128,9 +128,9 @@ Status: published
 
 <div class="cal-key">
   <div><span class="cal-key-sym">◑</span> SUPR OMEN Presents (<a href="http://supromen.com/curatorial-programs">Curatorial Program</a>)</div>
-  <div><span class="cal-key-sym">✎</span> Workshops / Artist Development</div>
+  <div><span class="cal-key-sym">✎</span> Workshop / Artist Development</div>
   <div><span class="cal-key-sym">▼</span> Member Presentation</div>
-  <div><span class="cal-key-sym">△</span> Partner Presentation/Event</div>
+  <div><span class="cal-key-sym">△</span> Partner Presentation</div>
 </div>
 
 <ul class="cal-list">
