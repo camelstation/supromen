@@ -161,7 +161,7 @@ Status: published
     <span class="cal-date">Thu Jul 23</span>
     <div class="cal-body">
       <div class="cal-title-row">
-        <span class="cal-title">PITCH // Tamas Marquardt &amp; Iris McCloughan</span>
+        <span class="cal-title">PITCH presents Tamas Marquardt &amp; Iris McCloughan</span>
         <span class="cal-symbol">◑</span>
       </div>
       <div class="cal-meta">8pm &middot; Curated by Isabella Thorpe-Woods and Nora Raine Thompson</div>
@@ -184,7 +184,7 @@ Status: published
     <span class="cal-date">Fri Jul 31</span>
     <div class="cal-body">
       <div class="cal-title-row">
-        <span class="cal-title">DRIFT // gushes: PROTEIN</span>
+        <span class="cal-title">DRIFT presents gushes: PROTEIN</span>
         <span class="cal-symbol">◑</span>
       </div>
       <div class="cal-meta">8pm &middot; Curated by Jemila MacEwan</div>
