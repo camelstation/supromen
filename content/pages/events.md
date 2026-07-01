@@ -13,7 +13,7 @@ Status: published
     </div>
     <h3 class="event-title">Practice Space: Recital</h3>
     <div class="event-text">
-      <p>July 6 6:30pm for performers &amp; 8pm for the audience | Join us for the Practice Space performance, Recital.</p>
+      <p>Monday July 6 | 6:30pm for performers &amp; 8pm for the audience | Join us for the Practice Space performance, Recital.</p>
       <p>Recital is a real performance: serious, with elevated stakes via the magic of spectatorship and also: a time to mess around with the information that is already in the space between us. This is a serious mess, attempting to share the peril and grace of improvisation.</p>
       <p>This performance will be influenced by the practices of artists: James Barrett, Marguerite Hemmings, Liony Garcia, Kayvon Pourazar, Jo Warren, Tamás Marquardt, Kris Lee, Evan Ray Suzuki, Nora Thompson, Chloe Engel, Neva Guido, and Rose Cole Cohen.</p>
       <p>Tickets available now</p>
