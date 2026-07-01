@@ -11,12 +11,12 @@ Status: published
     <div class="center-media">
       <img src="/images/PracticeSpace_Recital_July2026.webp" alt="Practice Space: Recital">
     </div>
-    <h3 class="event-title">Practice Space: Recital</h3>
+    <h3 class="event-title"><a href="https://pools.events/event/2fzpZ3xL/recital/" target="_blank" rel="noopener">Practice Space: Recital</a></h3>
     <div class="event-text">
       <p>Monday July 6 | 6:30pm for performers &amp; 8pm for the audience | Join us for the Practice Space performance, Recital.</p>
       <p>Recital is a real performance: serious, with elevated stakes via the magic of spectatorship and also: a time to mess around with the information that is already in the space between us. This is a serious mess, attempting to share the peril and grace of improvisation.</p>
       <p>This performance will be influenced by the practices of artists: James Barrett, Marguerite Hemmings, Liony Garcia, Kayvon Pourazar, Jo Warren, Tamás Marquardt, Kris Lee, Evan Ray Suzuki, Nora Thompson, Chloe Engel, Neva Guido, and Rose Cole Cohen.</p>
-      <p>Tickets available now</p>
+      <p><a href="https://pools.events/event/2fzpZ3xL/recital/" target="_blank" rel="noopener">Tickets available now</a></p>
     </div>
   </div>
 
@@ -24,7 +24,7 @@ Status: published
     <div class="center-media">
       <img src="/images/DRIFT-gushes-july.webp" alt="DRIFT presents gushes: PROTEIN">
     </div>
-    <h3 class="event-title">DRIFT presents gushes: PROTEIN</h3>
+    <h3 class="event-title"><a href="https://pools.events/event/htt1Fw2w/gushes-protein/" target="_blank" rel="noopener">DRIFT presents gushes: PROTEIN</a></h3>
     <div class="event-text">
       <p>Friday Jul 31 at 7pm | SUPR OMEN welcomes <a href="https://gushesmusic.com/" target="_blank" rel="noopener">gushes</a> on July 31 as part of <a href="https://supromen.com/curatorial-programs/" target="_blank" rel="noopener">DRIFT</a>, a monthly program showcasing live-works by artists who push to the edge of the edge.</p>
       <p>gushes: PROTEIN is live techno dance-punk for the new flesh, by Jennae Santos (guitar, electronics, vocals) and Ricky Petraglia (electronic drum, hardware). In a song cycle culling millennial futurist combat &amp; underground club scenes—read: soundtracks to The Matrix, Hackers, and Blade—the duo satirizes the internet-fed hyper-masc self/body-image with thick riffs, breakbeats, and hard sequencing. The club is the gym is church. Cached by ethereal drones, our story begins in the Fruitger Aero paradise of a precolonial internet.</p>
