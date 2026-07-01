@@ -20,7 +20,7 @@ Status: published
     </div>
   </div>
 
-  <div class="event-block">
+  <div class="event-block" id="drift-gushes">
     <div class="center-media">
       <img src="/images/DRIFT-gushes-july.webp" alt="DRIFT presents gushes: PROTEIN">
     </div>
