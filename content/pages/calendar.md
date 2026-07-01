@@ -184,7 +184,7 @@ Status: published
     <span class="cal-date">Fri Jul 31</span>
     <div class="cal-body">
       <div class="cal-title-row">
-        <span class="cal-title">DRIFT presents gushes: PROTEIN</span>
+        <a class="cal-title" href="https://pools.events/event/htt1Fw2w/gushes-protein/" target="_blank" rel="noopener" style="color: var(--text);">DRIFT presents gushes: PROTEIN</a>
         <span class="cal-symbol">◑</span>
       </div>
       <div class="cal-meta">8pm &middot; Curated by Jemila MacEwan</div>
