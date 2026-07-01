@@ -46,7 +46,7 @@ Status: published
     </div>
     <h3 class="event-title">ECHOES</h3>
     <div class="event-text">
-      <p>June 24 3pm / 7:30pm | Coiffeur + Art presents an immersive interactive art experience where touch, sensation and communication come alive through sensor-based technology, visuals and sound. Experience art that responds to your presence and connects people through interaction.</p>
+      <p>June 24 at 7:30pm | Coiffeur + Art presents an immersive interactive art experience where touch, sensation and communication come alive through sensor-based technology, visuals and sound. Experience art that responds to your presence and connects people through interaction.</p>
       <p>The gallery opens at 3:00 PM, the performance starts at 7:30 PM</p>
       <p><a href="https://www.instagram.com/nanae_itoi/p/DYh-r92iSZD/" target="_blank" rel="noopener">More info</a></p>
     </div>
@@ -58,7 +58,7 @@ Status: published
     </div>
     <h3 class="event-title">POINT SOURCE V: Performances in QUAD</h3>
     <div class="event-text">
-      <p>June 20 7:30pm | Featuring Keith Fullerton Whitman // sadnoise (Femi Shonuga-Fleming) // Brian Wenner // Cecilia Lopez &amp; Matthew Ryals</p>
+      <p>June 20 at 7:30pm | Featuring Keith Fullerton Whitman // sadnoise (Femi Shonuga-Fleming) // Brian Wenner // Cecilia Lopez &amp; Matthew Ryals</p>
       <p>Point source is a recurring series of performances using quadraphonic sound. Why 4 speakers? Because it's flexible, forgiving and impactful. It requires no special hardware or knowledge to utilize and yet can accommodate complex spatialization methods as well as idiosyncratic approaches to spatialization. POINT SOURCE is about the accessibility of spatial sound.</p>
       <p><a href="https://pools.events/t/g7f3wl9k/" target="_blank" rel="noopener">Tickets available now</a></p>
     </div>
@@ -70,7 +70,7 @@ Status: published
     </div>
     <h3 class="event-title">PITCH presents Laura Witsken &amp; Benin Gardner</h3>
     <div class="event-text">
-      <p>June 18 8pm | SUPR OMEN welcomes Laura Witsken and Benin Gardner for PITCH.</p>
+      <p>June 18 at 8pm | SUPR OMEN welcomes Laura Witsken and Benin Gardner for PITCH.</p>
       <p>PITCH is a monthly program showcasing performances by early career dance &amp; performance makers, curated by emerging dance &amp; performance curators and makers. The first season of PITCH is curated by Isabella Thorpe-Woods and Nora Raine Thompson.</p>
       <p>Laura Witsken is a dancer based in NYC. Her current choreographic and improvisatory work explores alliance of articulation and effort. Her collaborative work with multidisciplinary artist Izzy Leung has been shared at the 6BC Botanical Garden (Slow Violence, 2025) and The Woods (SWAN SONG, 2025). Laura has performed in the work of Gillian Walsh, Moriah Evans, Ella Dawn W-S, Madeline Wilcox, Adrienne Westwood and Nicole Mannarino.</p>
       <p>Benin Gardner is a dance artist and writer from Los Angeles who lives in New York.</p>
@@ -84,7 +84,7 @@ Status: published
     </div>
     <h3 class="event-title">Monument 1</h3>
     <div class="event-text">
-      <p>June 5 7pm | A group show with an immersive soundscape hosted and curated by Sarah Abdellatif-Chaves. Designed in collaboration with four distinct artists, each display is bespoke to the work. More info <a href="https://www.instagram.com/p/DYlIPEsAD8d/" target="_blank" rel="noopener">https://www.instagram.com/p/DYlIPEsAD8d/</a></p>
+      <p>June 5 at 7pm | A group show with an immersive soundscape hosted and curated by Sarah Abdellatif-Chaves. Designed in collaboration with four distinct artists, each display is bespoke to the work. More info <a href="https://www.instagram.com/p/DYlIPEsAD8d/" target="_blank" rel="noopener">https://www.instagram.com/p/DYlIPEsAD8d/</a></p>
     </div>
   </div>
 
@@ -94,7 +94,7 @@ Status: published
     </div>
     <h3 class="event-title">PITCH presents Angel Zinovieff and Sol Cabrini</h3>
     <div class="event-text">
-      <p>May 28 8pm | SUPR OMEN welcomes Angel Zinovieff and Sol Cabrini as the premier performance for PITCH, curated by Isabella Thorpe-Woods and Nora Raine Thompson.</p>
+      <p>May 28 at 8pm | SUPR OMEN welcomes Angel Zinovieff and Sol Cabrini as the premier performance for PITCH, curated by Isabella Thorpe-Woods and Nora Raine Thompson.</p>
       <p><a href="https://supromen.com/curatorial-programs/">PITCH</a> is a monthly program showcasing performances by early career dance &amp; performance makers, curated by emerging dance &amp; performance curators and makers. The first season of PITCH is curated by Isabella Thorpe-Woods and Nora Raine Thompson.</p>
       <p><a href="https://withfriends.events/event/aN9AuOt0/pitch-presents-angel-zinovieff-and-sol-cabrini/" target="_blank" rel="noopener">Tickets available now</a></p>
     </div>
@@ -106,7 +106,7 @@ Status: published
     </div>
     <h3 class="event-title">RINSE: Works in Progress</h3>
     <div class="event-text">
-      <p>May 21 7pm | Our quarterly event RINSE: Works in Progress at 7pm with doors at 6:30.</p>
+      <p>May 21 at 7pm | Our quarterly event RINSE: Works in Progress at 7pm with doors at 6:30.</p>
       <p><a href="https://supromen.com/curatorial-programs/">RINSE</a> is a quarterly work-in-progress event highlighting artists of all disciplines in 10-minute showings of developing ideas. Inspired by cross-genre dialogue. Curated by C. Francis Fischer.</p>
       <p>Doors at 6:30, event starts at 7. Stay afterwards to chat with the artists over a cash bar. The May 21 program will feature Jerry Leiblich, E. Adamo, Jimin Seo &amp; Noah Wertheimer.</p>
       <p><a href="https://withfriends.events/event/Cl16nqiy/rinse-works-in-progress/" target="_blank" rel="noopener">Tickets available now</a></p>
@@ -133,7 +133,7 @@ Status: published
     </div>
     <h3 class="event-title">Liminal Waves</h3>
     <div class="event-text">
-      <p>May 9 7-9pm | Hi friends 🌷💥🌷 Missed our past shows? Curious what happens behind the scenes of our performance art?</p>
+      <p>May 9 at 7pm | Hi friends 🌷💥🌷 Missed our past shows? Curious what happens behind the scenes of our performance art?</p>
       <p>We're opening up our archives — a glimpse into the process, the layers, the unseen ✨🐈‍⬛✨ This time, it's more than just watching… you'll step inside the work. Don't miss it again ⚡️</p>
       <p><a href="https://partiful.com/e/ZORRUp1uplNQYVSvWaMp" target="_blank" rel="noopener">Tickets available now</a></p>
     </div>
@@ -145,7 +145,7 @@ Status: published
     </div>
     <h3 class="event-title">Start Out: A night of spontaneous performance</h3>
     <div class="event-text">
-      <p>April 11 7-10pm | We need your help to launch a revamped iteration of <a href="https://www.instagram.com/practice_in_space/" target="_blank" rel="noopener">Practice Space</a>. Please come perform and party with us to make it happen. Start Out is a lottery-style show where participants are randomly selected to enact impromptu performances. Tickets include one lottery entry if you dare. Drinks and merch for sale. All proceeds will go towards supporting a new iteration of Practice Space. Performances start at 8pm. <a href="https://givebutter.com/start-out-a-night-of-spontaneous-performance-practice-space-fundraiser-yvljl2" target="_blank" rel="noopener">Tickets available now</a></p>
+      <p>April 11 at 7pm | We need your help to launch a revamped iteration of <a href="https://www.instagram.com/practice_in_space/" target="_blank" rel="noopener">Practice Space</a>. Please come perform and party with us to make it happen. Start Out is a lottery-style show where participants are randomly selected to enact impromptu performances. Tickets include one lottery entry if you dare. Drinks and merch for sale. All proceeds will go towards supporting a new iteration of Practice Space. Performances start at 8pm. <a href="https://givebutter.com/start-out-a-night-of-spontaneous-performance-practice-space-fundraiser-yvljl2" target="_blank" rel="noopener">Tickets available now</a></p>
     </div>
   </div>
 
@@ -155,7 +155,7 @@ Status: published
     </div>
     <h3 class="event-title">RINSE: Works in Progress</h3>
     <div class="event-text">
-      <p>March 13 7pm | Our quarterly event RINSE: Works in Progress launches on March 13th at 7pm with doors at 6:30. <a href="https://withfriends.events/event/B3PNmJGb/rinse-works-in-progress/" target="_blank" rel="noopener">Get tickets now</a>!</p>
+      <p>March 13 at 7pm | Our quarterly event RINSE: Works in Progress launches on March 13th at 7pm with doors at 6:30. <a href="https://withfriends.events/event/B3PNmJGb/rinse-works-in-progress/" target="_blank" rel="noopener">Get tickets now</a>!</p>
       <p>RINSE is an ongoing, quarterly event, showcasing our community by highlighting artists of all disciplines with 10 minute showings of developing ideas. Inspired by the desire for dialogue across genres, each evening is curated by C. Francis Fisher. This informal format aims to springboard collaboration and conversation of all kinds. We want to remain affordable for all so tickets are sliding scale, $10-$25. Stay afterwards to chat with artists over a cash bar.</p>
       <p>The March 13th program will feature visual artist Lemuel E. Saputra, theatre maker Matt Romein, performance artist Sonya Molansky, and comic writer Natalie Raskin.</p>
     </div>
