@@ -9,14 +9,15 @@ Status: published
 
   <div class="event-block">
     <div class="center-media">
-      <img src="/images/PracticeSpace_Recital_July2026.webp" alt="Practice Space: Recital">
+      <img src="/images/PITCH-July2026.webp" alt="PITCH presents Tamás Marquardt and Iris McCloughan">
     </div>
-    <h3 class="event-title"><a href="https://pools.events/event/2fzpZ3xL/recital/" target="_blank" rel="noopener">Practice Space: Recital</a></h3>
+    <h3 class="event-title">PITCH presents Tamás Marquardt and Iris McCloughan</h3>
     <div class="event-text">
-      <p>Monday July 6 | 6:30pm for performers &amp; 8pm for the audience | Join us for the Practice Space performance, Recital.</p>
-      <p>Recital is a real performance: serious, with elevated stakes via the magic of spectatorship and also: a time to mess around with the information that is already in the space between us. This is a serious mess, attempting to share the peril and grace of improvisation.</p>
-      <p>This performance will be influenced by the practices of artists: James Barrett, Marguerite Hemmings, Liony Garcia, Kayvon Pourazar, Jo Warren, Tamás Marquardt, Kris Lee, Evan Ray Suzuki, Nora Thompson, Chloe Engel, Neva Guido, and Rose Cole Cohen.</p>
-      <p><a href="https://pools.events/event/2fzpZ3xL/recital/" target="_blank" rel="noopener">Tickets available now</a></p>
+      <p>Thursday July 23 | Doors at 7:30pm | Show at 8pm | SUPR OMEN welcomes Tamás Marquardt and Iris McCloughan for a PITCH double bill.</p>
+      <p>Creature explores the link between Tamás Marquardt's transmasculinity and Magyar-Hungarian lineage through personal story, folk dance, and the writings and trial of 19th century queer Count Sándor Vay. A lecture-performance, a dance, an ancestral calling, Creature is told through ethnography and queer history.</p>
+      <p>DAD and COP is a new performance about authority and desire by Iris McCloughan.</p>
+      <p>PITCH is a monthly program showcasing performances by dance &amp; performance makers. The first season of PITCH is curated by Isabella Thorpe-Woods and Nora Raine Thompson.</p>
+      <p><a href="https://pools.events/event/tOuclfgA/pitch-presents-tamas-marquardt-and-iris-mccloughan/" target="_blank" rel="noopener">Tickets available now</a></p>
     </div>
   </div>
 
@@ -39,6 +40,19 @@ Status: published
 
 <div class="events-section">
   <h2 class="events-section__heading">Past Events</h2>
+
+  <div class="event-block">
+    <div class="center-media">
+      <img src="/images/PracticeSpace_Recital_July2026.webp" alt="Practice Space: Recital">
+    </div>
+    <h3 class="event-title"><a href="https://pools.events/event/2fzpZ3xL/recital/" target="_blank" rel="noopener">Practice Space: Recital</a></h3>
+    <div class="event-text">
+      <p>Monday July 6 | 6:30pm for performers &amp; 8pm for the audience | Join us for the Practice Space performance, Recital.</p>
+      <p>Recital is a real performance: serious, with elevated stakes via the magic of spectatorship and also: a time to mess around with the information that is already in the space between us. This is a serious mess, attempting to share the peril and grace of improvisation.</p>
+      <p>This performance will be influenced by the practices of artists: James Barrett, Marguerite Hemmings, Liony Garcia, Kayvon Pourazar, Jo Warren, Tamás Marquardt, Kris Lee, Evan Ray Suzuki, Nora Thompson, Chloe Engel, Neva Guido, and Rose Cole Cohen.</p>
+      <p><a href="https://pools.events/event/2fzpZ3xL/recital/" target="_blank" rel="noopener">Tickets available now</a></p>
+    </div>
+  </div>
 
   <div class="event-block" id="echoes">
     <div class="center-media">
