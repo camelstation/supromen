@@ -162,7 +162,7 @@ Status: published
     <div class="cal-body">
       <div class="cal-title-row">
         <span class="cal-symbol">◑</span>
-        <span class="cal-title">PITCH presents Tamas Marquardt &amp; Iris McCloughan</span>
+        <a class="cal-title" href="https://pools.events/event/tOuclfgA/pitch-presents-tamas-marquardt-and-iris-mccloughan/" target="_blank" rel="noopener" style="color: var(--text);">PITCH presents Tamas Marquardt &amp; Iris McCloughan</a>
       </div>
       <div class="cal-meta">8pm &middot; Curated by Isabella Thorpe-Woods and Nora Raine Thompson</div>
       <div class="cal-meta">Emerging curator program for dance and performance</div>
