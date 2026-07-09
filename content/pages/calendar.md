@@ -139,8 +139,8 @@ Status: published
     <span class="cal-date">Mon Jun 29</span>
     <div class="cal-body">
       <div class="cal-title-row">
-        <a class="cal-title" href="https://withfriends.events/event/FlhizUfq/practice-space/" target="_blank" rel="noopener" style="color: var(--text);">Practice Space</a>
         <span class="cal-symbol">△</span>
+        <a class="cal-title" href="https://withfriends.events/event/FlhizUfq/practice-space/" target="_blank" rel="noopener" style="color: var(--text);">Practice Space</a>
       </div>
       <div class="cal-meta">6:30pm &middot; Kris Lee</div>
     </div>
@@ -150,8 +150,8 @@ Status: published
     <span class="cal-date">Mon Jul 6</span>
     <div class="cal-body">
       <div class="cal-title-row">
-        <a class="cal-title" href="https://withfriends.events/event/FlhizUfq/practice-space/" target="_blank" rel="noopener" style="color: var(--text);">Practice Space Performance Nite</a>
         <span class="cal-symbol">△</span>
+        <a class="cal-title" href="https://withfriends.events/event/FlhizUfq/practice-space/" target="_blank" rel="noopener" style="color: var(--text);">Practice Space Performance Nite</a>
       </div>
       <div class="cal-meta">6:30pm &middot; Open to public</div>
     </div>
@@ -161,8 +161,8 @@ Status: published
     <span class="cal-date">Thu Jul 23</span>
     <div class="cal-body">
       <div class="cal-title-row">
-        <span class="cal-title">PITCH presents Tamas Marquardt &amp; Iris McCloughan</span>
         <span class="cal-symbol">◑</span>
+        <span class="cal-title">PITCH presents Tamas Marquardt &amp; Iris McCloughan</span>
       </div>
       <div class="cal-meta">8pm &middot; Curated by Isabella Thorpe-Woods and Nora Raine Thompson</div>
       <div class="cal-meta">Emerging curator program for dance and performance</div>
@@ -173,8 +173,8 @@ Status: published
     <span class="cal-date">Fri Jul 24<br>Sat Jul 25</span>
     <div class="cal-body">
       <div class="cal-title-row">
-        <span class="cal-title">By Any Other Name</span>
         <span class="cal-symbol">△</span>
+        <span class="cal-title">By Any Other Name</span>
       </div>
       <div class="cal-meta">8pm &middot; A new play by Alex Ford</div>
     </div>
@@ -184,8 +184,8 @@ Status: published
     <span class="cal-date">Fri Jul 31</span>
     <div class="cal-body">
       <div class="cal-title-row">
-        <a class="cal-title" href="https://pools.events/event/htt1Fw2w/gushes-protein/" target="_blank" rel="noopener" style="color: var(--text);">DRIFT presents gushes: PROTEIN</a>
         <span class="cal-symbol">◑</span>
+        <a class="cal-title" href="https://pools.events/event/htt1Fw2w/gushes-protein/" target="_blank" rel="noopener" style="color: var(--text);">DRIFT presents gushes: PROTEIN</a>
       </div>
       <div class="cal-meta">8pm &middot; Curated by Jemila MacEwan</div>
       <div class="cal-meta">Experimental live arts program</div>
