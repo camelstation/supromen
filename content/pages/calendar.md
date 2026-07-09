@@ -136,17 +136,6 @@ Status: published
 <ul class="cal-list">
 
   <li class="cal-entry">
-    <span class="cal-date">Mon Jun 29</span>
-    <div class="cal-body">
-      <div class="cal-title-row">
-        <span class="cal-symbol">△</span>
-        <a class="cal-title" href="https://withfriends.events/event/FlhizUfq/practice-space/" target="_blank" rel="noopener" style="color: var(--text);">Practice Space</a>
-      </div>
-      <div class="cal-meta">6:30pm &middot; Kris Lee</div>
-    </div>
-  </li>
-
-  <li class="cal-entry">
     <span class="cal-date">Mon Jul 6</span>
     <div class="cal-body">
       <div class="cal-title-row">
