@@ -10,7 +10,7 @@ Status: published
   margin: 16px 0 0;
   padding: 0;
   width: 100%;
-  max-width: 480px;
+  max-width: 672px;
 }
 
 .cal-entry {
@@ -97,7 +97,7 @@ Status: published
 
 .cal-key {
   width: 100%;
-  max-width: 480px;
+  max-width: 672px;
   margin: 0 0 16px;
   font-size: 1.1em;
   color: #888;
@@ -124,7 +124,7 @@ Status: published
 </style>
 
 <div class="event-block" style="align-items: center;">
-<h2 class="shop-heading" style="text-align: center; width: 100%; max-width: 480px;">Calendar</h2>
+<h2 class="shop-heading" style="text-align: center; width: 100%; max-width: 672px;">Calendar</h2>
 
 <div class="cal-key">
   <div><span class="cal-key-sym">◑</span> SUPR OMEN Presents (<a href="http://supromen.com/curatorial-programs">Curatorial Program</a>)</div>
