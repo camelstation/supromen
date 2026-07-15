@@ -7,6 +7,11 @@ Status: published
 <div class="events-section">
   <h2 class="events-section__heading">Upcoming Workshops</h2>
 
+</div>
+
+<div class="events-section">
+  <h2 class="events-section__heading">Past Workshops</h2>
+
   <div class="event-block">
     <div class="center-media">
       <img src="/images/PracticeSpace-Series.jpg" alt="Practice Space">
@@ -32,11 +37,6 @@ Status: published
       <p><a href="https://withfriends.events/event/FlhizUfq/practice-space/" target="_blank" rel="noopener">Buy tickets now</a></p>
     </div>
   </div>
-
-</div>
-
-<div class="events-section">
-  <h2 class="events-section__heading">Past Workshops</h2>
 
   <div class="event-block">
     <div class="center-media">
