@@ -21,6 +21,19 @@ Status: published
     </div>
   </div>
 
+  <div class="event-block">
+    <div class="center-media">
+      <img src="/images/AlexanderFord_July2026.webp" alt="By Any Other Name">
+    </div>
+    <h3 class="event-title">By Any Other Name</h3>
+    <div class="event-text">
+      <p>Friday July 24 &amp; Saturday July 25 at 8pm | SUPR OMEN welcomes a new play by Alexander Ford, By Any Other Name.</p>
+      <p>In 1661, the year women were first allowed onto the English stage, a Shakespeare actor specializing in women's roles must train the actress who is to replace him. Through the process of rehearsing Shakespeare, they come to understand each other, themselves, love, and reality itself in new ways that challenge them to push against the boundaries of the language in which they play.</p>
+      <p>An Equity Approved Showcase</p>
+      <p><a href="https://pools.events/event/QfX430WI/by-any-other-name/" target="_blank" rel="noopener">More info + tickets</a></p>
+    </div>
+  </div>
+
   <div class="event-block" id="drift-gushes">
     <div class="center-media">
       <img src="/images/DRIFT-gushes-july.webp" alt="DRIFT presents gushes: PROTEIN">
