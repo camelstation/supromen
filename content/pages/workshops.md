@@ -7,6 +7,17 @@ Status: published
 <div class="events-section">
   <h2 class="events-section__heading">Upcoming Workshops</h2>
 
+  <div class="event-block">
+    <div class="center-media">
+      <img src="/images/PracticeSpace-Shake.webp" alt="PRACTICE SPACE: Shake + Open Score">
+    </div>
+    <h3 class="event-title">PRACTICE SPACE: Shake + Open Score</h3>
+    <div class="event-text">
+      <p>Thursday Aug 6 | 7-9pm | One hour durational shake accompanied with a booming playlist followed by a 40min open score. Led by the Practice Space team.</p>
+      <p><a href="https://pools.events/event/T1TB7Vv2/shake-open-score/" target="_blank" rel="noopener">Tickets available now</a></p>
+    </div>
+  </div>
+
 </div>
 
 <div class="events-section">
