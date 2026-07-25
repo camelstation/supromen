@@ -7,18 +7,6 @@ Status: published
 <div class="events-section">
   <h2 class="events-section__heading">Upcoming Workshops</h2>
 
-  <div class="event-block">
-    <div class="center-media">
-      <img src="/images/JustinYoga.webp" alt="Justin's Yoga Classes">
-    </div>
-    <h3 class="event-title">Justin's Yoga Classes</h3>
-    <div class="event-text">
-      <p>Every Monday in August at 7:30pm</p>
-      <p>Justin's yoga classes emphasize isometric strength training, mobility, stress relief, breath work, and mindful movement. Hatha-Ashtanga style. Drop-ins welcome.</p>
-      <p><a href="https://www.eventbrite.com/e/yoga-class-supr-omen-tickets-1993752615744" target="_blank" rel="noopener">More info + tickets</a></p>
-    </div>
-  </div>
-
 </div>
 
 <div class="events-section">
