@@ -7,33 +7,6 @@ Status: published
 <div class="events-section">
   <h2 class="events-section__heading">Upcoming Events</h2>
 
-  <div class="event-block">
-    <div class="center-media">
-      <img src="/images/PITCH-July2026.webp" alt="PITCH presents Tamás Marquardt and Iris McCloughan">
-    </div>
-    <h3 class="event-title">PITCH presents Tamás Marquardt and Iris McCloughan</h3>
-    <div class="event-text">
-      <p>Thursday July 23 | Doors at 7:30pm | Show at 8pm | SUPR OMEN welcomes Tamás Marquardt and Iris McCloughan for a PITCH double bill.</p>
-      <p>Creature explores the link between Tamás Marquardt's transmasculinity and Magyar-Hungarian lineage through personal story, folk dance, and the writings and trial of 19th century queer Count Sándor Vay. A lecture-performance, a dance, an ancestral calling, Creature is told through ethnography and queer history.</p>
-      <p>DAD and COP is a new performance about authority and desire by Iris McCloughan.</p>
-      <p>PITCH is a monthly program showcasing performances by dance &amp; performance makers. The first season of PITCH is curated by Isabella Thorpe-Woods and Nora Raine Thompson.</p>
-      <p><a href="https://pools.events/event/tOuclfgA/pitch-presents-tamas-marquardt-and-iris-mccloughan/" target="_blank" rel="noopener">Tickets available now</a></p>
-    </div>
-  </div>
-
-  <div class="event-block">
-    <div class="center-media">
-      <img src="/images/AlexanderFord_July2026.webp" alt="By Any Other Name">
-    </div>
-    <h3 class="event-title">By Any Other Name</h3>
-    <div class="event-text">
-      <p>Friday July 24 &amp; Saturday July 25 at 8pm | SUPR OMEN welcomes a new play by Alexander Ford, By Any Other Name.</p>
-      <p>In 1661, the year women were first allowed onto the English stage, a Shakespeare actor specializing in women's roles must train the actress who is to replace him. Through the process of rehearsing Shakespeare, they come to understand each other, themselves, love, and reality itself in new ways that challenge them to push against the boundaries of the language in which they play.</p>
-      <p>An Equity Approved Showcase</p>
-      <p><a href="https://pools.events/event/QfX430WI/by-any-other-name/" target="_blank" rel="noopener">Tickets available now</a></p>
-    </div>
-  </div>
-
   <div class="event-block" id="drift-gushes">
     <div class="center-media">
       <img src="/images/DRIFT-gushes-july.webp" alt="DRIFT presents gushes: PROTEIN">
@@ -53,6 +26,33 @@ Status: published
 
 <div class="events-section">
   <h2 class="events-section__heading">Past Events</h2>
+
+  <div class="event-block">
+    <div class="center-media">
+      <img src="/images/AlexanderFord_July2026.webp" alt="By Any Other Name">
+    </div>
+    <h3 class="event-title">By Any Other Name</h3>
+    <div class="event-text">
+      <p>Friday July 24 &amp; Saturday July 25 at 8pm | SUPR OMEN welcomes a new play by Alexander Ford, By Any Other Name.</p>
+      <p>In 1661, the year women were first allowed onto the English stage, a Shakespeare actor specializing in women's roles must train the actress who is to replace him. Through the process of rehearsing Shakespeare, they come to understand each other, themselves, love, and reality itself in new ways that challenge them to push against the boundaries of the language in which they play.</p>
+      <p>An Equity Approved Showcase</p>
+      <p><a href="https://pools.events/event/QfX430WI/by-any-other-name/" target="_blank" rel="noopener">Tickets available now</a></p>
+    </div>
+  </div>
+
+  <div class="event-block">
+    <div class="center-media">
+      <img src="/images/PITCH-July2026.webp" alt="PITCH presents Tamás Marquardt and Iris McCloughan">
+    </div>
+    <h3 class="event-title">PITCH presents Tamás Marquardt and Iris McCloughan</h3>
+    <div class="event-text">
+      <p>Thursday July 23 | Doors at 7:30pm | Show at 8pm | SUPR OMEN welcomes Tamás Marquardt and Iris McCloughan for a PITCH double bill.</p>
+      <p>Creature explores the link between Tamás Marquardt's transmasculinity and Magyar-Hungarian lineage through personal story, folk dance, and the writings and trial of 19th century queer Count Sándor Vay. A lecture-performance, a dance, an ancestral calling, Creature is told through ethnography and queer history.</p>
+      <p>DAD and COP is a new performance about authority and desire by Iris McCloughan.</p>
+      <p>PITCH is a monthly program showcasing performances by dance &amp; performance makers. The first season of PITCH is curated by Isabella Thorpe-Woods and Nora Raine Thompson.</p>
+      <p><a href="https://pools.events/event/tOuclfgA/pitch-presents-tamas-marquardt-and-iris-mccloughan/" target="_blank" rel="noopener">Tickets available now</a></p>
+    </div>
+  </div>
 
   <div class="event-block">
     <div class="center-media">
