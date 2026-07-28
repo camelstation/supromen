@@ -18,6 +18,17 @@ Status: published
     </div>
   </div>
 
+  <div class="event-block">
+    <div class="center-media">
+      <img src="/images/qigong-bones.webp" alt="qi gong with bones">
+    </div>
+    <h3 class="event-title">qi gong with bones</h3>
+    <div class="event-text">
+      <p>Sunday Aug 2 at 3pm | qi gong is an ancient chinese energy movement practice. in this one hour session, artist, musician and movement practitioner bones tan jones will guide you through the foundations of this embodied form of movement poetry. drawing from tradition, while rooting in experimental play and somatic movement, soundtracked by a curated mix of sonic landscapes, qi gong with bones is a perfect way to spend your sunday.</p>
+      <p>sliding scale $8-20. <a href="https://orakleapothecary.as.me/schedule/a5b895e8/appointment/96357824/calendar/13597678" target="_blank" rel="noopener">book online</a> + pay in person. no one turned away for lack of funds.</p>
+    </div>
+  </div>
+
 </div>
 
 <div class="events-section">
