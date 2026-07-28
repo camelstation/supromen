@@ -155,6 +155,7 @@ Status: published
         <a class="cal-title" href="https://orakleapothecary.as.me/schedule/a5b895e8" target="_blank" rel="noopener" style="color: var(--text);">qi gong with bones</a>
       </div>
       <div class="cal-meta">3pm</div>
+      <div class="cal-meta">With bones tan jones</div>
     </div>
   </li>
 
