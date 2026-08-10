@@ -329,7 +329,7 @@ a:active {
 }
 
 .event-datetime {
-  font-size: 1.44rem;
+  font-size: 1.1rem;
   font-weight: 700;
   margin: 0 0 0.4rem 0;
   color: var(--accent);
