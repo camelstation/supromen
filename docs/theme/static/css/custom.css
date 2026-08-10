@@ -328,6 +328,14 @@ a:active {
   max-width: 480px;
 }
 
+.event-datetime {
+  font-size: 1.1rem;
+  color: #999;
+  margin: 0 0 0.4rem 0;
+  width: 100%;
+  max-width: 480px;
+}
+
 .event-text {
   margin-top: 0.25rem;
   font-size: 0.95rem;
