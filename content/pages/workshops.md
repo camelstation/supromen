@@ -10,9 +10,10 @@ Status: published
     <div class="center-media">
       <img src="/images/qigong-bones.webp" alt="qi gong with bones">
     </div>
+    <p class="event-datetime">Sunday August 2</p>
     <h3 class="event-title">qi gong with bones</h3>
     <div class="event-text">
-      <p>Sunday Aug 2 at 3pm | Qi Gong is an ancient chinese energy movement practice. In this one hour session, artist, musician and movement practitioner bones tan jones will guide you through the foundations of this embodied form of movement poetry. Drawing from tradition, while rooting in experimental play and somatic movement, soundtracked by a curated mix of sonic landscapes, qi gong with bones is a perfect way to spend your sunday.</p>
+      <p>Qi Gong is an ancient chinese energy movement practice. In this one hour session, artist, musician and movement practitioner bones tan jones will guide you through the foundations of this embodied form of movement poetry. Drawing from tradition, while rooting in experimental play and somatic movement, soundtracked by a curated mix of sonic landscapes, qi gong with bones is a perfect way to spend your sunday.</p>
       <p>Sliding scale $8-20. <a href="https://orakleapothecary.as.me/schedule/a5b895e8/appointment/96357824/calendar/13597678" target="_blank" rel="noopener">Book online</a> + pay in person. No one turned away for lack of funds.</p>
     </div>
   </div>
@@ -21,9 +22,10 @@ Status: published
     <div class="center-media">
       <img src="/images/PracticeSpace-Shake.webp" alt="PRACTICE SPACE: Shake + Open Score">
     </div>
+    <p class="event-datetime">Thursday August 6</p>
     <h3 class="event-title">PRACTICE SPACE: Shake + Open Score</h3>
     <div class="event-text">
-      <p>Thursday Aug 6 | 7-9pm | One hour durational shake accompanied with a booming playlist followed by a 40min open score. Led by the Practice Space team.</p>
+      <p>One hour durational shake accompanied with a booming playlist followed by a 40min open score. Led by the Practice Space team.</p>
       <p><a href="https://pools.events/event/T1TB7Vv2/shake-open-score/" target="_blank" rel="noopener">Tickets available now</a></p>
     </div>
   </div>
@@ -36,9 +38,9 @@ Status: published
     <div class="center-media">
       <img src="/images/PracticeSpace-Series.jpg" alt="Practice Space">
     </div>
+    <p class="event-datetime">Tuesdays in May and Mondays in June</p>
     <h3 class="event-title">Practice Space</h3>
     <div class="event-text">
-      <p>Tuesdays in May | Mondays in June | Performance Nite on July 6</p>
       <p>Practice Space is a series inviting artists to share their improvisational performance practices. The accumulation of these scores will build into an improvised performance open to the public on July 6.</p>
       <p>You can choose to attend single sessions based on your schedule and interest, but you are encouraged to participate in as many workshops as possible, so we can build a vocabulary together.</p>
       <p>Single sessions are sliding scale $15-25. Get a bundle and save: all of May for $50-75, all of June for $60-85, or all sessions (including performance) for $100-200. Please pay what you can, and let us know (at <a href="mailto:practiceinspace@gmail.com">practiceinspace@gmail.com</a>) if cost is a barrier — no one will be turned away for lack of funds.</p>
@@ -62,9 +64,10 @@ Status: published
     <div class="center-media">
       <img src="/images/BodyWash-May31.webp" alt="Body Wash">
     </div>
+    <p class="event-datetime">Sunday May 31</p>
     <h3 class="event-title">Body Wash</h3>
     <div class="event-text">
-      <p>May 31 6:15-8:45pm | Body Wash is a creative movement workshop hosted by Maya Rubio. 90 mins: warm-up, open movement, journal, talk. Please bring a journal and a water bottle, and dress to move. Reflecting on: end of May, beginning of summer, personal symbols and ongoing trust / freedom / impulse. FREE to join — RSVP to <a href="mailto:maya.rubio@gmail.com">maya.rubio@gmail.com</a> or DM <a href="https://www.instagram.com/_body_wash/" target="_blank" rel="noopener">@_body_wash</a> on Instagram.</p>
+      <p>Body Wash is a creative movement workshop hosted by Maya Rubio. 90 mins: warm-up, open movement, journal, talk. Please bring a journal and a water bottle, and dress to move. Reflecting on: end of May, beginning of summer, personal symbols and ongoing trust / freedom / impulse. FREE to join — RSVP to <a href="mailto:maya.rubio@gmail.com">maya.rubio@gmail.com</a> or DM <a href="https://www.instagram.com/_body_wash/" target="_blank" rel="noopener">@_body_wash</a> on Instagram.</p>
     </div>
   </div>
 
@@ -72,9 +75,10 @@ Status: published
     <div class="center-media">
       <img src="/images/AriWorkshop_May2.jpg" alt="ARI Always Human Research Group">
     </div>
+    <p class="event-datetime">Saturday May 2</p>
     <h3 class="event-title">ARI Always Human Research Group</h3>
     <div class="event-text">
-      <p>May 2 11-3pm | If you love chairs so much, why don't you BE one?</p>
+      <p>If you love chairs so much, why don't you BE one?</p>
       <p>🪑UPDATE: Full, join the waitlist🪑 for no.4/4 of my current workshop series.</p>
       <p>This one is really self-explanatory…we will be making our bodies into chairs. We will explore balance, gravity, and support with movement exercises and eventually work our way into becoming devices for sitting. This one is the most movement-heavy of all 4, it is going to be FUN!</p>
       <p><a href="https://www.instagram.com/ari_alwayshuman/p/DXaMHduEQyV/" target="_blank" rel="noopener">Please see more information here</a></p>
@@ -85,9 +89,10 @@ Status: published
     <div class="center-media">
       <img src="/images/BodyWash_April28.jpg" alt="Body Wash">
     </div>
+    <p class="event-datetime">Tuesday April 28</p>
     <h3 class="event-title">Body Wash</h3>
     <div class="event-text">
-      <p>April 28 6:15-7:45pm | Body Wash is a 90 minute creative movement session hosted by Maya Rubio. This is the final iteration of the series. Participants should dress comfortably for movement. Please bring a journal and a water bottle if you'd like. FREE to join — RSVP to <a href="mailto:maya.rubio@gmail.com">maya.rubio@gmail.com</a> or DM <a href="https://www.instagram.com/_body_wash/" target="_blank" rel="noopener">@_body_wash</a> on Instagram.</p>
+      <p>Body Wash is a 90 minute creative movement session hosted by Maya Rubio. This is the final iteration of the series. Participants should dress comfortably for movement. Please bring a journal and a water bottle if you'd like. FREE to join — RSVP to <a href="mailto:maya.rubio@gmail.com">maya.rubio@gmail.com</a> or DM <a href="https://www.instagram.com/_body_wash/" target="_blank" rel="noopener">@_body_wash</a> on Instagram.</p>
     </div>
   </div>
 
@@ -95,6 +100,7 @@ Status: published
     <div class="center-media">
       <img src="/images/MeditationSessions.jpg" alt="Sunday Meditation Sessions">
     </div>
+    <p class="event-datetime">Sundays</p>
     <h3 class="event-title">Sunday Meditation Sessions</h3>
     <div class="event-text">
       <p>Artist Jemila MacEwan will host meditation sessions in the SUPR OMEN performance space on Sunday mornings. These sessions will take a practical and creative approach to meditation. Each class will focus on a different aspect of diverse meditation practices and is ideal for anyone interested in learning different approaches to meditation, or who have had difficulty getting into meditation in the past. Meditation mats and cushions supplied.</p>
@@ -105,9 +111,10 @@ Status: published
     <div class="center-media">
       <img src="/images/WritingToMove_March1.jpg" alt="Writing to Move, Moving to Write – March 1">
     </div>
+    <p class="event-datetime">Sunday April 12</p>
     <h3 class="event-title">Writing to Move, Moving to Write</h3>
     <div class="event-text">
-      <p>April 12 6:30pm | A new workshop by C. Francis Fisher that uses movement to generate writing and writing to generate movement. The second meeting will take place Sunday April 12th from 6:30-8pm. For poets, dancers, novelists, movers of all kinds! There is no "level" required for participation. Come if you're looking to feel unstuck and develop rituals to create with freedom and fluency. Wear comfortable clothes and bring a notebook with writing utensils. Tickets are $15-25, sliding scale. To reserve your spot and for more information, <a href="https://withfriends.events/event/KjKWzWjf/moving-to-write-writing-to-move/" target="_blank" rel="noopener">sign up here</a>.</p>
+      <p>A new workshop by C. Francis Fisher that uses movement to generate writing and writing to generate movement. The second meeting will take place Sunday April 12th from 6:30-8pm. For poets, dancers, novelists, movers of all kinds! There is no "level" required for participation. Come if you're looking to feel unstuck and develop rituals to create with freedom and fluency. Wear comfortable clothes and bring a notebook with writing utensils. Tickets are $15-25, sliding scale. To reserve your spot and for more information, <a href="https://withfriends.events/event/KjKWzWjf/moving-to-write-writing-to-move/" target="_blank" rel="noopener">sign up here</a>.</p>
     </div>
   </div>
 
@@ -115,9 +122,10 @@ Status: published
     <div class="center-media">
       <img src="/images/Bug_graphic.png" alt="Body Wash: Bug">
     </div>
+    <p class="event-datetime">Saturday April 11</p>
     <h3 class="event-title">Body Wash: Bug</h3>
     <div class="event-text">
-      <p>April 11 11-1pm | Body Wash is a 90 minute creative movement session hosted by Maya Rubio. This iteration is inspired by bugs – their unique movement qualities, sensorial experiences, and range of other characteristics. Drop in and find your bug dance!</p>
+      <p>Body Wash is a 90 minute creative movement session hosted by Maya Rubio. This iteration is inspired by bugs – their unique movement qualities, sensorial experiences, and range of other characteristics. Drop in and find your bug dance!</p>
       <p>Participants can expect:</p>
       <ul>
         <li>20 min guided warm-up</li>
@@ -133,9 +141,10 @@ Status: published
     <div class="center-media">
       <img src="/images/AlwaysHuman.jpg" alt="Always Human Research Group">
     </div>
+    <p class="event-datetime">Saturday March 28</p>
     <h3 class="event-title">Always Human Research Group</h3>
     <div class="event-text">
-      <p>March 28 | Monthly Workshop/Knowledge Creation with the (ARI) Saturday, March 28th Ari Elefterin will present Touch Tools, a workshop on skin hunger and the absurdity of having a body. Free to participate and open to all. If interested, <a href="https://www.instagram.com/p/DUn4-feESg4/?img_index=1" target="_blank" rel="noopener">please see more information here</a>.</p>
+      <p>Monthly Workshop/Knowledge Creation with the (ARI) Saturday, March 28th Ari Elefterin will present Touch Tools, a workshop on skin hunger and the absurdity of having a body. Free to participate and open to all. If interested, <a href="https://www.instagram.com/p/DUn4-feESg4/?img_index=1" target="_blank" rel="noopener">please see more information here</a>.</p>
     </div>
   </div>
 
