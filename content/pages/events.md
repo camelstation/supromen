@@ -11,7 +11,7 @@ Status: published
       <img src="/images/PITCH-August2026.webp" alt="PITCH presents Joëlle Antonia Santiago and Angelina Laguna">
     </div>
     <p class="event-datetime">Thursday Aug 27</p>
-    <h3 class="event-title">PITCH presents Joëlle Antonia Santiago and Angelina Laguna</h3>
+    <h3 class="event-title"><a href="https://pools.events/event/o2nSeZ3y/pitch-presents-joelle-antonia-santiago-and-angelina-laguna/" target="_blank" rel="noopener">PITCH presents Joëlle Antonia Santiago and Angelina Laguna</a></h3>
     <div class="event-text">
       <p>SUPR OMEN welcomes Joëlle Antonia Santiago and Angelina Laguna for PITCH.</p>
       <p>PITCH is a monthly program showcasing performances by dance &amp; performance makers. The second season of PITCH is curated by Chloe Sonnet Brown and Frances Rose Heintzelman.</p>
@@ -26,7 +26,7 @@ Status: published
       <img src="/images/DRIFT-Outgoing-August.webp" alt="Night of the Living Room">
     </div>
     <p class="event-datetime">Thursday Aug 20 &amp; Friday Aug 21</p>
-    <h3 class="event-title">Night of the Living Room</h3>
+    <h3 class="event-title"><a href="https://pools.events/event/qo6iPnj1/night-of-the-living-room/" target="_blank" rel="noopener">Night of the Living Room</a></h3>
     <div class="event-text">
       <p>Outgoing presents Night of the Living Room in all of SUPR OMEN's loft-ness.</p>
       <p>An installation of furniture, lamps, framed art on the wall and large scale projections of domestic interiors build a world inhabited with plants, flowers and a TV. In this atmosphere, Outgoing will perform their New York live music debut. 2 nights back to back. Soundtracking their 3 channel film 'Be Nice Long Weasel'. Outgoing will perform an extended set of electronic and percussive music that skips between genres and muddles textures with all the dynamism and joyous freedom the duo instil into their design and sculptural work.</p>
@@ -63,7 +63,7 @@ Status: published
       <img src="/images/AlexanderFord_July2026.webp" alt="By Any Other Name">
     </div>
     <p class="event-datetime">Friday July 24 &amp; Saturday July 25</p>
-    <h3 class="event-title">By Any Other Name</h3>
+    <h3 class="event-title"><a href="https://pools.events/event/QfX430WI/by-any-other-name/" target="_blank" rel="noopener">By Any Other Name</a></h3>
     <div class="event-text">
       <p>SUPR OMEN welcomes a new play by Alexander Ford, By Any Other Name.</p>
       <p>In 1661, the year women were first allowed onto the English stage, a Shakespeare actor specializing in women's roles must train the actress who is to replace him. Through the process of rehearsing Shakespeare, they come to understand each other, themselves, love, and reality itself in new ways that challenge them to push against the boundaries of the language in which they play.</p>
@@ -77,7 +77,7 @@ Status: published
       <img src="/images/PITCH-July2026.webp" alt="PITCH presents Tamás Marquardt and Iris McCloughan">
     </div>
     <p class="event-datetime">Thursday July 23</p>
-    <h3 class="event-title">PITCH presents Tamás Marquardt and Iris McCloughan</h3>
+    <h3 class="event-title"><a href="https://pools.events/event/tOuclfgA/pitch-presents-tamas-marquardt-and-iris-mccloughan/" target="_blank" rel="noopener">PITCH presents Tamás Marquardt and Iris McCloughan</a></h3>
     <div class="event-text">
       <p>SUPR OMEN welcomes Tamás Marquardt and Iris McCloughan for a PITCH double bill.</p>
       <p>Creature explores the link between Tamás Marquardt's transmasculinity and Magyar-Hungarian lineage through personal story, folk dance, and the writings and trial of 19th century queer Count Sándor Vay. A lecture-performance, a dance, an ancestral calling, Creature is told through ethnography and queer history.</p>
@@ -106,7 +106,7 @@ Status: published
       <img src="/images/whaleproject_june.webp" alt="ECHOES">
     </div>
     <p class="event-datetime">Wednesday June 24</p>
-    <h3 class="event-title">ECHOES</h3>
+    <h3 class="event-title"><a href="https://www.instagram.com/nanae_itoi/p/DYh-r92iSZD/" target="_blank" rel="noopener">ECHOES</a></h3>
     <div class="event-text">
       <p>Coiffeur + Art presents an immersive interactive art experience where touch, sensation and communication come alive through sensor-based technology, visuals and sound. Experience art that responds to your presence and connects people through interaction.</p>
       <p>The gallery opens at 3:00 PM, the performance starts at 7:30 PM</p>
@@ -119,7 +119,7 @@ Status: published
       <img src="/images/Kareena_Circle_June2026.webp" alt="Circle Piece by Kareena Solanki">
     </div>
     <p class="event-datetime">Sunday June 21</p>
-    <h3 class="event-title">Circle Piece by Kareena Solanki</h3>
+    <h3 class="event-title"><a href="https://www.kareenasolanki.com/" target="_blank" rel="noopener">Circle Piece by Kareena Solanki</a></h3>
     <div class="event-text">
       <p>SUPR OMEN welcomes a durational performance by Kareena Solanki.</p>
       <p>Join the circle<br>Be as you are<br>Respond to any sensations<br>Move in the same direction<br>Leave when you feel complete</p>
@@ -132,7 +132,7 @@ Status: published
       <img src="/images/PS_V_FINAL_4x5_SOCIAL.webp" alt="POINT SOURCE V: Performances in QUAD">
     </div>
     <p class="event-datetime">Saturday June 20</p>
-    <h3 class="event-title">POINT SOURCE V: Performances in QUAD</h3>
+    <h3 class="event-title"><a href="https://pools.events/t/g7f3wl9k/" target="_blank" rel="noopener">POINT SOURCE V: Performances in QUAD</a></h3>
     <div class="event-text">
       <p>Featuring Keith Fullerton Whitman // sadnoise (Femi Shonuga-Fleming) // Brian Wenner // Cecilia Lopez &amp; Matthew Ryals</p>
       <p>Point source is a recurring series of performances using quadraphonic sound. Why 4 speakers? Because it's flexible, forgiving and impactful. It requires no special hardware or knowledge to utilize and yet can accommodate complex spatialization methods as well as idiosyncratic approaches to spatialization. POINT SOURCE is about the accessibility of spatial sound.</p>
@@ -145,7 +145,7 @@ Status: published
       <img src="/images/PITCH-June2026.webp" alt="PITCH: Laura Witsken &amp; Benin Gardner">
     </div>
     <p class="event-datetime">Thursday June 18</p>
-    <h3 class="event-title">PITCH presents Laura Witsken &amp; Benin Gardner</h3>
+    <h3 class="event-title"><a href="https://pools.events/t/acnukg6k/" target="_blank" rel="noopener">PITCH presents Laura Witsken &amp; Benin Gardner</a></h3>
     <div class="event-text">
       <p>SUPR OMEN welcomes Laura Witsken and Benin Gardner for PITCH.</p>
       <p>PITCH is a monthly program showcasing performances by early career dance &amp; performance makers, curated by emerging dance &amp; performance curators and makers. The first season of PITCH is curated by Isabella Thorpe-Woods and Nora Raine Thompson.</p>
@@ -160,7 +160,7 @@ Status: published
       <img src="/images/poster-sarah-abellatif-chaves.webp" alt="Monument 1">
     </div>
     <p class="event-datetime">Friday June 5</p>
-    <h3 class="event-title">Monument 1</h3>
+    <h3 class="event-title"><a href="https://www.instagram.com/p/DYlIPEsAD8d/" target="_blank" rel="noopener">Monument 1</a></h3>
     <div class="event-text">
       <p>A group show with an immersive soundscape hosted and curated by Sarah Abdellatif-Chaves. Designed in collaboration with four distinct artists, each display is bespoke to the work.</p>
       <p><a href="https://www.instagram.com/p/DYlIPEsAD8d/" target="_blank" rel="noopener">More info</a></p>
@@ -172,7 +172,7 @@ Status: published
       <img src="/images/PITCH-May.webp" alt="PITCH presents Angel Zinovieff and Sol Cabrini">
     </div>
     <p class="event-datetime">Thursday May 28</p>
-    <h3 class="event-title">PITCH presents Angel Zinovieff and Sol Cabrini</h3>
+    <h3 class="event-title"><a href="https://withfriends.events/event/aN9AuOt0/pitch-presents-angel-zinovieff-and-sol-cabrini/" target="_blank" rel="noopener">PITCH presents Angel Zinovieff and Sol Cabrini</a></h3>
     <div class="event-text">
       <p>SUPR OMEN welcomes Angel Zinovieff and Sol Cabrini as the premier performance for PITCH, curated by Isabella Thorpe-Woods and Nora Raine Thompson.</p>
       <p><a href="https://supromen.com/curatorial-programs/">PITCH</a> is a monthly program showcasing performances by early career dance &amp; performance makers, curated by emerging dance &amp; performance curators and makers. The first season of PITCH is curated by Isabella Thorpe-Woods and Nora Raine Thompson.</p>
@@ -185,7 +185,7 @@ Status: published
       <img src="/images/Rinse-May.webp" alt="RINSE: Works in Progress">
     </div>
     <p class="event-datetime">Thursday May 21</p>
-    <h3 class="event-title">RINSE: Works in Progress</h3>
+    <h3 class="event-title"><a href="https://withfriends.events/event/Cl16nqiy/rinse-works-in-progress/" target="_blank" rel="noopener">RINSE: Works in Progress</a></h3>
     <div class="event-text">
       <p>Our quarterly event RINSE: Works in Progress at 7pm with doors at 6:30.</p>
       <p><a href="https://supromen.com/curatorial-programs/">RINSE</a> is a quarterly work-in-progress event highlighting artists of all disciplines in 10-minute showings of developing ideas. Inspired by cross-genre dialogue. Curated by C. Francis Fischer.</p>
@@ -199,7 +199,7 @@ Status: published
       <img src="/images/Drift-Maxine.webp" alt="Axine M &amp; Solid Choir">
     </div>
     <p class="event-datetime">Thursday May 14 &amp; Saturday May 16</p>
-    <h3 class="event-title">DRIFT presents Axine M &amp; Solid Choir</h3>
+    <h3 class="event-title"><a href="https://withfriends.events/event/zYemPG0d/axine-m-solid-choir-may-14-16/" target="_blank" rel="noopener">DRIFT presents Axine M &amp; Solid Choir</a></h3>
     <div class="event-text">
       <p>SUPR OMEN welcomes Axine M &amp; Solid Choir on May 14 &amp; 16 as the premier performance for <a href="https://supromen.com/curatorial-programs/">DRIFT</a>, a monthly program at SUPR OMEN showcasing live-works by artists who push to the edge of the edge of their discipline.</p>
       <p>Over two nights, Axine M presents a solo guitar and vocal set followed by the premiere of Solid Choir performing three-part vocal arrangements of Maxine's original songs.</p>
@@ -214,7 +214,7 @@ Status: published
       <img src="/images/Kanami-LiminalWaves.jpeg" alt="Liminal Waves">
     </div>
     <p class="event-datetime">Saturday May 9</p>
-    <h3 class="event-title">Liminal Waves</h3>
+    <h3 class="event-title"><a href="https://partiful.com/e/ZORRUp1uplNQYVSvWaMp" target="_blank" rel="noopener">Liminal Waves</a></h3>
     <div class="event-text">
       <p>Hi friends 🌷💥🌷 Missed our past shows? Curious what happens behind the scenes of our performance art?</p>
       <p>We're opening up our archives — a glimpse into the process, the layers, the unseen ✨🐈‍⬛✨ This time, it's more than just watching… you'll step inside the work. Don't miss it again ⚡️</p>
@@ -238,7 +238,7 @@ Status: published
       <img src="/images/RINSE_March13.jpg" alt="RINSE: Works in Progress – March 13">
     </div>
     <p class="event-datetime">Friday March 13</p>
-    <h3 class="event-title">RINSE: Works in Progress</h3>
+    <h3 class="event-title"><a href="https://withfriends.events/event/B3PNmJGb/rinse-works-in-progress/" target="_blank" rel="noopener">RINSE: Works in Progress</a></h3>
     <div class="event-text">
       <p>Our quarterly event RINSE: Works in Progress launches on March 13th at 7pm with doors at 6:30.</p>
       <p>RINSE is an ongoing, quarterly event, showcasing our community by highlighting artists of all disciplines with 10 minute showings of developing ideas. Inspired by the desire for dialogue across genres, each evening is curated by C. Francis Fisher. This informal format aims to springboard collaboration and conversation of all kinds. We want to remain affordable for all so tickets are sliding scale, $10-$25. Stay afterwards to chat with artists over a cash bar.</p>
