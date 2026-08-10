@@ -30,9 +30,10 @@ Status: published
     <div class="center-media">
       <img src="/images/AlexanderFord_July2026.webp" alt="By Any Other Name">
     </div>
+    <p class="event-datetime">Friday July 24 &amp; Saturday July 25</p>
     <h3 class="event-title">By Any Other Name</h3>
     <div class="event-text">
-      <p>Friday July 24 &amp; Saturday July 25 at 8pm | SUPR OMEN welcomes a new play by Alexander Ford, By Any Other Name.</p>
+      <p>SUPR OMEN welcomes a new play by Alexander Ford, By Any Other Name.</p>
       <p>In 1661, the year women were first allowed onto the English stage, a Shakespeare actor specializing in women's roles must train the actress who is to replace him. Through the process of rehearsing Shakespeare, they come to understand each other, themselves, love, and reality itself in new ways that challenge them to push against the boundaries of the language in which they play.</p>
       <p>An Equity Approved Showcase</p>
       <p><a href="https://pools.events/event/QfX430WI/by-any-other-name/" target="_blank" rel="noopener">Tickets available now</a></p>
@@ -43,9 +44,10 @@ Status: published
     <div class="center-media">
       <img src="/images/PITCH-July2026.webp" alt="PITCH presents Tamás Marquardt and Iris McCloughan">
     </div>
+    <p class="event-datetime">Thursday July 23</p>
     <h3 class="event-title">PITCH presents Tamás Marquardt and Iris McCloughan</h3>
     <div class="event-text">
-      <p>Thursday July 23 | Doors at 7:30pm | Show at 8pm | SUPR OMEN welcomes Tamás Marquardt and Iris McCloughan for a PITCH double bill.</p>
+      <p>SUPR OMEN welcomes Tamás Marquardt and Iris McCloughan for a PITCH double bill.</p>
       <p>Creature explores the link between Tamás Marquardt's transmasculinity and Magyar-Hungarian lineage through personal story, folk dance, and the writings and trial of 19th century queer Count Sándor Vay. A lecture-performance, a dance, an ancestral calling, Creature is told through ethnography and queer history.</p>
       <p>DAD and COP is a new performance about authority and desire by Iris McCloughan.</p>
       <p>PITCH is a monthly program showcasing performances by dance &amp; performance makers. The first season of PITCH is curated by Isabella Thorpe-Woods and Nora Raine Thompson.</p>
@@ -57,9 +59,10 @@ Status: published
     <div class="center-media">
       <img src="/images/PracticeSpace_Recital_July2026.webp" alt="Practice Space: Recital">
     </div>
+    <p class="event-datetime">Monday July 6</p>
     <h3 class="event-title"><a href="https://pools.events/event/2fzpZ3xL/recital/" target="_blank" rel="noopener">Practice Space: Recital</a></h3>
     <div class="event-text">
-      <p>Monday July 6 | 6:30pm for performers &amp; 8pm for the audience | Join us for the Practice Space performance, Recital.</p>
+      <p>Join us for the Practice Space performance, Recital.</p>
       <p>Recital is a real performance: serious, with elevated stakes via the magic of spectatorship and also: a time to mess around with the information that is already in the space between us. This is a serious mess, attempting to share the peril and grace of improvisation.</p>
       <p>This performance will be influenced by the practices of artists: James Barrett, Marguerite Hemmings, Liony Garcia, Kayvon Pourazar, Jo Warren, Tamás Marquardt, Kris Lee, Evan Ray Suzuki, Nora Thompson, Chloe Engel, Neva Guido, and Rose Cole Cohen.</p>
       <p><a href="https://pools.events/event/2fzpZ3xL/recital/" target="_blank" rel="noopener">Tickets available now</a></p>
@@ -70,9 +73,10 @@ Status: published
     <div class="center-media">
       <img src="/images/whaleproject_june.webp" alt="ECHOES">
     </div>
+    <p class="event-datetime">Wednesday June 24</p>
     <h3 class="event-title">ECHOES</h3>
     <div class="event-text">
-      <p>June 24 at 7:30pm | Coiffeur + Art presents an immersive interactive art experience where touch, sensation and communication come alive through sensor-based technology, visuals and sound. Experience art that responds to your presence and connects people through interaction.</p>
+      <p>Coiffeur + Art presents an immersive interactive art experience where touch, sensation and communication come alive through sensor-based technology, visuals and sound. Experience art that responds to your presence and connects people through interaction.</p>
       <p>The gallery opens at 3:00 PM, the performance starts at 7:30 PM</p>
       <p><a href="https://www.instagram.com/nanae_itoi/p/DYh-r92iSZD/" target="_blank" rel="noopener">More info</a></p>
     </div>
@@ -82,9 +86,10 @@ Status: published
     <div class="center-media">
       <img src="/images/Kareena_Circle_June2026.webp" alt="Circle Piece by Kareena Solanki">
     </div>
+    <p class="event-datetime">Sunday June 21</p>
     <h3 class="event-title">Circle Piece by Kareena Solanki</h3>
     <div class="event-text">
-      <p>Sunday June 21 at 7pm | SUPR OMEN welcomes a durational performance by Kareena Solanki.</p>
+      <p>SUPR OMEN welcomes a durational performance by Kareena Solanki.</p>
       <p>Join the circle<br>Be as you are<br>Respond to any sensations<br>Move in the same direction<br>Leave when you feel complete</p>
       <p><a href="https://www.kareenasolanki.com/" target="_blank" rel="noopener">More info</a></p>
     </div>
@@ -94,9 +99,10 @@ Status: published
     <div class="center-media">
       <img src="/images/PS_V_FINAL_4x5_SOCIAL.webp" alt="POINT SOURCE V: Performances in QUAD">
     </div>
+    <p class="event-datetime">Saturday June 20</p>
     <h3 class="event-title">POINT SOURCE V: Performances in QUAD</h3>
     <div class="event-text">
-      <p>June 20 at 7:30pm | Featuring Keith Fullerton Whitman // sadnoise (Femi Shonuga-Fleming) // Brian Wenner // Cecilia Lopez &amp; Matthew Ryals</p>
+      <p>Featuring Keith Fullerton Whitman // sadnoise (Femi Shonuga-Fleming) // Brian Wenner // Cecilia Lopez &amp; Matthew Ryals</p>
       <p>Point source is a recurring series of performances using quadraphonic sound. Why 4 speakers? Because it's flexible, forgiving and impactful. It requires no special hardware or knowledge to utilize and yet can accommodate complex spatialization methods as well as idiosyncratic approaches to spatialization. POINT SOURCE is about the accessibility of spatial sound.</p>
       <p><a href="https://pools.events/t/g7f3wl9k/" target="_blank" rel="noopener">Tickets available now</a></p>
     </div>
@@ -106,9 +112,10 @@ Status: published
     <div class="center-media">
       <img src="/images/PITCH-June2026.webp" alt="PITCH: Laura Witsken &amp; Benin Gardner">
     </div>
+    <p class="event-datetime">Thursday June 18</p>
     <h3 class="event-title">PITCH presents Laura Witsken &amp; Benin Gardner</h3>
     <div class="event-text">
-      <p>June 18 at 8pm | SUPR OMEN welcomes Laura Witsken and Benin Gardner for PITCH.</p>
+      <p>SUPR OMEN welcomes Laura Witsken and Benin Gardner for PITCH.</p>
       <p>PITCH is a monthly program showcasing performances by early career dance &amp; performance makers, curated by emerging dance &amp; performance curators and makers. The first season of PITCH is curated by Isabella Thorpe-Woods and Nora Raine Thompson.</p>
       <p>Laura Witsken is a dancer based in NYC. Her current choreographic and improvisatory work explores alliance of articulation and effort. Her collaborative work with multidisciplinary artist Izzy Leung has been shared at the 6BC Botanical Garden (Slow Violence, 2025) and The Woods (SWAN SONG, 2025). Laura has performed in the work of Gillian Walsh, Moriah Evans, Ella Dawn W-S, Madeline Wilcox, Adrienne Westwood and Nicole Mannarino.</p>
       <p>Benin Gardner is a dance artist and writer from Los Angeles who lives in New York.</p>
@@ -120,9 +127,10 @@ Status: published
     <div class="center-media">
       <img src="/images/poster-sarah-abellatif-chaves.webp" alt="Monument 1">
     </div>
+    <p class="event-datetime">Friday June 5</p>
     <h3 class="event-title">Monument 1</h3>
     <div class="event-text">
-      <p>June 5 at 7pm | A group show with an immersive soundscape hosted and curated by Sarah Abdellatif-Chaves. Designed in collaboration with four distinct artists, each display is bespoke to the work.</p>
+      <p>A group show with an immersive soundscape hosted and curated by Sarah Abdellatif-Chaves. Designed in collaboration with four distinct artists, each display is bespoke to the work.</p>
       <p><a href="https://www.instagram.com/p/DYlIPEsAD8d/" target="_blank" rel="noopener">More info</a></p>
     </div>
   </div>
@@ -131,9 +139,10 @@ Status: published
     <div class="center-media">
       <img src="/images/PITCH-May.webp" alt="PITCH presents Angel Zinovieff and Sol Cabrini">
     </div>
+    <p class="event-datetime">Thursday May 28</p>
     <h3 class="event-title">PITCH presents Angel Zinovieff and Sol Cabrini</h3>
     <div class="event-text">
-      <p>May 28 at 8pm | SUPR OMEN welcomes Angel Zinovieff and Sol Cabrini as the premier performance for PITCH, curated by Isabella Thorpe-Woods and Nora Raine Thompson.</p>
+      <p>SUPR OMEN welcomes Angel Zinovieff and Sol Cabrini as the premier performance for PITCH, curated by Isabella Thorpe-Woods and Nora Raine Thompson.</p>
       <p><a href="https://supromen.com/curatorial-programs/">PITCH</a> is a monthly program showcasing performances by early career dance &amp; performance makers, curated by emerging dance &amp; performance curators and makers. The first season of PITCH is curated by Isabella Thorpe-Woods and Nora Raine Thompson.</p>
       <p><a href="https://withfriends.events/event/aN9AuOt0/pitch-presents-angel-zinovieff-and-sol-cabrini/" target="_blank" rel="noopener">Tickets available now</a></p>
     </div>
@@ -143,9 +152,10 @@ Status: published
     <div class="center-media">
       <img src="/images/Rinse-May.webp" alt="RINSE: Works in Progress">
     </div>
+    <p class="event-datetime">Thursday May 21</p>
     <h3 class="event-title">RINSE: Works in Progress</h3>
     <div class="event-text">
-      <p>May 21 at 7pm | Our quarterly event RINSE: Works in Progress at 7pm with doors at 6:30.</p>
+      <p>Our quarterly event RINSE: Works in Progress at 7pm with doors at 6:30.</p>
       <p><a href="https://supromen.com/curatorial-programs/">RINSE</a> is a quarterly work-in-progress event highlighting artists of all disciplines in 10-minute showings of developing ideas. Inspired by cross-genre dialogue. Curated by C. Francis Fischer.</p>
       <p>Doors at 6:30, event starts at 7. Stay afterwards to chat with the artists over a cash bar. The May 21 program will feature Jerry Leiblich, E. Adamo, Jimin Seo &amp; Noah Wertheimer.</p>
       <p><a href="https://withfriends.events/event/Cl16nqiy/rinse-works-in-progress/" target="_blank" rel="noopener">Tickets available now</a></p>
@@ -156,9 +166,10 @@ Status: published
     <div class="center-media">
       <img src="/images/Drift-Maxine.webp" alt="Axine M &amp; Solid Choir">
     </div>
+    <p class="event-datetime">Thursday May 14 &amp; Saturday May 16</p>
     <h3 class="event-title">DRIFT presents Axine M &amp; Solid Choir</h3>
     <div class="event-text">
-      <p>May 14 & 16 at 8pm (doors at 7pm) | SUPR OMEN welcomes Axine M &amp; Solid Choir on May 14 &amp; 16 as the premier performance for <a href="https://supromen.com/curatorial-programs/">DRIFT</a>, a monthly program at SUPR OMEN showcasing live-works by artists who push to the edge of the edge of their discipline.</p>
+      <p>SUPR OMEN welcomes Axine M &amp; Solid Choir on May 14 &amp; 16 as the premier performance for <a href="https://supromen.com/curatorial-programs/">DRIFT</a>, a monthly program at SUPR OMEN showcasing live-works by artists who push to the edge of the edge of their discipline.</p>
       <p>Over two nights, Axine M presents a solo guitar and vocal set followed by the premiere of Solid Choir performing three-part vocal arrangements of Maxine's original songs.</p>
       <p>Axine M is a container for the musical impulses of Maxine de las Pozas. Born in Miami, seasoned by East Coast DIY, and based in Brooklyn. Axine M's Bored Giant Engine Sputter was released in 2025 on anno records. She was a 2024 Issue Project Room Artist in Residence. Maxine works as a Technical Director and Sound Engineer.</p>
       <p>Solid Choir is a choir and also a group chat comprised of Ali Carter, Martina Gordon, Lea Jaffe, Leni Kreienberg, Christina Lan, Tayla Roberge, Mallie Sanford, and Amanda Schmidt. Directed by Axine M.</p>
@@ -170,9 +181,10 @@ Status: published
     <div class="center-media">
       <img src="/images/Kanami-LiminalWaves.jpeg" alt="Liminal Waves">
     </div>
+    <p class="event-datetime">Saturday May 9</p>
     <h3 class="event-title">Liminal Waves</h3>
     <div class="event-text">
-      <p>May 9 at 7pm | Hi friends 🌷💥🌷 Missed our past shows? Curious what happens behind the scenes of our performance art?</p>
+      <p>Hi friends 🌷💥🌷 Missed our past shows? Curious what happens behind the scenes of our performance art?</p>
       <p>We're opening up our archives — a glimpse into the process, the layers, the unseen ✨🐈‍⬛✨ This time, it's more than just watching… you'll step inside the work. Don't miss it again ⚡️</p>
       <p><a href="https://partiful.com/e/ZORRUp1uplNQYVSvWaMp" target="_blank" rel="noopener">Tickets available now</a></p>
     </div>
@@ -182,9 +194,10 @@ Status: published
     <div class="center-media">
       <img src="/images/PracticeSpace-Flyer.jpg" alt="Start Out: A night of spontaneous performance">
     </div>
+    <p class="event-datetime">Saturday April 11</p>
     <h3 class="event-title">Start Out: A night of spontaneous performance</h3>
     <div class="event-text">
-      <p>April 11 at 7pm | We need your help to launch a revamped iteration of <a href="https://www.instagram.com/practice_in_space/" target="_blank" rel="noopener">Practice Space</a>. Please come perform and party with us to make it happen. Start Out is a lottery-style show where participants are randomly selected to enact impromptu performances. Tickets include one lottery entry if you dare. Drinks and merch for sale. All proceeds will go towards supporting a new iteration of Practice Space. Performances start at 8pm. <a href="https://givebutter.com/start-out-a-night-of-spontaneous-performance-practice-space-fundraiser-yvljl2" target="_blank" rel="noopener">Tickets available now</a></p>
+      <p>We need your help to launch a revamped iteration of <a href="https://www.instagram.com/practice_in_space/" target="_blank" rel="noopener">Practice Space</a>. Please come perform and party with us to make it happen. Start Out is a lottery-style show where participants are randomly selected to enact impromptu performances. Tickets include one lottery entry if you dare. Drinks and merch for sale. All proceeds will go towards supporting a new iteration of Practice Space. Performances start at 8pm. <a href="https://givebutter.com/start-out-a-night-of-spontaneous-performance-practice-space-fundraiser-yvljl2" target="_blank" rel="noopener">Tickets available now</a></p>
     </div>
   </div>
 
@@ -192,9 +205,10 @@ Status: published
     <div class="center-media">
       <img src="/images/RINSE_March13.jpg" alt="RINSE: Works in Progress – March 13">
     </div>
+    <p class="event-datetime">Friday March 13</p>
     <h3 class="event-title">RINSE: Works in Progress</h3>
     <div class="event-text">
-      <p>March 13 at 7pm | Our quarterly event RINSE: Works in Progress launches on March 13th at 7pm with doors at 6:30. <a href="https://withfriends.events/event/B3PNmJGb/rinse-works-in-progress/" target="_blank" rel="noopener">Get tickets now</a>!</p>
+      <p>Our quarterly event RINSE: Works in Progress launches on March 13th at 7pm with doors at 6:30. <a href="https://withfriends.events/event/B3PNmJGb/rinse-works-in-progress/" target="_blank" rel="noopener">Get tickets now</a>!</p>
       <p>RINSE is an ongoing, quarterly event, showcasing our community by highlighting artists of all disciplines with 10 minute showings of developing ideas. Inspired by the desire for dialogue across genres, each evening is curated by C. Francis Fisher. This informal format aims to springboard collaboration and conversation of all kinds. We want to remain affordable for all so tickets are sliding scale, $10-$25. Stay afterwards to chat with artists over a cash bar.</p>
       <p>The March 13th program will feature visual artist Lemuel E. Saputra, theatre maker Matt Romein, performance artist Sonya Molansky, and comic writer Natalie Raskin.</p>
     </div>
@@ -204,9 +218,10 @@ Status: published
     <div class="center-media">
       <video src="/images/opening_flyer.mov" autoplay muted loop playsinline></video>
     </div>
+    <p class="event-datetime">Saturday January 31</p>
     <h3 class="event-title">Launch Party</h3>
     <div class="event-text">
-      <p>January 31 | SUPR OMEN is taking off</p>
+      <p>SUPR OMEN is taking off</p>
     </div>
   </div>
 </div>
