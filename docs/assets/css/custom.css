@@ -616,6 +616,7 @@ a:active {
    ========================= */
 
 .page--events .center-media,
+.page--workshops .center-media,
 .page--membership .center-media {
   min-height: 0;      /* override min-height: 100vh */
   flex: 1;            /* fill available space inside .content */
