@@ -329,8 +329,10 @@ a:active {
 }
 
 .event-datetime {
-  font-size: 1.1rem;
-  color: #999;
+  font-size: 1.44rem;
+  font-weight: 700;
+  color: #6abf69;
+  text-align: left;
   margin: 0 0 0.4rem 0;
   width: 100%;
   max-width: 480px;
