@@ -6,19 +6,18 @@ Status: published
 
 <div class="events-section">
 
-  <div class="event-block" id="drift-gushes">
+  <div class="event-block">
     <div class="center-media">
-      <img src="/images/DRIFT-gushes-july.webp" alt="DRIFT presents gushes: PROTEIN">
+      <img src="/images/PITCH-August2026.webp" alt="PITCH presents Joëlle Antonia Santiago and Angelina Laguna">
     </div>
-    <p class="event-datetime">Friday Jul 31</p>
-    <h3 class="event-title"><a href="https://pools.events/event/htt1Fw2w/gushes-protein/" target="_blank" rel="noopener">DRIFT presents gushes: PROTEIN</a></h3>
+    <p class="event-datetime">Thursday Aug 27</p>
+    <h3 class="event-title">PITCH presents Joëlle Antonia Santiago and Angelina Laguna</h3>
     <div class="event-text">
-      <p>SUPR OMEN welcomes <a href="https://gushesmusic.com/" target="_blank" rel="noopener">gushes</a> on July 31 as part of <a href="https://supromen.com/curatorial-programs/" target="_blank" rel="noopener">DRIFT</a>, a monthly program showcasing live-works by artists who push to the edge of the edge.</p>
-      <p>gushes: PROTEIN is live techno dance-punk for the new flesh, by Jennae Santos (guitar, electronics, vocals) and Ricky Petraglia (electronic drum, hardware). In a song cycle culling millennial futurist combat &amp; underground club scenes—read: soundtracks to The Matrix, Hackers, and Blade—the duo satirizes the internet-fed hyper-masc self/body-image with thick riffs, breakbeats, and hard sequencing. The club is the gym is church. Cached by ethereal drones, our story begins in the Fruitger Aero paradise of a precolonial internet.</p>
-      <p>While PROTEIN is a vehement departure from gushes' chamber prog opus, Delicious Collision (2025), the project's signature bombast rings true to new form and new mythos. Clad in suits and chains, gushes: PROTEIN bot-baits the dance floor with fitness and wellness trends, ketosis as a religion, macro-goal romanticism, and self-engine optimization. The body keeps Scroll.</p>
-      <p>Jennae Santos is a Filipinx interdisciplinary artist instigating ceremonial mess. Their project gushes converges music performance with shared sensory gesture to reconnect the body with land, food, and politic against oppressive systems designed to sever these vital relations.</p>
-      <p>Santos has shared the stage with Karen O, Money Mark, Yuka Honda, Satomi Matsuzaki, and Arone Dyer. They have performed in theaters, clubs, farms, galleries, and DIY spaces across the US, Australia, and Portugal including The Sydney Opera House, Performance Space New York, The Public Theater, St. Anne's Warehouse, National Sawdust, Roulette Intermedium, TV Eye, Movement Research at Judson Church, Basilica Hudson, The Vulcan, Thee Stork Club, Coaxial Arts, Domingo World, 6BC Garden, Flux Factory, Galeria ZDB, and SQUARE Festival.</p>
-      <p><a href="https://pools.events/event/htt1Fw2w/gushes-protein/" target="_blank" rel="noopener">Tickets available now</a></p>
+      <p>SUPR OMEN welcomes Joëlle Antonia Santiago and Angelina Laguna for PITCH.</p>
+      <p>PITCH is a monthly program showcasing performances by dance &amp; performance makers. The second season of PITCH is curated by Chloe Sonnet Brown and Frances Rose Heintzelman.</p>
+      <p>Joëlle Antonia Santiago (b. New York, NY) is a choreographer. She is a Fulbright Scholar and a recipient of the Harriet Hale-Woolley Award for the Arts. Joëlle has presented work at venues such as X-Posed on the Chelsea Highline, Roulette Intermedium, Chelsea Piers, The Clark Art Institute, NYU Tisch School of the Arts, la Fondation des États-Unis (Paris), with upcoming performances at BAM Next Wave, Performance Space New York, and National Sawdust. Her writing is published in The Whitney Review, Culturebot, and IMPULSE Magazine. Santiago graduated from Barnard College of Columbia University and teaches at the NYU Tisch School of the Arts.</p>
+      <p>Angelina Laguna is a performance artist working in New York City. She has worked for and alongside choreographers, visual artists, musicians, writers, organizers, lawyers, and table tennis champions. She performs in studios, on stages, and on sidewalks. Laguna maintains physical practices of ballet, Cunningham technique, and the Pilates method. Additionally, she is involved with the Cabrini Immigrant Services Food Pantry and with various socialist and anti-imperialist groups across the city. These practices shape her process and performances.</p>
+      <p><a href="https://pools.events/event/o2nSeZ3y/pitch-presents-joelle-antonia-santiago-and-angelina-laguna/" target="_blank" rel="noopener">Tickets available now</a></p>
     </div>
   </div>
 
@@ -39,18 +38,19 @@ Status: published
     </div>
   </div>
 
-  <div class="event-block">
+  <div class="event-block" id="drift-gushes">
     <div class="center-media">
-      <img src="/images/PITCH-August2026.webp" alt="PITCH presents Joëlle Antonia Santiago and Angelina Laguna">
+      <img src="/images/DRIFT-gushes-july.webp" alt="DRIFT presents gushes: PROTEIN">
     </div>
-    <p class="event-datetime">Thursday Aug 27</p>
-    <h3 class="event-title">PITCH presents Joëlle Antonia Santiago and Angelina Laguna</h3>
+    <p class="event-datetime">Friday Jul 31</p>
+    <h3 class="event-title"><a href="https://pools.events/event/htt1Fw2w/gushes-protein/" target="_blank" rel="noopener">DRIFT presents gushes: PROTEIN</a></h3>
     <div class="event-text">
-      <p>SUPR OMEN welcomes Joëlle Antonia Santiago and Angelina Laguna for PITCH.</p>
-      <p>PITCH is a monthly program showcasing performances by dance &amp; performance makers. The second season of PITCH is curated by Chloe Sonnet Brown and Frances Rose Heintzelman.</p>
-      <p>Joëlle Antonia Santiago (b. New York, NY) is a choreographer. She is a Fulbright Scholar and a recipient of the Harriet Hale-Woolley Award for the Arts. Joëlle has presented work at venues such as X-Posed on the Chelsea Highline, Roulette Intermedium, Chelsea Piers, The Clark Art Institute, NYU Tisch School of the Arts, la Fondation des États-Unis (Paris), with upcoming performances at BAM Next Wave, Performance Space New York, and National Sawdust. Her writing is published in The Whitney Review, Culturebot, and IMPULSE Magazine. Santiago graduated from Barnard College of Columbia University and teaches at the NYU Tisch School of the Arts.</p>
-      <p>Angelina Laguna is a performance artist working in New York City. She has worked for and alongside choreographers, visual artists, musicians, writers, organizers, lawyers, and table tennis champions. She performs in studios, on stages, and on sidewalks. Laguna maintains physical practices of ballet, Cunningham technique, and the Pilates method. Additionally, she is involved with the Cabrini Immigrant Services Food Pantry and with various socialist and anti-imperialist groups across the city. These practices shape her process and performances.</p>
-      <p><a href="https://pools.events/event/o2nSeZ3y/pitch-presents-joelle-antonia-santiago-and-angelina-laguna/" target="_blank" rel="noopener">Tickets available now</a></p>
+      <p>SUPR OMEN welcomes <a href="https://gushesmusic.com/" target="_blank" rel="noopener">gushes</a> on July 31 as part of <a href="https://supromen.com/curatorial-programs/" target="_blank" rel="noopener">DRIFT</a>, a monthly program showcasing live-works by artists who push to the edge of the edge.</p>
+      <p>gushes: PROTEIN is live techno dance-punk for the new flesh, by Jennae Santos (guitar, electronics, vocals) and Ricky Petraglia (electronic drum, hardware). In a song cycle culling millennial futurist combat &amp; underground club scenes—read: soundtracks to The Matrix, Hackers, and Blade—the duo satirizes the internet-fed hyper-masc self/body-image with thick riffs, breakbeats, and hard sequencing. The club is the gym is church. Cached by ethereal drones, our story begins in the Fruitger Aero paradise of a precolonial internet.</p>
+      <p>While PROTEIN is a vehement departure from gushes' chamber prog opus, Delicious Collision (2025), the project's signature bombast rings true to new form and new mythos. Clad in suits and chains, gushes: PROTEIN bot-baits the dance floor with fitness and wellness trends, ketosis as a religion, macro-goal romanticism, and self-engine optimization. The body keeps Scroll.</p>
+      <p>Jennae Santos is a Filipinx interdisciplinary artist instigating ceremonial mess. Their project gushes converges music performance with shared sensory gesture to reconnect the body with land, food, and politic against oppressive systems designed to sever these vital relations.</p>
+      <p>Santos has shared the stage with Karen O, Money Mark, Yuka Honda, Satomi Matsuzaki, and Arone Dyer. They have performed in theaters, clubs, farms, galleries, and DIY spaces across the US, Australia, and Portugal including The Sydney Opera House, Performance Space New York, The Public Theater, St. Anne's Warehouse, National Sawdust, Roulette Intermedium, TV Eye, Movement Research at Judson Church, Basilica Hudson, The Vulcan, Thee Stork Club, Coaxial Arts, Domingo World, 6BC Garden, Flux Factory, Galeria ZDB, and SQUARE Festival.</p>
+      <p><a href="https://pools.events/event/htt1Fw2w/gushes-protein/" target="_blank" rel="noopener">Tickets available now</a></p>
     </div>
   </div>
 
@@ -229,7 +229,7 @@ Status: published
     <p class="event-datetime">Saturday April 11</p>
     <h3 class="event-title">Start Out: A night of spontaneous performance</h3>
     <div class="event-text">
-      <p>We need your help to launch a revamped iteration of <a href="https://www.instagram.com/practice_in_space/" target="_blank" rel="noopener">Practice Space</a>. Please come perform and party with us to make it happen. Start Out is a lottery-style show where participants are randomly selected to enact impromptu performances. Tickets include one lottery entry if you dare. Drinks and merch for sale. All proceeds will go towards supporting a new iteration of Practice Space. Performances start at 8pm. <a href="https://givebutter.com/start-out-a-night-of-spontaneous-performance-practice-space-fundraiser-yvljl2" target="_blank" rel="noopener">Tickets available now</a></p>
+      <p>We need your help to launch a revamped iteration of <a href="https://www.instagram.com/practice_in_space/" target="_blank" rel="noopener">Practice Space</a>. Please come perform and party with us to make it happen. Start Out is a lottery-style show where participants are randomly selected to enact impromptu performances. Tickets include one lottery entry if you dare. Drinks and merch for sale. All proceeds will go towards supporting a new iteration of Practice Space. Performances start at 8pm.</p>
     </div>
   </div>
 
@@ -240,9 +240,10 @@ Status: published
     <p class="event-datetime">Friday March 13</p>
     <h3 class="event-title">RINSE: Works in Progress</h3>
     <div class="event-text">
-      <p>Our quarterly event RINSE: Works in Progress launches on March 13th at 7pm with doors at 6:30. <a href="https://withfriends.events/event/B3PNmJGb/rinse-works-in-progress/" target="_blank" rel="noopener">Get tickets now</a>!</p>
+      <p>Our quarterly event RINSE: Works in Progress launches on March 13th at 7pm with doors at 6:30.</p>
       <p>RINSE is an ongoing, quarterly event, showcasing our community by highlighting artists of all disciplines with 10 minute showings of developing ideas. Inspired by the desire for dialogue across genres, each evening is curated by C. Francis Fisher. This informal format aims to springboard collaboration and conversation of all kinds. We want to remain affordable for all so tickets are sliding scale, $10-$25. Stay afterwards to chat with artists over a cash bar.</p>
       <p>The March 13th program will feature visual artist Lemuel E. Saputra, theatre maker Matt Romein, performance artist Sonya Molansky, and comic writer Natalie Raskin.</p>
+      <p><a href="https://withfriends.events/event/B3PNmJGb/rinse-works-in-progress/" target="_blank" rel="noopener">Tickets available now</a></p>
     </div>
   </div>
 
@@ -251,7 +252,7 @@ Status: published
       <video src="/images/opening_flyer.mov" autoplay muted loop playsinline></video>
     </div>
     <p class="event-datetime">Saturday January 31</p>
-    <h3 class="event-title">Launch Party</h3>
+    <h3 class="event-title">LAUNCH PARTY</h3>
     <div class="event-text">
       <p>SUPR OMEN is taking off</p>
     </div>
