@@ -5,7 +5,6 @@ Save_as: events/index.html
 Status: published
 
 <div class="events-section">
-  <h2 class="events-section__heading">Upcoming Events</h2>
 
   <div class="event-block" id="drift-gushes">
     <div class="center-media">
@@ -25,7 +24,6 @@ Status: published
 </div>
 
 <div class="events-section">
-  <h2 class="events-section__heading">Past Events</h2>
 
   <div class="event-block">
     <div class="center-media">
