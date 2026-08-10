@@ -8,18 +8,6 @@ Status: published
 
   <div class="event-block">
     <div class="center-media">
-      <img src="/images/qigong-bones.webp" alt="qi gong with bones">
-    </div>
-    <p class="event-datetime">Sunday August 2</p>
-    <h3 class="event-title">qi gong with bones</h3>
-    <div class="event-text">
-      <p>Qi Gong is an ancient chinese energy movement practice. In this one hour session, artist, musician and movement practitioner bones tan jones will guide you through the foundations of this embodied form of movement poetry. Drawing from tradition, while rooting in experimental play and somatic movement, soundtracked by a curated mix of sonic landscapes, qi gong with bones is a perfect way to spend your sunday.</p>
-      <p>Sliding scale $8-20. <a href="https://orakleapothecary.as.me/schedule/a5b895e8/appointment/96357824/calendar/13597678" target="_blank" rel="noopener">Book online</a> + pay in person. No one turned away for lack of funds.</p>
-    </div>
-  </div>
-
-  <div class="event-block">
-    <div class="center-media">
       <img src="/images/PracticeSpace-Shake.webp" alt="PRACTICE SPACE: Shake + Open Score">
     </div>
     <p class="event-datetime">Thursday August 6</p>
@@ -27,6 +15,18 @@ Status: published
     <div class="event-text">
       <p>One hour durational shake accompanied with a booming playlist followed by a 40min open score. Led by the Practice Space team.</p>
       <p><a href="https://pools.events/event/T1TB7Vv2/shake-open-score/" target="_blank" rel="noopener">Tickets available now</a></p>
+    </div>
+  </div>
+
+  <div class="event-block">
+    <div class="center-media">
+      <img src="/images/qigong-bones.webp" alt="qi gong with bones">
+    </div>
+    <p class="event-datetime">Sunday August 2</p>
+    <h3 class="event-title">qi gong with bones</h3>
+    <div class="event-text">
+      <p>Qi Gong is an ancient chinese energy movement practice. In this one hour session, artist, musician and movement practitioner bones tan jones will guide you through the foundations of this embodied form of movement poetry. Drawing from tradition, while rooting in experimental play and somatic movement, soundtracked by a curated mix of sonic landscapes, qi gong with bones is a perfect way to spend your sunday.</p>
+      <p>Sliding scale $8-20. <a href="https://orakleapothecary.as.me/schedule/a5b895e8/appointment/96357824/calendar/13597678" target="_blank" rel="noopener">Book online</a> + pay in person. No one turned away for lack of funds.</p>
     </div>
   </div>
 
