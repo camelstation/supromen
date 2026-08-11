@@ -13,7 +13,7 @@ Status: published
     <p class="event-datetime">Thursday Aug 27</p>
     <h3 class="event-title"><a href="https://pools.events/event/o2nSeZ3y/pitch-presents-joelle-antonia-santiago-and-angelina-laguna/" target="_blank" rel="noopener">PITCH presents Joëlle Antonia Santiago and Angelina Laguna</a></h3>
     <div class="event-text">
-      <p>SUPR OMEN welcomes Joëlle Antonia Santiago and Angelina Laguna for PITCH.</p>
+      <p>SUPR OMEN welcomes <a href="https://joellesantiago.com/" target="_blank" rel="noopener">Joëlle Antonia Santiago</a> and <a href="http://angelinalaguna.cargo.site/" target="_blank" rel="noopener">Angelina Laguna</a> for PITCH.</p>
       <p>PITCH is a monthly program showcasing performances by dance &amp; performance makers. The second season of PITCH is curated by Chloe Sonnet Brown and Frances Rose Heintzelman.</p>
       <p>Joëlle Antonia Santiago (b. New York, NY) is a choreographer. She is a Fulbright Scholar and a recipient of the Harriet Hale-Woolley Award for the Arts. Joëlle has presented work at venues such as X-Posed on the Chelsea Highline, Roulette Intermedium, Chelsea Piers, The Clark Art Institute, NYU Tisch School of the Arts, la Fondation des États-Unis (Paris), with upcoming performances at BAM Next Wave, Performance Space New York, and National Sawdust. Her writing is published in The Whitney Review, Culturebot, and IMPULSE Magazine. Santiago graduated from Barnard College of Columbia University and teaches at the NYU Tisch School of the Arts.</p>
       <p>Angelina Laguna is a performance artist working in New York City. She has worked for and alongside choreographers, visual artists, musicians, writers, organizers, lawyers, and table tennis champions. She performs in studios, on stages, and on sidewalks. Laguna maintains physical practices of ballet, Cunningham technique, and the Pilates method. Additionally, she is involved with the Cabrini Immigrant Services Food Pantry and with various socialist and anti-imperialist groups across the city. These practices shape her process and performances.</p>
@@ -28,7 +28,7 @@ Status: published
     <p class="event-datetime">Thursday Aug 20 &amp; Friday Aug 21</p>
     <h3 class="event-title"><a href="https://pools.events/event/qo6iPnj1/night-of-the-living-room/" target="_blank" rel="noopener">Night of the Living Room</a></h3>
     <div class="event-text">
-      <p>Outgoing presents Night of the Living Room in all of SUPR OMEN's loft-ness.</p>
+      <p><a href="https://outgoing.website/" target="_blank" rel="noopener">Outgoing</a> presents Night of the Living Room in all of SUPR OMEN's loft-ness.</p>
       <p>An installation of furniture, lamps, framed art on the wall and large scale projections of domestic interiors build a world inhabited with plants, flowers and a TV. In this atmosphere, Outgoing will perform their New York live music debut. 2 nights back to back. Soundtracking their 3 channel film 'Be Nice Long Weasel'. Outgoing will perform an extended set of electronic and percussive music that skips between genres and muddles textures with all the dynamism and joyous freedom the duo instil into their design and sculptural work.</p>
       <p>Performances on 08/20 and 08/21<br>
       Doors at 7pm<br>
