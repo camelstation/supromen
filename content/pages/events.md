@@ -28,8 +28,9 @@ Status: published
     <p class="event-datetime">Thursday Aug 20 &amp; Friday Aug 21</p>
     <h3 class="event-title"><a href="https://pools.events/event/qo6iPnj1/night-of-the-living-room/" target="_blank" rel="noopener">Night of the Living Room</a></h3>
     <div class="event-text">
-      <p><a href="https://outgoing.website/" target="_blank" rel="noopener">Outgoing</a> presents Night of the Living Room in all of SUPR OMEN's loft-ness.</p>
+      <p>Across two nights, SUPR OMEN welcomes <a href="https://outgoing.website/" target="_blank" rel="noopener">Outgoing</a> for Night of the Living Room in all of SUPR OMEN's loft-ness.</p>
       <p>An installation of furniture, lamps, framed art on the wall and large scale projections of domestic interiors build a world inhabited with plants, flowers and a TV. In this atmosphere, Outgoing will perform their New York live music debut. 2 nights back to back. Soundtracking their 3 channel film 'Be Nice Long Weasel'. Outgoing will perform an extended set of electronic and percussive music that skips between genres and muddles textures with all the dynamism and joyous freedom the duo instil into their design and sculptural work.</p>
+      <p>Night of the Living Room is presented as part of DRIFT, a curated program at SUPR OMEN showcasing live-works by artists who push to the edge of the edge.<p>
       <p>Performances on 08/20 and 08/21<br>
       Doors at 7pm<br>
       Tickets $15 - $20<br>
