@@ -463,6 +463,28 @@ a:active {
   margin: 0;
 }
 
+.team-bio {
+  font-size: 0.9rem;
+  color: var(--text);
+  line-height: 1.6;
+  margin: 0.3rem 0 0;
+}
+
+/* =========================
+   About page: closing statement
+   ========================= */
+
+.about-closing {
+  width: 100%;
+  max-width: 720px;
+  margin: 1rem auto 0;
+  font-size: 1.05rem;
+  font-style: italic;
+  color: var(--text);
+  text-align: center;
+  line-height: 1.6;
+}
+
 /* =========================
    Shop page: editorial grid
    ========================= */
