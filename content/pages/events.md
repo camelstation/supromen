@@ -54,10 +54,6 @@ Status: published
     </div>
   </div>
 
-</div>
-
-<div class="events-section">
-
   <div class="event-block">
     <div class="center-media">
       <img src="/images/AlexanderFord_July2026.webp" alt="By Any Other Name">
