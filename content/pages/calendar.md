@@ -142,7 +142,7 @@ Status: published
         <span class="cal-symbol">◑</span>
         <a class="cal-title" href="https://pools.events/event/qo6iPnj1/night-of-the-living-room/" target="_blank" rel="noopener" style="color: var(--text);">Night of the Living Room</a>
       </div>
-      <div class="cal-meta">Doors at 7pm &middot; Outgoing</div>
+      <div class="cal-meta">Performance Thursday at 7pm &middot; Outgoing</div>
     </div>
   </li>
 
