@@ -21,6 +21,12 @@ Status: published
   height: 100%;
   object-fit: cover;
   display: block;
+  opacity: 1;
+  transition: opacity 0.25s ease;
+}
+
+.about-slideshow img.no-fade {
+  transition: none;
 }
 
 .about-slideshow-arrow {
@@ -79,7 +85,7 @@ Status: published
     "/images/about/5.webp"
   ];
   var DISPLAY_MS = 4000;
-  var BLANK_MS = 500;
+  var FADE_MS = 250;
   var idx = 0;
   var timer = null;
   var img = document.getElementById("about-slideshow-img");
@@ -87,26 +93,29 @@ Status: published
   function scheduleAdvance() {
     clearTimeout(timer);
     timer = setTimeout(function () {
-      blankThenShow(idx + 1);
+      fadeToNext(idx + 1);
     }, DISPLAY_MS);
   }
 
-  function blankThenShow(newIdx) {
-    img.style.visibility = "hidden";
+  function fadeToNext(newIdx) {
+    img.style.opacity = 0;
     clearTimeout(timer);
     timer = setTimeout(function () {
       idx = (newIdx + images.length) % images.length;
       img.src = images[idx];
-      img.style.visibility = "visible";
+      img.style.opacity = 1;
       scheduleAdvance();
-    }, BLANK_MS);
+    }, FADE_MS);
   }
 
   function goTo(newIdx) {
     clearTimeout(timer);
+    img.classList.add("no-fade");
     idx = (newIdx + images.length) % images.length;
-    img.style.visibility = "visible";
     img.src = images[idx];
+    img.style.opacity = 1;
+    void img.offsetWidth;
+    img.classList.remove("no-fade");
     scheduleAdvance();
   }
 
@@ -118,7 +127,7 @@ Status: published
   };
 
   img.src = images[idx];
-  img.style.visibility = "visible";
+  img.style.opacity = 1;
   scheduleAdvance();
 })();
 </script>
