@@ -28,7 +28,7 @@ Status: published
     <p class="event-datetime">Saturday Aug 29</p>
     <h3 class="event-title"><a href="https://www.instagram.com/buccal_cone_official/p/DbqMtc4Fdmc/" target="_blank" rel="noopener">BUCCAL CONE by Kanami Kusajima and Nanae Itoi</a></h3>
     <div class="event-text">
-      <p>Join for the launch of <a href="https://www.instagram.com/buccal_cone_official/p/DbqMtc4Fdmc/" target="_blank" rel="noopener">BUCCAL CONE</a>, a new creative journey by <a href="https://www.instagram.com/lethairdown/" target="_blank" rel="noopener">Kanami Kusajima</a> and <a href="https://nanae-itoi.netlify.app/" target="_blank" rel="noopener">Nanae Itoi</a>.</p>
+      <p>Join for the launch of BUCCAL CONE, a new creative journey by <a href="https://www.instagram.com/lethairdown/" target="_blank" rel="noopener">Kanami Kusajima</a> and <a href="https://nanae-itoi.netlify.app/" target="_blank" rel="noopener">Nanae Itoi</a>.</p>
       <p>The name BUCCAL CONE comes from one of the most fascinating and intense survival mechanisms we've ever encountered in nature—the extraordinary feeding organ of the sea angel (Clione). Its beauty, transformation, and instinct became the inspiration for our artistic vision.</p>
       <p><a href="https://www.instagram.com/buccal_cone_official/p/DbqMtc4Fdmc/" target="_blank" rel="noopener">More info</a></p>
     </div>
