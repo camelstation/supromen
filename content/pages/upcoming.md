@@ -142,7 +142,7 @@ Status: published
         <span class="cal-symbol">◑</span>
         <a class="cal-title" href="https://pools.events/event/qo6iPnj1/night-of-the-living-room/" target="_blank" rel="noopener" style="color: var(--text);">Night of the Living Room</a>
       </div>
-      <div class="cal-meta">Performances Thu 20th &amp; Fri 21st &middot; Outgoing</div>
+      <div class="cal-meta">DRIFT | Performances Thu 20th &amp; Fri 21st &middot; Outgoing</div>
     </div>
   </li>
 
@@ -153,7 +153,7 @@ Status: published
         <span class="cal-symbol">◑</span>
         <a class="cal-title" href="https://pools.events/event/o2nSeZ3y/pitch-presents-joelle-antonia-santiago-and-angelina-laguna/" target="_blank" rel="noopener" style="color: var(--text);">Joëlle Antonia Santiago and Angelina Laguna</a>
       </div>
-      <div class="cal-meta">Curated by Chloe Sonnet Brown &amp; Frances Rose Heintzelman</div>
+      <div class="cal-meta">PITCH | Curated by Chloe Sonnet Brown &amp; Frances Rose Heintzelman</div>
     </div>
   </li>
 
@@ -186,7 +186,7 @@ Status: published
         <span class="cal-symbol">◑</span>
         <a class="cal-title" href="https://pools.events/event/XUIiVJEN/testu-collective-field-body-performance/" target="_blank" rel="noopener" style="color: var(--text);">Testu Collective | Field Body Performance</a>
       </div>
-      <div class="cal-meta">Testu Collective</div>
+      <div class="cal-meta">DRIFT | Testu Collective</div>
     </div>
   </li>
 
