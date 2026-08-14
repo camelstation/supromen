@@ -142,7 +142,7 @@ Status: published
         <span class="cal-symbol">◑</span>
         <a class="cal-title" href="https://pools.events/event/qo6iPnj1/night-of-the-living-room/" target="_blank" rel="noopener" style="color: var(--text);">Night of the Living Room</a>
       </div>
-      <div class="cal-meta">Performance Thursday at 7pm &middot; Outgoing</div>
+      <div class="cal-meta">Performances 08/20 &amp; 08/31 &middot; Outgoing</div>
     </div>
   </li>
 
@@ -154,6 +154,28 @@ Status: published
         <a class="cal-title" href="https://pools.events/event/o2nSeZ3y/pitch-presents-joelle-antonia-santiago-and-angelina-laguna/" target="_blank" rel="noopener" style="color: var(--text);">Joëlle Antonia Santiago and Angelina Laguna</a>
       </div>
       <div class="cal-meta">Curated by Chloe Sonnet Brown &amp; Frances Rose Heintzelman</div>
+    </div>
+  </li>
+
+  <li class="cal-entry">
+    <span class="cal-date">Sat Aug 29</span>
+    <div class="cal-body">
+      <div class="cal-title-row">
+        <span class="cal-symbol">▼</span>
+        <a class="cal-title" href="https://www.instagram.com/buccal_cone_official/p/DbqMtc4Fdmc/" target="_blank" rel="noopener" style="color: var(--text);">BUCCAL CONE</a>
+      </div>
+      <div class="cal-meta">Kanami Kusajima &amp; Nanae Itoi</div>
+    </div>
+  </li>
+
+  <li class="cal-entry">
+    <span class="cal-date">Thu Sep 10</span>
+    <div class="cal-body">
+      <div class="cal-title-row">
+        <span class="cal-symbol">◑</span>
+        <a class="cal-title" href="https://pools.events/event/XUIiVJEN/testu-collective-field-body-performance/" target="_blank" rel="noopener" style="color: var(--text);">Testu Collective | Field Body Performance</a>
+      </div>
+      <div class="cal-meta">Doors at 7pm</div>
     </div>
   </li>
 
