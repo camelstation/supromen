@@ -1,8 +1,35 @@
+import os
+
 AUTHOR = 'camelstation'
 SITENAME = 'supromen'
 SITEURL = ""
 
 PATH = "content"
+
+# Build-time list of About page slideshow images, read from
+# content/images/about/. Sorted numerically by filename so 2.webp sorts
+# before 10.webp. Adding/removing files there and rebuilding is all
+# that's needed to update the slideshow -- no template/JS changes required.
+def _about_slideshow_sort_key(filename):
+    stem = os.path.splitext(filename)[0]
+    if stem.isdigit():
+        return (0, int(stem), stem)
+    return (1, 0, stem)
+
+_about_images_dir = os.path.join(
+    os.path.dirname(os.path.abspath(__file__)), "..", "content", "images", "about"
+)
+
+if os.path.isdir(_about_images_dir):
+    ABOUT_SLIDESHOW_IMAGES = [
+        "/images/about/" + filename
+        for filename in sorted(
+            os.listdir(_about_images_dir), key=_about_slideshow_sort_key
+        )
+        if not filename.startswith(".")
+    ]
+else:
+    ABOUT_SLIDESHOW_IMAGES = []
 PAGE_PATHS = ["pages", "shop"]
 PAGE_URL = "{slug}/"
 PAGE_SAVE_AS = "{slug}/index.html"

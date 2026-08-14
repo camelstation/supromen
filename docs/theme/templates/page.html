@@ -10,6 +10,11 @@
       <img class="home-info" src="/images/description_graphic.jpg" alt="SUPR OMEN INFO">
     </div>
   {% else %}
+    {% if page.slug == "about" %}
+      <script>
+        window.ABOUT_SLIDESHOW_IMAGES = [{% for img in ABOUT_SLIDESHOW_IMAGES %}"{{ img }}"{% if not loop.last %}, {% endif %}{% endfor %}];
+      </script>
+    {% endif %}
     {{ page.content }}
   {% endif %}
 {% endblock %}

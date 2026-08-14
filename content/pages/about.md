@@ -77,13 +77,24 @@ Status: published
 
 <script>
 (function () {
-  var images = [
-    "/images/about/1.webp",
-    "/images/about/2.webp",
-    "/images/about/3.jpg",
-    "/images/about/4.webp",
-    "/images/about/5.webp"
-  ];
+  var images = (window.ABOUT_SLIDESHOW_IMAGES || []).slice();
+
+  function shuffle(arr) {
+    for (var i = arr.length - 1; i > 0; i--) {
+      var j = Math.floor(Math.random() * (i + 1));
+      var tmp = arr[i];
+      arr[i] = arr[j];
+      arr[j] = tmp;
+    }
+    return arr;
+  }
+
+  shuffle(images);
+
+  if (images.length === 0) {
+    return;
+  }
+
   var DISPLAY_MS = 4000;
   var FADE_MS = 250;
   var idx = 0;
