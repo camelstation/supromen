@@ -4,9 +4,124 @@ Url: about/
 Save_as: about/index.html
 Status: published
 
-<div class="team-graphic">
-  <img src="/images/About-image1.webp" alt="About SUPR OMEN">
+<style>
+.about-slideshow {
+  position: relative;
+  width: 100%;
+  max-width: 720px;
+  height: 60vh;
+  max-height: 600px;
+  margin: 0 auto 2rem;
+  background: #000;
+  overflow: hidden;
+}
+
+.about-slideshow img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.about-slideshow-arrow {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  display: flex;
+  align-items: center;
+  width: 15%;
+  border: none;
+  background: none;
+  color: rgba(255, 255, 255, 0.6);
+  font-size: 2rem;
+  line-height: 1;
+  cursor: pointer;
+  opacity: 0;
+  transition: opacity 0.2s ease, color 0.2s ease;
+  z-index: 2;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.about-slideshow:hover .about-slideshow-arrow {
+  opacity: 1;
+}
+
+.about-slideshow-arrow:hover {
+  color: rgba(255, 255, 255, 0.9);
+}
+
+.about-slideshow-arrow--prev {
+  left: 0;
+  justify-content: flex-start;
+  padding-left: 12px;
+}
+
+.about-slideshow-arrow--next {
+  right: 0;
+  justify-content: flex-end;
+  padding-right: 12px;
+}
+</style>
+
+<div class="about-slideshow" id="about-slideshow">
+  <img id="about-slideshow-img" src="/images/about/1.webp" alt="About SUPR OMEN">
+  <button type="button" class="about-slideshow-arrow about-slideshow-arrow--prev" aria-label="Previous image" onclick="aboutSlideshowPrev()">&#10094;</button>
+  <button type="button" class="about-slideshow-arrow about-slideshow-arrow--next" aria-label="Next image" onclick="aboutSlideshowNext()">&#10095;</button>
 </div>
+
+<script>
+(function () {
+  var images = [
+    "/images/about/1.webp",
+    "/images/about/2.webp",
+    "/images/about/3.jpg",
+    "/images/about/4.webp",
+    "/images/about/5.webp"
+  ];
+  var DISPLAY_MS = 4000;
+  var BLANK_MS = 500;
+  var idx = 0;
+  var timer = null;
+  var img = document.getElementById("about-slideshow-img");
+
+  function scheduleAdvance() {
+    clearTimeout(timer);
+    timer = setTimeout(function () {
+      blankThenShow(idx + 1);
+    }, DISPLAY_MS);
+  }
+
+  function blankThenShow(newIdx) {
+    img.style.visibility = "hidden";
+    clearTimeout(timer);
+    timer = setTimeout(function () {
+      idx = (newIdx + images.length) % images.length;
+      img.src = images[idx];
+      img.style.visibility = "visible";
+      scheduleAdvance();
+    }, BLANK_MS);
+  }
+
+  function goTo(newIdx) {
+    clearTimeout(timer);
+    idx = (newIdx + images.length) % images.length;
+    img.style.visibility = "visible";
+    img.src = images[idx];
+    scheduleAdvance();
+  }
+
+  window.aboutSlideshowNext = function () {
+    goTo(idx + 1);
+  };
+  window.aboutSlideshowPrev = function () {
+    goTo(idx - 1);
+  };
+
+  img.src = images[idx];
+  img.style.visibility = "visible";
+  scheduleAdvance();
+})();
+</script>
 
 <div class="pricing-section">
   <h2 class="pricing-section__heading">About</h2>
