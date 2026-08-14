@@ -191,6 +191,28 @@ Status: published
   </li>
 
   <li class="cal-entry">
+    <span class="cal-date">Thu Sep 24</span>
+    <div class="cal-body">
+      <div class="cal-title-row">
+        <span class="cal-symbol">◑</span>
+        <span class="cal-title" style="color: var(--text);">Celine Bassman and Liz Westbrook</span>
+      </div>
+      <div class="cal-meta">PITCH | Curated by Chloe Sonnet Brown &amp; Frances Rose Heintzelman</div>
+    </div>
+  </li>
+
+  <li class="cal-entry">
+    <span class="cal-date">Thu Oct 22</span>
+    <div class="cal-body">
+      <div class="cal-title-row">
+        <span class="cal-symbol">◑</span>
+        <span class="cal-title" style="color: var(--text);">Chloe Sonnet Brown &amp; Frances Rose Heintzelman</span>
+      </div>
+      <div class="cal-meta">PITCH</div>
+    </div>
+  </li>
+
+  <li class="cal-entry">
     <span class="cal-date">Nov 6-8</span>
     <div class="cal-body">
       <div class="cal-title-row">
