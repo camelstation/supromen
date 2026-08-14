@@ -59,7 +59,7 @@ Status: published
       <p>SUPR OMEN welcomes <a href="https://outgoing.website/" target="_blank" rel="noopener">Outgoing</a> for Night of the Living Room in all of SUPR OMEN's loft-ness.</p>
       <p>An installation of furniture, lamps, framed art on the wall and large scale projections of domestic interiors build a world inhabited with plants, flowers and a TV. In this atmosphere, Outgoing will perform their New York live music debut. 2 nights back to back. Soundtracking their 3 channel film 'Be Nice Long Weasel'. Outgoing will perform an extended set of electronic and percussive music that skips between genres and muddles textures with all the dynamism and joyous freedom the duo instil into their design and sculptural work.</p>
       <p>Night of the Living Room is presented as part of DRIFT, a curated program at SUPR OMEN showcasing live-works by artists who push to the edge of the edge.</p>
-      <p>Performance on Thursday 20th<br>
+      <p>Performances on Thursday 20th and Friday 21st<br>
       Doors at 7pm<br>
       The installation is open for public viewing from 1-5pm on Friday 21st, free of charge.</p>
       <p><a href="https://pools.events/event/qo6iPnj1/night-of-the-living-room/" target="_blank" rel="noopener">Tickets available now</a></p>
