@@ -79,48 +79,70 @@ Status: published
 (function () {
   var images = (window.ABOUT_SLIDESHOW_IMAGES || []).slice();
 
-  function shuffle(arr) {
-    for (var i = arr.length - 1; i > 0; i--) {
-      var j = Math.floor(Math.random() * (i + 1));
-      var tmp = arr[i];
-      arr[i] = arr[j];
-      arr[j] = tmp;
-    }
-    return arr;
-  }
-
-  shuffle(images);
-
   if (images.length === 0) {
     return;
   }
 
-  var DISPLAY_MS = 4000;
-  var FADE_MS = 250;
+  var DISPLAY_MS = 3000;
   var idx = 0;
-  var timer = null;
+  var displayTimer = null;
+  var pendingFadeOutHandler = null;
   var img = document.getElementById("about-slideshow-img");
 
+  function preload(list, done) {
+    var remaining = list.length;
+    if (remaining === 0) {
+      done();
+      return;
+    }
+    list.forEach(function (src) {
+      var loader = new Image();
+      loader.onload = loader.onerror = function () {
+        remaining -= 1;
+        if (remaining === 0) {
+          done();
+        }
+      };
+      loader.src = src;
+    });
+  }
+
+  function clearPendingFade() {
+    if (pendingFadeOutHandler) {
+      img.removeEventListener("transitionend", pendingFadeOutHandler);
+      pendingFadeOutHandler = null;
+    }
+  }
+
   function scheduleAdvance() {
-    clearTimeout(timer);
-    timer = setTimeout(function () {
+    clearTimeout(displayTimer);
+    displayTimer = setTimeout(function () {
       fadeToNext(idx + 1);
     }, DISPLAY_MS);
   }
 
+  // Waits for the opacity:0 fade-out to visually finish (via transitionend)
+  // before swapping src, so the old image is fully invisible -- never
+  // painted -- underneath the new one. Images are already preloaded, so
+  // the new src decodes instantly with no load delay to cause a flash.
   function fadeToNext(newIdx) {
-    img.style.opacity = 0;
-    clearTimeout(timer);
-    timer = setTimeout(function () {
+    clearPendingFade();
+    pendingFadeOutHandler = function (e) {
+      if (e.propertyName !== "opacity") return;
+      pendingFadeOutHandler = null;
       idx = (newIdx + images.length) % images.length;
       img.src = images[idx];
+      void img.offsetWidth;
       img.style.opacity = 1;
       scheduleAdvance();
-    }, FADE_MS);
+    };
+    img.addEventListener("transitionend", pendingFadeOutHandler, { once: true });
+    img.style.opacity = 0;
   }
 
   function goTo(newIdx) {
-    clearTimeout(timer);
+    clearTimeout(displayTimer);
+    clearPendingFade();
     img.classList.add("no-fade");
     idx = (newIdx + images.length) % images.length;
     img.src = images[idx];
@@ -137,9 +159,11 @@ Status: published
     goTo(idx - 1);
   };
 
-  img.src = images[idx];
-  img.style.opacity = 1;
-  scheduleAdvance();
+  preload(images, function () {
+    img.src = images[idx];
+    img.style.opacity = 1;
+    scheduleAdvance();
+  });
 })();
 </script>
 
