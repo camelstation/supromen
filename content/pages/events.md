@@ -8,6 +8,21 @@ Status: published
 
   <div class="event-block">
     <div class="center-media">
+      <img src="/images/DRIFT-Testu-September.webp" alt="DRIFT presents Testu Collective | Field Body Performance">
+    </div>
+    <p class="event-datetime">Thursday Sep 10</p>
+    <h3 class="event-title"><a href="https://pools.events/event/XUIiVJEN/testu-collective-field-body-performance/" target="_blank" rel="noopener">DRIFT presents Testu Collective | Field Body Performance</a></h3>
+    <div class="event-text">
+      <p>SUPR OMEN presents Field Body, a participatory performance by <a href="https://www.testucollective.com/" target="_blank" rel="noopener">Testu Collective</a> that makes electromagnetic fields spatial, material, and audible.</p>
+      <p>With no fixed stage, the audience becomes part of the performance architecture. Participants hold luminous, hand-built EMF-emitting sculptures as movement artists Raphaël Weikart (Shape Language) and Kaleena Miller move among them wearing receiver pods that translate electromagnetic activity into sound. As bodies and objects approach one another, proximity generates pulses, interference, and shifting tonal fragments.</p>
+      <p>A live electronic soundtrack by Serena Stucke and Dan Tesene surrounds these interactions, transforming the room into a continuously evolving composition of distance, contact, and invisible force—where listening becomes a form of spatial navigation.</p>
+      <p>Testu Collective are invited as part of DRIFT, a monthly program at SUPR OMEN showcasing live-works by artists who push to the edge of the edge of their discipline.</p>
+      <p><a href="https://pools.events/event/XUIiVJEN/testu-collective-field-body-performance/" target="_blank" rel="noopener">Tickets available now</a></p>
+    </div>
+  </div>
+
+  <div class="event-block">
+    <div class="center-media">
       <img src="/images/PITCH-August2026.webp" alt="PITCH presents Joëlle Antonia Santiago and Angelina Laguna">
     </div>
     <p class="event-datetime">Thursday Aug 27</p>
