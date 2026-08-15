@@ -170,9 +170,9 @@ Status: published
 <div class="pricing-section">
   <h2 class="pricing-section__heading">About</h2>
   <div class="pricing-text">
-    <p>SUPR OMEN is an artist-run space for creation and presentation. We support interdisciplinary works that push to the edge of the edge, especially experimental performance, dance, music, visual art, fashion & film. We have an ongoing roster of performances through our curatorial programs. We also invite guest curators and provide SUPR OMEN members with a space to share their work.</p>
-    <p>SUPR OMEN has rehearsal members with access to our 1000 sf rehearsal space, equipment, facilities and a calendar to make bookings directly. Full-membership $260/m for 20 hours // Half-membership $130/m for 10 hours. We occasionally accept new rehearsal members so please reach out if you're interested. We also studio members who have access to a semi-private studio and our 1000 sf rehearsal space. We also occasionally have studios for rent. All enquiries to <a href="mailto:info@supromen.com">info@supromen.com</a></p>
+    <p>SUPR OMEN is an artist-run space for creation and presentation. We support interdisciplinary works that push to the edge of the edge. We were founded to give performance artists a space to create experimental work and share it with intimate audiences with a focus on experimental performance, dance, music, visual art, fashion & film. SUPR OMEN is built around a community of artists, curators and mentors committed to experimentation, offering emerging and mid-career artists the infrastructure, support and creative permission to take real risks. We have an ongoing roster of performances through our curatorial programs and invite guest curators and SUPR OMEN members with the freedom to share their work.</p>
     <p>SUPR OMEN is a 1000 sf performance space adjoining 1000 sf of semi-private studios. We're located at 1 Knickerbocker Ave, Brooklyn. We're two blocks from the Morgan L and up one flight of stairs (not ADA accessible).</p>
+    <p>SUPR OMEN members access to our 1000 sf rehearsal space, equipment, facilities and a calendar to make bookings directly. Full-membership is $260/m for 20 hours // half-membership is $130/m for 10 hours. We occasionally accept new members so please reach out if you're interested. We also have semi-private studios for rent which come with access to the 1000 sf rehearsal space. All enquiries to <a href="mailto:info@supromen.com">info@supromen.com</a></p>
   </div>
 </div>
 
@@ -183,41 +183,26 @@ Status: published
     <div class="team-entry">
       <p class="team-role">Founding Director</p>
       <p class="team-name">Jemila MacEwan</p>
-      <p class="team-bio">Bio bio bio bio bio</p>
+      <p class="team-bio">Jemila is an interdisciplinary artist living and working in New York. Jemila is known for their intimately interwoven earthworks, created through slow acts of physical endurance and meditation. Jemila has works at Pioneer Works, has received private and public commissions. Their work has been reviewed in Art in America, Hyperallergic and SFMoMA OpenSpace</p>
     </div>
 
     <div class="team-entry">
       <p class="team-role">Co-Founder &amp; Operations</p>
       <p class="team-name">Campbell Watson</p>
-      <p class="team-bio">Campbell is an atmospheric scientist. He also hosts the occasional ping pong tournament.</p>
-    </div>
-
-    <div class="team-entry">
-      <p class="team-role">Communications Director</p>
-      <p class="team-name">Deena Falconetti</p>
-      <p class="team-bio">Bio bio bio bio bio</p>
+      <p class="team-bio">Campbell is an atmospheric scientist. He co-founded SUPR OMEN because New York City artists are amazing. He also hosts the occasional ping pong tournament.</p>
     </div>
 
     <div class="team-entry">
       <p class="team-role">Mentee</p>
       <p class="team-name">Kareena Solanki</p>
-      <p class="team-bio">Bio bio bio bio bio</p>
+      <p class="team-bio">Kareena is an interdisciplinary artist and the first mentee of SUPR OMEN. She creates performance rituals that extend to film, photography, sculpture and installation.</p>
     </div>
 
     <div class="team-entry">
       <p class="team-role">Bookkeeper</p>
       <p class="team-name">Noah Loiacono</p>
-      <p class="team-bio">Bio bio bio bio bio</p>
+      <p class="team-bio">Noah is the greatest bookkeeper in America. He met Jemila in Washington Square Park during Seed Meditation when he was studying at NYU and now lives in San Francisco.</p>
     </div>
 
   </div>
 </div>
-
-<div class="pricing-section">
-  <h2 class="pricing-section__heading">Mission</h2>
-  <div class="pricing-text">
-    <p>SUPR OMEN was founded to provide a space for performance artists to create experimental work and to showcase experimental work with intimate audiences. We are built around a community of artists, curators and mentors committed to experimentation. We exist to give emerging and mid-career artists the infrastructure, support and creative permission to take real risks in their work and the opportunities to carry that work into the wider world.</p>
-  </div>
-</div>
-
-<p class="about-closing">SUPR OMEN exists because New York City artists are amazing</p>
