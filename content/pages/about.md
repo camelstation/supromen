@@ -71,6 +71,13 @@ Status: published
 body.page--about .team-list {
   text-align: left;
 }
+
+body.page--about .team-bio {
+  font-size: 0.95rem;
+  line-height: 1.6;
+  color: var(--text);
+  text-align: left;
+}
 </style>
 
 <div class="about-slideshow" id="about-slideshow">
