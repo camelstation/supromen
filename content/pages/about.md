@@ -76,7 +76,7 @@ body.page--about .team-bio {
   font-size: 0.95rem;
   line-height: 1.6;
   color: var(--text);
-  text-align: left;
+  text-align: justify;
 }
 </style>
 
