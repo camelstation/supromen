@@ -67,6 +67,10 @@ Status: published
   justify-content: flex-end;
   padding-right: 12px;
 }
+
+body.page--about .team-list {
+  text-align: left;
+}
 </style>
 
 <div class="about-slideshow" id="about-slideshow">
