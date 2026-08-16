@@ -183,7 +183,7 @@ body.page--about .team-bio {
   <div class="pricing-text">
     <p>SUPR OMEN is an artist-run space for creation and presentation. We support interdisciplinary works that push to the edge of the edge. We were founded to give performing artists a space to create experimental work and share it with intimate audiences with a focus on performance art, dance, music, visual art, fashion & film.</p>
     <p>SUPR OMEN is built around an intergenerational community of artists, curators and mentors committed to experimentation, offering mid-career and emerging artists the infrastructure, support and creative permission to take real risks. We have an ongoing roster of performances through our <a href="https://supromen.com/curatorial-programs/" style="color: #6abf69;">curatorial programs</a> and invite guest curators and SUPR OMEN members to share their vision.</p>
-    <p>SUPR OMEN is a 1000 sf performance space adjoining 1000 sf of semi-private studios. We're located two blocks from the Morgan L subway station at 1 Knickerbocker Ave, Brooklyn. The space is up one flight of stairs (not ADA accessible).</p>
+    <p>SUPR OMEN is a 1000 sf performance space adjoining 1000 sf of artist studios. We're located two blocks from the Morgan L subway station at 1 Knickerbocker Ave, Brooklyn. The space is up one flight of stairs (not ADA accessible).</p>
     <p>SUPR OMEN members have access to our 1000 sf rehearsal space, equipment and facilities. Full-membership is $260/m for 20 hours // half-membership is $130/m for 10 hours. We occasionally accept new members so please reach out if you're interested. We also have semi-private studios for rent which come with access to the 1000 sf rehearsal space. Please send all enquiries to <a href="mailto:info@supromen.com" style="color: #6abf69;">info@supromen.com</a></p>
   </div>
 </div>
@@ -195,7 +195,7 @@ body.page--about .team-bio {
     <div class="team-entry">
       <p class="team-role">Founding Director</p>
       <p class="team-name">Jemila MacEwan</p>
-      <p class="team-bio">Jemila is an interdisciplinary artist known for their intimately interwoven earthworks, created through slow acts of physical endurance and meditation. Jemila has works at ArOS Museum in Denmark, WAMA Museum in Australia, Pioneer Works in New York and permanent private commissions. Their work has been reviewed in Art in America, Hyperallergic and the Boston Globe.</p>
+      <p class="team-bio">Jemila is an interdisciplinary artist known for their intimately interwoven earthworks, created through slow acts of physical endurance and meditation. Jemila has exhibited works at ARoS Museum in Denmark, WAMA Museum in Australia, Pioneer Works in New York and more. Jemila also has permanent commissions in public and private collections around the world. Their work has been reviewed in Art in America, Hyperallergic and the Boston Globe.</p>
     </div>
 
     <div class="team-entry">
@@ -213,7 +213,7 @@ body.page--about .team-bio {
     <div class="team-entry">
       <p class="team-role">Bookkeeper</p>
       <p class="team-name">Noah Loiacono</p>
-      <p class="team-bio">Noah is the greatest bookkeeper in America. He met Jemila in Washington Square Park during Seed Meditation when he was studying at NYU and now lives in San Francisco.</p>
+      <p class="team-bio">Noah is the greatest bookkeeper in America. He met Jemila in Washington Square Park during Seed Meditation when he was studying at NYU and is now a good friend. He lives in San Francisco.</p>
     </div>
 
   </div>
