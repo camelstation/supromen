@@ -219,7 +219,7 @@ Status: published
         <span class="cal-symbol">✎</span>
         <a class="cal-title" href="https://www.instagram.com/spirallion_/p/DcBhFd0RvwI/" target="_blank" rel="noopener" style="color: var(--text);">Strange Nature NYC</a>
       </div>
-      <div class="cal-meta">Three day workshop with Lea Kieffer and Hanna Van der Kolk</div>
+      <div class="cal-meta">Three day workshop with Lea Kieffer and Hana Van der Kolk</div>
     </div>
   </li>
 
