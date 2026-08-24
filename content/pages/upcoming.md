@@ -136,24 +136,13 @@ Status: published
 <ul class="cal-list">
 
   <li class="cal-entry">
-    <span class="cal-date">Aug 20&ndash;21</span>
-    <div class="cal-body">
-      <div class="cal-title-row">
-        <span class="cal-symbol">◑</span>
-        <a class="cal-title" href="https://pools.events/event/qo6iPnj1/night-of-the-living-room/" target="_blank" rel="noopener" style="color: var(--text);">Night of the Living Room</a>
-      </div>
-      <div class="cal-meta">DRIFT | Performances Thu 20th &amp; Fri 21st &middot; Outgoing</div>
-    </div>
-  </li>
-
-  <li class="cal-entry">
     <span class="cal-date">Thu Aug 27</span>
     <div class="cal-body">
       <div class="cal-title-row">
         <span class="cal-symbol">◑</span>
         <a class="cal-title" href="https://pools.events/event/o2nSeZ3y/pitch-presents-joelle-antonia-santiago-and-angelina-laguna/" target="_blank" rel="noopener" style="color: var(--text);">Joëlle Antonia Santiago and Angelina Laguna</a>
       </div>
-      <div class="cal-meta">PITCH | Curated by Chloe Sonnet Brown &amp; Frances Rose Heintzelman</div>
+      <div class="cal-meta"><a href="https://supromen.com/curatorial-programs/">PITCH</a> | Curated by Chloe Sonnet Brown &amp; Frances Rose Heintzelman</div>
     </div>
   </li>
 
@@ -186,7 +175,7 @@ Status: published
         <span class="cal-symbol">◑</span>
         <a class="cal-title" href="https://pools.events/event/XUIiVJEN/testu-collective-field-body-performance/" target="_blank" rel="noopener" style="color: var(--text);">Testu Collective | Field Body Performance</a>
       </div>
-      <div class="cal-meta">DRIFT | Testu Collective</div>
+      <div class="cal-meta"><a href="https://supromen.com/curatorial-programs/">DRIFT</a> | Testu Collective</div>
     </div>
   </li>
 
@@ -197,7 +186,7 @@ Status: published
         <span class="cal-symbol">◑</span>
         <span class="cal-title" style="color: var(--text);">Celine Bassman and Liz Westbrook</span>
       </div>
-      <div class="cal-meta">PITCH | Curated by Chloe Sonnet Brown &amp; Frances Rose Heintzelman</div>
+      <div class="cal-meta"><a href="https://supromen.com/curatorial-programs/">PITCH</a> | Curated by Chloe Sonnet Brown &amp; Frances Rose Heintzelman</div>
     </div>
   </li>
 
@@ -208,7 +197,7 @@ Status: published
         <span class="cal-symbol">◑</span>
         <span class="cal-title" style="color: var(--text);">Chloe Sonnet Brown &amp; Frances Rose Heintzelman</span>
       </div>
-      <div class="cal-meta">PITCH</div>
+      <div class="cal-meta"><a href="https://supromen.com/curatorial-programs/">PITCH</a></div>
     </div>
   </li>
 
