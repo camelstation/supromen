@@ -201,7 +201,7 @@ body.page--about .team-bio {
     <div class="team-entry">
       <p class="team-role">Co-Founder &amp; Operations</p>
       <p class="team-name">Campbell Watson</p>
-      <p class="team-bio">Campbell is an atmospheric scientist and works on the future of computing. He co-founded SUPR OMEN because New York City artists are amazing. He also hosts the occasional ping pong tournament at SUPR OMEN.</p>
+      <p class="team-bio">Campbell is an atmospheric scientist. He co-founded SUPR OMEN because New York City artists are amazing. He also hosts the occasional ping pong tournament at SUPR OMEN.</p>
     </div>
 
     <div class="team-entry">
