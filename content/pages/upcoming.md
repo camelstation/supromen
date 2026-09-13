@@ -136,6 +136,17 @@ Status: published
 <ul class="cal-list">
 
   <li class="cal-entry">
+    <span class="cal-date">Tue Sep 22</span>
+    <div class="cal-body">
+      <div class="cal-title-row">
+        <span class="cal-symbol">✎</span>
+        <span class="cal-title" style="color: var(--text);">Body Wash</span>
+      </div>
+      <div class="cal-meta">With Maya Rubio</div>
+    </div>
+  </li>
+
+  <li class="cal-entry">
     <span class="cal-date">Thu Sep 24</span>
     <div class="cal-body">
       <div class="cal-title-row">
