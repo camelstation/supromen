@@ -8,6 +8,23 @@ Status: published
 
   <div class="event-block">
     <div class="center-media">
+      <img src="/images/PITCH-September2026.webp" alt="PITCH presents Celine Bassman and Neva Guido">
+    </div>
+    <p class="event-datetime">Thursday Sep 24</p>
+    <h3 class="event-title"><a href="https://pools.events/event/6iBbujfl/pitch-presents-celine-bassman-and-neva-guido/" target="_blank" rel="noopener">PITCH presents Celine Bassman and Neva Guido</a></h3>
+    <div class="event-text">
+      <p>SUPR OMEN welcomes <a href="https://www.celinebassman.com/" target="_blank" rel="noopener">Celine Bassman</a> and <a href="https://instagram.com/nnneeeevvvvvaaaaaa/" target="_blank" rel="noopener">Neva Guido</a> for PITCH.</p>
+      <p>PITCH is a monthly program showcasing performances by dance &amp; performance makers. The second season of PITCH is curated by Chloe Sonnet Brown and Frances Rose Heintzelman.</p>
+      <p>Celine Bassman is a Queens native, writer, and multidisciplinary dance artist. Fundamental to Celine's work is an understanding that everyday life is a site for play and choreographic inquiry. Her work engages with spatial patterns, repetition, and pedestrian choreographed phrase work to attend to how the dancing body can explore questions of gender, performance, and agency. She has shown work at the School for Contemporary Dance and Thought, Green Lung Studio, Arts on Site, Green Space, and at Neville Dance Theater's "On Pointe" Dance Festival. Celine earned her BA in dance and feminist, gender, &amp; sexuality studies from Wesleyan University.</p>
+      <p>For PITCH, Bassman presents "GUT." Once upon a time there was a little tyke named blank. From the start she was destined to be a total girlbossbitch doesn't take shit from anyone. Now here's a story that feels like a story. It goes like GUT!</p>
+      <p>Neva Guido is a dance and performance maker based in Brooklyn, New York. They received their BFA in dance from the University of the Arts in Philadelphia in 2021 and have performed in works by Isabel Lewis, Faye Driscoll, and Monica Mirabile among others. Neva has premiered work at PAGEANT, the Center for Performance Research New York City, and LifeWorld in Brooklyn, and focuses their research and performance practice on the choreography emergent within public and private social life.</p>
+      <p>For PITCH, Guido will present "Jack &amp; Johanna," a duet built with dancers Jack Dexter and Johanna Meyer. It uses sequence, deletion, mimicry and music against dancing that is slippery with emotion and social context. In a slew of action, the dancers take on relational roles to each other and the audience while spewing fictional and nonfictional content. A concise study on portraiture and movement, the dance is made out, of, and for them.</p>
+      <p><a href="https://pools.events/event/6iBbujfl/pitch-presents-celine-bassman-and-neva-guido/" target="_blank" rel="noopener">Tickets available now</a></p>
+    </div>
+  </div>
+
+  <div class="event-block">
+    <div class="center-media">
       <img src="/images/DRIFT-Testu-September.webp" alt="DRIFT presents Testu Collective | Field Body Performance">
     </div>
     <p class="event-datetime">Thursday Sep 10</p>
