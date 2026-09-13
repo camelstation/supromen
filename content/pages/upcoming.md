@@ -158,7 +158,7 @@ Status: published
   </li>
 
   <li class="cal-entry">
-    <span class="cal-date">Sep&ndash;Nov</span>
+    <span class="cal-date">Sep&ndash;Dec</span>
     <div class="cal-body">
       <div class="cal-title-row">
         <span class="cal-symbol">✎</span>

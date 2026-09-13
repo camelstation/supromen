@@ -38,6 +38,19 @@ Status: published
 
   <div class="event-block">
     <div class="center-media">
+      <img src="/images/PracticeSpace-Fall.webp" alt="Practice Space Fall Season">
+    </div>
+    <p class="event-datetime">Mondays in September to December</p>
+    <h3 class="event-title"><a href="https://pools.events/event/r99OePyw/practice-space-fall-2026-season/" target="_blank" rel="noopener">Practice Space Fall Season</a></h3>
+    <div class="event-text">
+      <p>Practice Space is a platform for improvisational performance practices attended and led by local practicing artists.</p>
+      <p>All sessions will happen on Monday evenings. Doors open at 6:45pm, session begins at 7pm, please be on time. Sessions run 2hrs.</p>
+      <p><a href="https://pools.events/event/r99OePyw/practice-space-fall-2026-season/" target="_blank" rel="noopener">More info</a></p>
+    </div>
+  </div>
+
+  <div class="event-block">
+    <div class="center-media">
       <img src="/images/StrangeNatureNYC.webp" alt="Strange Nature NYC">
     </div>
     <p class="event-datetime">November 6-8</p>
