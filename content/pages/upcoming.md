@@ -136,22 +136,11 @@ Status: published
 <ul class="cal-list">
 
   <li class="cal-entry">
-    <span class="cal-date">Thu Sep 10</span>
-    <div class="cal-body">
-      <div class="cal-title-row">
-        <span class="cal-symbol">◑</span>
-        <a class="cal-title" href="https://pools.events/event/XUIiVJEN/testu-collective-field-body-performance/" target="_blank" rel="noopener" style="color: var(--text);">Testu Collective | Field Body Performance</a>
-      </div>
-      <div class="cal-meta"><a href="https://supromen.com/curatorial-programs/">DRIFT</a> | Testu Collective</div>
-    </div>
-  </li>
-
-  <li class="cal-entry">
     <span class="cal-date">Thu Sep 24</span>
     <div class="cal-body">
       <div class="cal-title-row">
         <span class="cal-symbol">◑</span>
-        <span class="cal-title" style="color: var(--text);">Celine Bassman and Neva Guido</span>
+        <a class="cal-title" href="https://pools.events/event/6iBbujfl/" target="_blank" rel="noopener" style="color: var(--text);">Celine Bassman and Neva Guido</a>
       </div>
       <div class="cal-meta"><a href="https://supromen.com/curatorial-programs/">PITCH</a> | Curated by Chloe Sonnet Brown &amp; Frances Rose Heintzelman</div>
     </div>
@@ -165,6 +154,17 @@ Status: published
         <a class="cal-title" href="https://www.instagram.com/verminunrest/p/Db_J2dykXWB/" target="_blank" rel="noopener" style="color: var(--text);">Interbeing: Butoh + Contact Improvisation</a>
       </div>
       <div class="cal-meta">Saturday workshops &middot; Led by Eilish Henderson</div>
+    </div>
+  </li>
+
+  <li class="cal-entry">
+    <span class="cal-date">Sep&ndash;Nov</span>
+    <div class="cal-body">
+      <div class="cal-title-row">
+        <span class="cal-symbol">✎</span>
+        <a class="cal-title" href="https://pools.events/event/r99OePyw/" target="_blank" rel="noopener" style="color: var(--text);">Practice Space Fall Season</a>
+      </div>
+      <div class="cal-meta">Most Monday evenings</div>
     </div>
   </li>
 
