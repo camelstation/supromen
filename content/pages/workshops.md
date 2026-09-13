@@ -8,6 +8,25 @@ Status: published
 
   <div class="event-block">
     <div class="center-media">
+      <img src="/images/BodyWash-Fall.webp" alt="Body Wash">
+    </div>
+    <p class="event-datetime">Tuesday September 22</p>
+    <h3 class="event-title">Body Wash</h3>
+    <div class="event-text">
+      <p>Cool off and return to floor. Time to drop in and move and see what falls off!!!!!!!</p>
+      <p>Participants can expect:</p>
+      <ul>
+        <li>20 min guided warm-up</li>
+        <li>20 min creative movement container: props, prompts, and playlist for your free movement inspiration</li>
+        <li>20 min writing</li>
+        <li>20 min talking</li>
+      </ul>
+      <p>Free. RSVP to <a href="mailto:maya.rubio@gmail.com">maya.rubio@gmail.com</a>.</p>
+    </div>
+  </div>
+
+  <div class="event-block">
+    <div class="center-media">
       <img src="/images/Butoh-Eilish.webp" alt="Interbeing: Butoh + Contact Improvisation Fall Classes">
     </div>
     <p class="event-datetime">Saturdays in September to November</p>
