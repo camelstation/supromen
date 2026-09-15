@@ -175,7 +175,7 @@ Status: published
         <span class="cal-symbol">✎</span>
         <a class="cal-title" href="https://pools.events/event/r99OePyw/" target="_blank" rel="noopener" style="color: var(--text);">Practice Space Fall Season</a>
       </div>
-      <div class="cal-meta">Most Monday evenings</div>
+      <div class="cal-meta">Most Monday evenings through the Fall season</div>
     </div>
   </li>
 
