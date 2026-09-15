@@ -140,7 +140,7 @@ Status: published
     <div class="cal-body">
       <div class="cal-title-row">
         <span class="cal-symbol">✎</span>
-        <span class="cal-title" style="color: var(--text);">Body Wash</span>
+        <a class="cal-title" href="https://body-wash.cargo.site/" target="_blank" rel="noopener" style="color: var(--text);">Body Wash</a>
       </div>
       <div class="cal-meta">With Maya Rubio</div>
     </div>
