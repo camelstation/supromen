@@ -191,6 +191,17 @@ Status: published
   </li>
 
   <li class="cal-entry">
+    <span class="cal-date">Sat Oct 31</span>
+    <div class="cal-body">
+      <div class="cal-title-row">
+        <span class="cal-symbol">◑</span>
+        <span class="cal-title" style="color: var(--text);">BREAKTIME</span>
+      </div>
+      <div class="cal-meta"><a href="https://supromen.com/curatorial-programs/">DRIFT</a> | With Jonathan Matthews and Holly Sass</div>
+    </div>
+  </li>
+
+  <li class="cal-entry">
     <span class="cal-date">Nov 6-8</span>
     <div class="cal-body">
       <div class="cal-title-row">
