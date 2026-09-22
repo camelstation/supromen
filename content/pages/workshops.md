@@ -23,7 +23,7 @@ Status: published
     <div class="center-media">
       <img src="/images/BodyWash-Fall.webp" alt="Body Wash">
     </div>
-    <p class="event-datetime">Tuesday September 22</p>
+    <p class="event-datetime">Saturday September 26</p>
     <h3 class="event-title"><a href="https://www.instagram.com/_body_wash/" target="_blank" rel="noopener">Body Wash</a></h3>
     <div class="event-text">
       <p>Cool off and return to floor. Time to drop in and move and see what falls off!!!!!!!</p>
