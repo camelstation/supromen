@@ -140,9 +140,9 @@ Status: published
     <div class="cal-body">
       <div class="cal-title-row">
         <span class="cal-symbol">◑</span>
-        <span class="cal-title" style="color: var(--text);">Eli Berman, Anya Liftig, Meaghan Robichaud</span>
+        <span class="cal-title" style="color: var(--text);">RINSE presents Eli Berman, Anya Liftig, Meaghan Robichaud</span>
       </div>
-      <div class="cal-meta">RINSE Works in Progress curated by C. Francis Fischer</div>
+      <div class="cal-meta">Works in Progress curated by C. Francis Fischer</div>
     </div>
   </li>
 
@@ -151,9 +151,9 @@ Status: published
     <div class="cal-body">
       <div class="cal-title-row">
         <span class="cal-symbol">◑</span>
-        <span class="cal-title" style="color: var(--text);">Chloe Sonnet Brown &amp; Frances Rose Heintzelman</span>
+        <span class="cal-title" style="color: var(--text);">PITCH presents Chloe Sonnet Brown &amp; Frances Rose Heintzelman</span>
       </div>
-      <div class="cal-meta"><a href="https://supromen.com/curatorial-programs/">PITCH</a></div>
+      <div class="cal-meta">Final show of season 2</div>
     </div>
   </li>
 
@@ -162,9 +162,9 @@ Status: published
     <div class="cal-body">
       <div class="cal-title-row">
         <span class="cal-symbol">◑</span>
-        <span class="cal-title" style="color: var(--text);">BREAKTIME</span>
+        <span class="cal-title" style="color: var(--text);">DRIFT presents BREAKTIME</span>
       </div>
-      <div class="cal-meta"><a href="https://supromen.com/curatorial-programs/">DRIFT</a> | With Jonathan Matthews and Holly Sass</div>
+      <div class="cal-meta">With Jonathan Matthews and Holly Sass, curated by Jemila MacEwan</div>
     </div>
   </li>
 
