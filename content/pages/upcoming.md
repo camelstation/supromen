@@ -153,7 +153,7 @@ Status: published
         <span class="cal-symbol">◑</span>
         <span class="cal-title" style="color: var(--text);">PITCH presents Chloe Sonnet Brown &amp; Frances Rose Heintzelman</span>
       </div>
-      <div class="cal-meta">Final show of season 2</div>
+      <div class="cal-meta">The final night of PITCH Season II!</div>
     </div>
   </li>
 
