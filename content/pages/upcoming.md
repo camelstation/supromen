@@ -158,17 +158,6 @@ Status: published
   </li>
 
   <li class="cal-entry">
-    <span class="cal-date">Sat Oct 31</span>
-    <div class="cal-body">
-      <div class="cal-title-row">
-        <span class="cal-symbol">◑</span>
-        <span class="cal-title" style="color: var(--text);">DRIFT presents BREAKTIME</span>
-      </div>
-      <div class="cal-meta">With Jonathan Matthews and Holly Sass, curated by Jemila MacEwan</div>
-    </div>
-  </li>
-
-  <li class="cal-entry">
     <span class="cal-date">Nov 6-8</span>
     <div class="cal-body">
       <div class="cal-title-row">
