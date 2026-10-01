@@ -8,6 +8,24 @@ Status: published
 
   <div class="event-block">
     <div class="center-media">
+      <img src="/images/RINSE_October_2026.webp" alt="RINSE presents Meaghan Robichaud, Reid Kurkerewicz, Anya Liftig &amp; Eli Berman">
+    </div>
+    <p class="event-datetime">Thursday Oct 15</p>
+    <h3 class="event-title"><a href="https://pools.events/event/ZY721z8l/" target="_blank" rel="noopener">RINSE presents Meaghan Robichaud, Reid Kurkerewicz, Anya Liftig &amp; Eli Berman</a></h3>
+    <div class="event-text">
+      <p>SUPR OMEN welcomes <a href="https://www.meaghanrobichaud.com/" target="_blank" rel="noopener">Meaghan Robichaud</a>, <a href="https://brooklynrail.org/contributor/reid-kurkerewicz/" target="_blank" rel="noopener">Reid Kurkerewicz</a>, <a href="https://www.anyaliftig.com/" target="_blank" rel="noopener">Anya Liftig</a> &amp; <a href="https://www.elibermanmusic.com/" target="_blank" rel="noopener">Eli Berman</a> for RINSE.</p>
+      <p><a href="https://supromen.com/curatorial-programs/" target="_blank" rel="noopener">RINSE</a> is a quarterly work-in-progress event at SUPR OMEN highlighting artists of all disciplines. Inspired by cross-genre dialogue. Curated by C. Francis Fischer.</p>
+      <p>Meaghan Robichaud is a fearless performer whose work spans clowning, acting, and directing. A ravenous freak, they are constantly plunging tits first into the taboo, the wild, and the weird.</p>
+      <p>Reid Kurkerewicz is a writer from Wisconsin who lives in Brooklyn. His work appears in Tagvverk, the Brooklyn Rail, Blue Bag Press and elsewhere. He usually is employed as some kind of clerk.</p>
+      <p>Anya Liftig is a performance artist and writer. Her first book, a memoir titled Holler Rat, was published by Abrams Press in August 2023. Called "a searing debut" by Publishers' Weekly and cited by Jo Ann Beard as a new influence in her writing, Holler Rat has become a USA Today best seller.</p>
+      <p>Eli Berman is a Brooklyn-based vocalist, composer-producer, and sound artist from Pittsburgh, PA. Her music combines extended vocal techniques and experimental electronics with Ashkenazi Jewish cantorial prayer, Yiddish and Appalachian ballads, and western classical music for countertenor, baritone, and choir.</p>
+      <p>For RINSE, Meaghan will present something freshly cut, raw, and bleeding. A delicious meal of improv, clown, and delusion fresh from the butchery. Reid will read from his Novel in Progress: Sex without Love. Anya may present Animate/Inanimate, an interspecies communication about the traumas we accidentally collect and occasionally invite. A quest for forgiveness. An attempt at reckoning. Eli presents LITANIES OF LILITH, a solo excerpt from her new Yiddish/English electro puppet opera work-in-progress. Before there is Eve, there is Lilith. LITANIES OF LILITH depicts her transformation from the first wife of Adam into the primordial mother of demons.</p>
+      <p><a href="https://pools.events/event/ZY721z8l/" target="_blank" rel="noopener">Tickets available now</a></p>
+    </div>
+  </div>
+
+  <div class="event-block">
+    <div class="center-media">
       <img src="/images/PITCH-September2026.webp" alt="PITCH presents Celine Bassman and Neva Guido">
     </div>
     <p class="event-datetime">Thursday Sep 24</p>
