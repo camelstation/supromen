@@ -8,6 +8,21 @@ Status: published
 
   <div class="event-block">
     <div class="center-media">
+      <img src="/images/PITCH-October2026.webp" alt="PITCH presents Chloe Sonnet Brown and Frances Rose Heintzelman">
+    </div>
+    <p class="event-datetime">Thursday Oct 22</p>
+    <h3 class="event-title"><a href="https://pools.events/event/gR1KaYXz/" target="_blank" rel="noopener">PITCH presents Chloe Sonnet Brown and Frances Rose Heintzelman</a></h3>
+    <div class="event-text">
+      <p>SUPR OMEN is honored to present works by PITCH Season 2 curators <a href="https://www.chloesonnetbrown.com/" target="_blank" rel="noopener">Chloe Sonnet Brown</a> and <a href="https://www.francesrosekoper.com/" target="_blank" rel="noopener">Frances Rose Heintzelman</a>.</p>
+      <p><a href="https://supromen.com/curatorial-programs/" target="_blank" rel="noopener">PITCH</a> is a monthly program showcasing performances by dance &amp; performance makers selected by resident emerging curators.</p>
+      <p>Chloe is a dancer, choreographer, and producer based in New York City. For PITCH, Chloe will present SCRIM, created with collaboration from dancers Charlotte Aucella, Caroline Frank, and Bree Kostelnik. Featuring live sound by Jude Icarus.</p>
+      <p>Frances is a New York City-based choreographer, curator, dancer, and administrator from Indiana. For PITCH, Frances will present "Ordinary Miracle." Something is happening. A tantrum. A miracle. Something beginning to rot. It keeps happening. Danced by Abby Nelson, Chloe Sonnet Brown, David Shively-Ertas, and Justine Florence.</p>
+      <p><a href="https://pools.events/event/gR1KaYXz/" target="_blank" rel="noopener">Tickets available now</a></p>
+    </div>
+  </div>
+
+  <div class="event-block">
+    <div class="center-media">
       <img src="/images/RINSE_October_2026.webp" alt="RINSE presents Meaghan Robichaud, Reid Kurkerewicz, Anya Liftig &amp; Eli Berman">
     </div>
     <p class="event-datetime">Thursday Oct 15</p>
