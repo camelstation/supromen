@@ -34,6 +34,19 @@ Status: published
 
   <div class="event-block">
     <div class="center-media">
+      <img src="/images/Butoh-Eilish.webp" alt="Interbeing: Butoh + Contact Improvisation Fall Classes">
+    </div>
+    <p class="event-datetime">Saturdays in September to November</p>
+    <h3 class="event-title"><a href="https://www.instagram.com/verminunrest/p/Db_J2dykXWB/" target="_blank" rel="noopener">Interbeing: Butoh + Contact Improvisation Fall Classes</a></h3>
+    <div class="event-text">
+      <p>Eilish Henderson is pleased to facilitate and continue researching the language of butoh while investigating collective impulses and exploring contact or near contact with a foundation of imagery, eco-somatics, and diving into the unconscious.</p>
+      <p>All the classes are open to anyone who is willing to engage in this sensitive practice. Each class is sliding scale and offers a discount to those interested in participating in all of the classes as a consistent practice this fall, dissolving and building together.</p>
+      <p><a href="https://www.instagram.com/verminunrest/p/Db_J2dykXWB/" target="_blank" rel="noopener">More info</a></p>
+    </div>
+  </div>
+
+  <div class="event-block">
+    <div class="center-media">
       <img src="/images/BodyWash-Fall.webp" alt="Body Wash">
     </div>
     <p class="event-datetime">Saturday September 26</p>
@@ -46,19 +59,6 @@ Status: published
       20 min writing<br>
       20 min talking</p>
       <p>Free. RSVP to <a href="mailto:maya.rubio@gmail.com">maya.rubio@gmail.com</a>.</p>
-    </div>
-  </div>
-
-  <div class="event-block">
-    <div class="center-media">
-      <img src="/images/Butoh-Eilish.webp" alt="Interbeing: Butoh + Contact Improvisation Fall Classes">
-    </div>
-    <p class="event-datetime">Saturdays in September to November</p>
-    <h3 class="event-title"><a href="https://www.instagram.com/verminunrest/p/Db_J2dykXWB/" target="_blank" rel="noopener">Interbeing: Butoh + Contact Improvisation Fall Classes</a></h3>
-    <div class="event-text">
-      <p>Eilish Henderson is pleased to facilitate and continue researching the language of butoh while investigating collective impulses and exploring contact or near contact with a foundation of imagery, eco-somatics, and diving into the unconscious.</p>
-      <p>All the classes are open to anyone who is willing to engage in this sensitive practice. Each class is sliding scale and offers a discount to those interested in participating in all of the classes as a consistent practice this fall, dissolving and building together.</p>
-      <p><a href="https://www.instagram.com/verminunrest/p/Db_J2dykXWB/" target="_blank" rel="noopener">More info</a></p>
     </div>
   </div>
 
