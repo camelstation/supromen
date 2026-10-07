@@ -47,6 +47,19 @@ Status: published
 
   <div class="event-block">
     <div class="center-media">
+      <img src="/images/AlwaysHumanOctober.webp" alt="Object(s) Bod(ies) Series: Affordances, Play &amp; the Intelligence of Things">
+    </div>
+    <p class="event-datetime">September to October</p>
+    <h3 class="event-title"><a href="https://www.instagram.com/p/DdEqTQlEXVc/" target="_blank" rel="noopener">Object(s) Bod(ies) Series: Affordances, Play &amp; the Intelligence of Things</a></h3>
+    <div class="event-text">
+      <p>We ran this as a single-day workshop in the spring, and it was so amazing that we are breaking it out into multi-days...I promise you will have an amazing time...where else will you write a poem from the perspective OF a funnel?</p>
+      <p>We will use the concept of "affordances" (action possibilities) to explore the world of everyday objects. Over the three sessions, we'll map their action possibilities and decode their material intelligence through movement, write narratives and have conversations from THEIR perspective, find ways of "becoming" our objects, and eventually bring them all together through group sculpture and discussion.</p>
+      <p><a href="https://www.instagram.com/p/DdEqTQlEXVc/" target="_blank" rel="noopener">More info</a></p>
+    </div>
+  </div>
+
+  <div class="event-block">
+    <div class="center-media">
       <img src="/images/BodyWash-Fall.webp" alt="Body Wash">
     </div>
     <p class="event-datetime">Saturday September 26</p>

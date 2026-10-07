@@ -8,6 +8,21 @@ Status: published
 
   <div class="event-block">
     <div class="center-media">
+      <img src="/images/Risking-Boredom.webp" alt="Holly Sass: Risking Boredom">
+    </div>
+    <p class="event-datetime">Saturday Oct 31</p>
+    <h3 class="event-title"><a href="https://pools.events/event/eghHNbWN/" target="_blank" rel="noopener">Holly Sass: Risking Boredom</a></h3>
+    <div class="event-text">
+      <p>SUPR OMEN welcomes Holly Sass for Risking Boredom, a one-off performance on October 31 where Holly will be facilitating a gathering of ~10 performers of various mediums (clown, dance, acting, sound) for an improvised show.</p>
+      <p>They'll meet the day before and the day of the show to scheme, play, and find some anchors, and then they will try, in front of you, with you. Some of them know each other, some of them don't. It's possible one of them has never been on stage before. There will be opportunities for the audience to help shape the arc. The performers don't know what will happen but maybe you do.</p>
+      <p>Show begins at 7pm with runtime about an hour.</p>
+      <p>Proceeds will go directly to supporting our friend Mahmoud's family in Gaza, who continues to suffer from Israel's genocidal oppression. Family members have recently been attacked and need urgent medical care. The financial support needed is constant, this fundraiser serves as the tip of the iceberg. Yet, anything and everything helps. More info on Mahmoud's family here: <a href="https://ko-fi.com/gazafundraiser" target="_blank" rel="noopener">https://ko-fi.com/gazafundraiser</a>.</p>
+      <p><a href="https://pools.events/event/eghHNbWN/" target="_blank" rel="noopener">Tickets available now</a></p>
+    </div>
+  </div>
+
+  <div class="event-block">
+    <div class="center-media">
       <img src="/images/PITCH-October2026.webp" alt="PITCH presents Chloe Sonnet Brown and Frances Rose Heintzelman">
     </div>
     <p class="event-datetime">Thursday Oct 22</p>
