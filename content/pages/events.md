@@ -13,7 +13,7 @@ Status: published
     <p class="event-datetime">Saturday Oct 31</p>
     <h3 class="event-title"><a href="https://pools.events/event/9gMTlXcP/" target="_blank" rel="noopener">KTV: HALLOWEEN EDITION // Karaoke party!</a></h3>
     <div class="event-text">
-      <p>We're joining forces with the analog visual benders, Telepathy, for a Trippy Halloween Karaoke party. If you've ever been to a Telepathy Karaoke Party, you'll know it's one of the most fun ways to experience karaoke.</p>
+      <p>We're joining forces with the analog visual benders, Telepathy, for a Trippy Halloween Karaoke party. And if you've ever been to a Telepathy Karaoke Party, you'll know it's one of the most fun ways to experience karaoke. It's right after <a href="https://pools.events/event/eghHNbWN/" target="_blank" rel="noopener">Risking Boredom</a> (see below) so come for the show and stay for the party.</p>
       <p>9:30pm till late. $5-10 suggested donation at the door. Cash bar.</p>
       <p><a href="https://pools.events/event/9gMTlXcP/" target="_blank" rel="noopener">More info</a></p>
     </div>
