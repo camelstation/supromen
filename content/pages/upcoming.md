@@ -136,17 +136,6 @@ Status: published
 <ul class="cal-list">
 
   <li class="cal-entry">
-    <span class="cal-date">Thu Oct 15</span>
-    <div class="cal-body">
-      <div class="cal-title-row">
-        <span class="cal-symbol">◑</span>
-        <a class="cal-title" href="https://pools.events/event/ZY721z8l/" target="_blank" rel="noopener" style="color: var(--text);">RINSE presents Meaghan Robichaud, Reid Kurkerewicz, Anya Liftig & Eli Berman</a>
-      </div>
-      <div class="cal-meta">Works in Progress curated by C. Francis Fischer</div>
-    </div>
-  </li>
-
-  <li class="cal-entry">
     <span class="cal-date">Thu Oct 22</span>
     <div class="cal-body">
       <div class="cal-title-row">
