@@ -136,13 +136,13 @@ Status: published
 <ul class="cal-list">
 
   <li class="cal-entry">
-    <span class="cal-date">Thu Oct 22</span>
+    <span class="cal-date">Sat Oct 31</span>
     <div class="cal-body">
       <div class="cal-title-row">
         <span class="cal-symbol">◑</span>
-        <a class="cal-title" href="https://pools.events/event/gR1KaYXz/" target="_blank" rel="noopener" style="color: var(--text);">PITCH presents Chloe Sonnet Brown &amp; Frances Rose Heintzelman</a>
+        <a class="cal-title" href="https://pools.events/event/eghHNbWN/" target="_blank" rel="noopener" style="color: var(--text);">Holly Sass: Risking Boredom</a>
       </div>
-      <div class="cal-meta">The final night of PITCH Season II!</div>
+      <div class="cal-meta">Holly Sass and guests</div>
     </div>
   </li>
 
@@ -154,17 +154,6 @@ Status: published
         <a class="cal-title" href="https://pools.events/event/9gMTlXcP/" target="_blank" rel="noopener" style="color: var(--text);">KTV: HALLOWEEN EDITION // Karaoke party!</a>
       </div>
       <div class="cal-meta">Party with SUPR OMEN &amp; Telepathy</div>
-    </div>
-  </li>
-
-  <li class="cal-entry">
-    <span class="cal-date">Sat Oct 31</span>
-    <div class="cal-body">
-      <div class="cal-title-row">
-        <span class="cal-symbol">◑</span>
-        <a class="cal-title" href="https://pools.events/event/eghHNbWN/" target="_blank" rel="noopener" style="color: var(--text);">Holly Sass: Risking Boredom</a>
-      </div>
-      <div class="cal-meta">Holly Sass and guests</div>
     </div>
   </li>
 
