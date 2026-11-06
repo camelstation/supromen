@@ -14,6 +14,10 @@
       <script>
         window.ABOUT_SLIDESHOW_IMAGES = [{% for img in ABOUT_SLIDESHOW_IMAGES %}"{{ img }}"{% if not loop.last %}, {% endif %}{% endfor %}];
       </script>
+    {% elif page.slug == "studio-for-rent" %}
+      <script>
+        window.STUDIO_FOR_RENT_SLIDESHOW_IMAGES = [{% for img in STUDIO_FOR_RENT_SLIDESHOW_IMAGES %}"{{ img }}"{% if not loop.last %}, {% endif %}{% endfor %}];
+      </script>
     {% endif %}
     {{ page.content }}
   {% endif %}

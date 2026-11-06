@@ -30,6 +30,23 @@ if os.path.isdir(_about_images_dir):
     ]
 else:
     ABOUT_SLIDESHOW_IMAGES = []
+
+# Same as above, for the Studio for rent page slideshow
+# (content/images/studio-for-rent/).
+_studio_for_rent_images_dir = os.path.join(
+    os.path.dirname(os.path.abspath(__file__)), "..", "content", "images", "studio-for-rent"
+)
+
+if os.path.isdir(_studio_for_rent_images_dir):
+    STUDIO_FOR_RENT_SLIDESHOW_IMAGES = [
+        "/images/studio-for-rent/" + filename
+        for filename in sorted(
+            os.listdir(_studio_for_rent_images_dir), key=_about_slideshow_sort_key
+        )
+        if not filename.startswith(".")
+    ]
+else:
+    STUDIO_FOR_RENT_SLIDESHOW_IMAGES = []
 PAGE_PATHS = ["pages", "shop"]
 PAGE_URL = "{slug}/"
 PAGE_SAVE_AS = "{slug}/index.html"
