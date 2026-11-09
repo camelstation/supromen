@@ -62,6 +62,13 @@ Status: published
   padding-left: 12px;
 }
 
+.studio-photo {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin-top: 1rem;
+}
+
 .studio-slideshow-arrow--next {
   right: 0;
   justify-content: flex-end;
@@ -170,11 +177,12 @@ Status: published
 <div class="pricing-section">
   <h2 class="pricing-section__heading">Studio for rent</h2>
   <div class="pricing-text">
-    <p>SUPR OMEN has a 225 sq ft studio for rent. The semi-private studio has a window, hardwood floors, 8 ft walls (open at the top to remain FDNY compliant) and a split system for heating and cooling. There is currently a door installed which can be removed if you prefer a more open studio (our other studios are open like this).</p>
-    <p>The 225 sq ft studio is $900 per month plus electricity of around $25/month. Wifi and water included. You're welcome to share the space with a friend! The space also has a kitchenette and a bathroom.</p>
-    <p>SUPR OMEN's current studio members span dance, sculpture, new media, conceptual art and painting, and all lean into experimental performance to varying degrees. We also have rehearsal members who use the 1000 sf performance space, where in addition to rehearsals we also host workshops and events several times a month. You have access to the rehearsal space (when available) as a studio member.</p>
-    <p>Please contact <a href="mailto:info@supromen.com" style="color: var(--accent);">info@supromen.com</a> with any enquiries, come through and say hi! Available from November 21.</p>
-    <p>Note that the photo below shows the studio in part to highlight the window, floor and wall.</p>
+    <p>SUPR OMEN has a 225 sf studio for rent. The semi-private studio has a window, hardwood floors, 8 ft walls (open at the top to remain FDNY compliant) and a split system for heating and cooling. There is currently a door installed, which can be removed if you prefer a more open studio (our other studios have no doors).</p>
+    <p>The 225 sf studio is $900 per month plus electricity (around $25/month). Wi-Fi and water are included. You’re welcome to share the space with a friend! Studio members also have access to a kitchenette and a bathroom.</p>
+    <p>SUPR OMEN’s current studio members span dance, sculpture, new media, conceptual art and painting, and all lean into experimental performance to varying degrees. We also have rehearsal members who use the 1000 sf performance space (see photos above), where we host workshops and events several times a month. As a studio member, you can use the rehearsal space when available.</p>
+    <p>Please contact <a href="mailto:info@supromen.com" style="color: var(--accent);">info@supromen.com</a> with any enquiries. Come through and say hi! Available from November 21.</p>
+    <p>The photo below shows part of the studio, to highlight the window, floor and wall.</p>
+    <img class="studio-photo" src="/images/Studio-1.webp" alt="Studio showing window, hardwood floor and wall">
   </div>
 </div>
 
