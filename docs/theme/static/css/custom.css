@@ -247,7 +247,8 @@ a:active {
    Events page video sizing
    ========================= */
 
-.page--events .center-media a {
+.page--events .center-media a,
+.page--partner-events .center-media a {
   display: block;
   -webkit-tap-highlight-color: transparent !important;
   outline: none !important;
@@ -255,7 +256,8 @@ a:active {
   box-shadow: none !important;
 }
 
-.page--events .center-media video {
+.page--events .center-media video,
+.page--partner-events .center-media video {
   display: block;
 }
 
@@ -298,6 +300,7 @@ a:active {
 
 /* Override flex: 1 for center-media inside event blocks */
 .page--events .event-block .center-media,
+.page--partner-events .event-block .center-media,
 .page--classes .event-block .center-media,
 .page--workshops .event-block .center-media {
   flex: 0 0 auto;
@@ -309,6 +312,8 @@ a:active {
 
 .page--events .event-block .center-media img,
 .page--events .event-block .center-media video,
+.page--partner-events .event-block .center-media img,
+.page--partner-events .event-block .center-media video,
 .page--classes .event-block .center-media img,
 .page--classes .event-block .center-media video,
 .page--workshops .event-block .center-media img,
@@ -638,6 +643,7 @@ a:active {
    ========================= */
 
 .page--events .center-media,
+.page--partner-events .center-media,
 .page--workshops .center-media,
 .page--membership .center-media {
   min-height: 0;      /* override min-height: 100vh */
