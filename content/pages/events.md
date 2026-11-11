@@ -8,6 +8,34 @@ Status: published
 
   <div class="event-block">
     <div class="center-media">
+      <img src="/images/PowerPoint-November2026.webp" alt="Power Point Living Room Happy Hour">
+    </div>
+    <p class="event-datetime">Friday Nov 20</p>
+    <h3 class="event-title"><a href="https://pools.events/event/3knRczXu/" target="_blank" rel="noopener">Power Point Living Room Happy Hour</a></h3>
+    <div class="event-text">
+      <p>Matt Evans brings Power Point Living Room Happy Hour to SUPR OMEN!<br>
+      Featuring Campbell Watson, Moon Davé, hearthealer, Livyy Marcus, Claire Lachow and Matt Evans.<br>
+      It’s a “happy hour” vibe — doors at 5pm, talks from 6-8pm with a cash bar and hangs after.<br>
+      The plan is a 10 minute powerpoint sharing something the speaker has been obsessed with.... something they’re working on or have worked on, someone, something, an idea. It can (and maybe should) have a lot of tangents. Or maybe it stays on track. Come and find out!</p>
+      <p><a href="https://pools.events/event/3knRczXu/" target="_blank" rel="noopener">More info</a></p>
+    </div>
+  </div>
+
+  <div class="event-block">
+    <div class="center-media">
+      <img src="/images/Wasted-1996.webp" alt="Wasted! (1996)">
+    </div>
+    <p class="event-datetime">Saturday Nov 14</p>
+    <h3 class="event-title"><a href="https://pools.events/event/6W5YtClO/" target="_blank" rel="noopener">Wasted! (1996)</a></h3>
+    <div class="event-text">
+      <p><a href="https://www.seekandfindfilms.com/wasted-naar-de-klote-1996" target="_blank" rel="noopener">Seek &amp; Find Films</a> is screening their completed 30th anniversary restoration of the 1996 Amsterdam rave cult classic, Wasted!</p>
+      <p>The definitive rave film of 90’s Amsterdam. Wasted! follows Jacqui and Martijn, a young couple who move from the quiet town of Tilburg to the epicenter of Gabber and Trance scenes - Amsterdam. Their initial exploration of freedom and ecstasy quickly fractures as they are pulled into the city’s sex, drugs, and rave underbelly. While Jacqui finds herself entering deeper and deeper into the world of drug dealing, Martijn spirals into a haze of excess and binge drinking, leading to a stark, unrelenting depiction of the dark side of Amsterdam in acid technicolor.</p>
+      <p><a href="https://pools.events/event/6W5YtClO/" target="_blank" rel="noopener">Tickets available now</a></p>
+    </div>
+  </div>
+
+  <div class="event-block">
+    <div class="center-media">
       <img src="/images/KTV_Halloween.webp" alt="KTV: HALLOWEEN EDITION // Karaoke">
     </div>
     <p class="event-datetime">Saturday Oct 31</p>
