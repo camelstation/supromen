@@ -90,7 +90,16 @@ THEME = "theme"
 THEME_STATIC_DIR = "assets"
 
 # Copy static images from content/images -> output/images
-STATIC_PATHS = ["images"]
+STATIC_PATHS = ["images", "redirects"]
+
+# Redirect pages for old URLs (pages were renamed). Copied as-is to the old
+# addresses so existing links/bookmarks still work, #anchors included.
+EXTRA_PATH_METADATA = {
+    "redirects/events.html": {"save_as": "events/index.html"},
+    "redirects/upcoming.html": {"save_as": "upcoming/index.html"},
+}
+# Don't let Pelican try to read the redirect pages as articles.
+ARTICLE_EXCLUDES = ["redirects"]
 
 # Keep docs/index.html as a hand-written splash page (not Pelican-generated)
 DIRECT_TEMPLATES = ()

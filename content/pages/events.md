@@ -1,7 +1,7 @@
 Title: Events
-Slug: events
-Url: events/
-Save_as: events/index.html
+Slug: supr-omen-presents
+Url: supr-omen-presents/
+Save_as: supr-omen-presents/index.html
 Status: published
 
 <div class="events-section">

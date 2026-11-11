@@ -1,7 +1,7 @@
 Title: Upcoming
-Slug: upcoming
-Url: upcoming/
-Save_as: upcoming/index.html
+Slug: calendar
+Url: calendar/
+Save_as: calendar/index.html
 Status: published
 
 <style>

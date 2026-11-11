@@ -247,7 +247,7 @@ a:active {
    Events page video sizing
    ========================= */
 
-.page--events .center-media a,
+.page--supr-omen-presents .center-media a,
 .page--partner-events .center-media a {
   display: block;
   -webkit-tap-highlight-color: transparent !important;
@@ -256,7 +256,7 @@ a:active {
   box-shadow: none !important;
 }
 
-.page--events .center-media video,
+.page--supr-omen-presents .center-media video,
 .page--partner-events .center-media video {
   display: block;
 }
@@ -299,7 +299,7 @@ a:active {
 }
 
 /* Override flex: 1 for center-media inside event blocks */
-.page--events .event-block .center-media,
+.page--supr-omen-presents .event-block .center-media,
 .page--partner-events .event-block .center-media,
 .page--classes .event-block .center-media,
 .page--workshops .event-block .center-media {
@@ -310,8 +310,8 @@ a:active {
   justify-content: flex-start;
 }
 
-.page--events .event-block .center-media img,
-.page--events .event-block .center-media video,
+.page--supr-omen-presents .event-block .center-media img,
+.page--supr-omen-presents .event-block .center-media video,
 .page--partner-events .event-block .center-media img,
 .page--partner-events .event-block .center-media video,
 .page--classes .event-block .center-media img,
@@ -642,7 +642,7 @@ a:active {
    Media pages: keep footer visible if there's space
    ========================= */
 
-.page--events .center-media,
+.page--supr-omen-presents .center-media,
 .page--partner-events .center-media,
 .page--workshops .center-media,
 .page--membership .center-media {
