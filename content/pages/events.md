@@ -14,7 +14,7 @@ Status: published
     <h3 class="event-title"><a href="https://partiful.com/e/sV7xuH1Z9qGsi8X9OP59" target="_blank" rel="noopener">Muted Freq</a></h3>
     <div class="event-text">
       <p>Our tireless studio members Kanami and Nanae return for another experimental offering in the form of a visual, auditorial experience.</p>
-      <p>Featuring, Nanae Itoi, Kanami Kusajima and JLash with designs and paintings by Michael Sapone Jr.</p>
+      <p>Featuring Nanae Itoi, Kanami Kusajima and JLash with designs and paintings by Michael Sapone Jr.</p>
       <p><a href="https://partiful.com/e/sV7xuH1Z9qGsi8X9OP59" target="_blank" rel="noopener">Tickets available now</a></p>
     </div>
   </div>
