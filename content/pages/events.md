@@ -8,15 +8,14 @@ Status: published
 
   <div class="event-block">
     <div class="center-media">
-      <img src="/images/PowerPoint-November2026.webp" alt="Power Point Living Room Happy Hour">
+      <img src="/images/PowerPoint-November2026.webp" alt="PowerPoint LivingRoom HappyHour">
     </div>
     <p class="event-datetime">Friday Nov 20</p>
-    <h3 class="event-title"><a href="https://pools.events/event/3knRczXu/" target="_blank" rel="noopener">Power Point Living Room Happy Hour</a></h3>
+    <h3 class="event-title"><a href="https://pools.events/event/3knRczXu/" target="_blank" rel="noopener">PowerPoint LivingRoom HappyHour</a></h3>
     <div class="event-text">
-      <p>Matt Evans brings Power Point Living Room Happy Hour to SUPR OMEN!<br>
-      Featuring Campbell Watson, Moon Davé, hearthealer, Livyy Marcus, Claire Lachow and Matt Evans.<br>
-      It’s a “happy hour” vibe — doors at 5pm, talks from 6-8pm with a cash bar and hangs after.<br>
-      The plan is a 10 minute powerpoint sharing something the speaker has been obsessed with.... something they’re working on or have worked on, someone, something, an idea. It can (and maybe should) have a lot of tangents. Or maybe it stays on track. Come and find out!</p>
+      <p>Matt Evans brings PowerPoint LivingRoom HappyHour to SUPR OMEN!</p>
+      <p>Featuring Campbell Watson, Moon Davé, hearthealer, Livyy Marcus, Claire Lachow and Matt Evans. It’s a “happy hour” vibe — doors at 5pm, talks from 6-8pm with a cash bar and hangs after.</p>
+      <p>The plan is a 10 minute powerpoint sharing something the speaker has been obsessed with.... something they’re working on or have worked on, someone, something, an idea. It can (and maybe should) have a lot of tangents. Or maybe it stays on track. Come and find out!</p>
       <p><a href="https://pools.events/event/3knRczXu/" target="_blank" rel="noopener">More info</a></p>
     </div>
   </div>
