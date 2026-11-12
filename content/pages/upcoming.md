@@ -151,9 +151,9 @@ Status: published
     <div class="cal-body">
       <div class="cal-title-row">
         <span class="cal-symbol">△</span>
-        <a class="cal-title" href="https://pools.events/event/3knRczXu/" target="_blank" rel="noopener" style="color: var(--text);">Power Point Living Room Happy Hour</a>
+        <a class="cal-title" href="https://pools.events/event/3knRczXu/" target="_blank" rel="noopener" style="color: var(--text);">PowerPoint LivingRoom HappyHour</a>
       </div>
-      <div class="cal-meta">Happy hour vibe</div>
+      <div class="cal-meta">Happy hour vibes</div>
     </div>
   </li>
 
