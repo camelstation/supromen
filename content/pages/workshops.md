@@ -8,6 +8,21 @@ Status: published
 
   <div class="event-block">
     <div class="center-media">
+      <img src="/images/Lumu-Clown-Dec2026.webp" alt="Clown Class">
+    </div>
+    <p class="event-datetime">December 6, 13 &amp; 20</p>
+    <h3 class="event-title"><a href="https://docs.google.com/forms/d/e/1FAIpQLSd1Pl0GrUnjjnChDKUjxX5XRoWw0NzVVAF1BMEZh1yt_YWBSQ/viewform?usp=publish-editor" target="_blank" rel="noopener">Clown Class</a></h3>
+    <div class="event-text">
+      <p>Clown work is a self work - the opportunity to learn yourself outside and inside and backwards and upside down. Join Erika and Gesture Theater on a journey to find your funny... AND MORE. All levels welcome / beginner friendly!</p>
+      <p>Erika Michelle Davis (they/she) is a clown, actor, and physical theater artist based in Brooklyn. They hold a BFA in Physical Theatre from Coastal Carolina University (‘20) as well as a One Year Certificate in Physical Theatre from the Accademia dell’Arte (‘19). She is a founding member of Gesture Theater, a devising company of trans actors, dancers, and clowns. Erika believes the clown is a powerful tool to look inward - a portal into yourself! They like to use the nose to learn themself, and help others learn too.</p>
+      <p>FOR PARTICIPANTS:</p>
+      <p>Wear comfy clothes, bring water (and a snack if you like!), PLEASE DON’T FORGET to bring your sense of childlike wonder and awe 🤗😃</p>
+      <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSd1Pl0GrUnjjnChDKUjxX5XRoWw0NzVVAF1BMEZh1yt_YWBSQ/viewform?usp=publish-editor" target="_blank" rel="noopener">Sign up now</a></p>
+    </div>
+  </div>
+
+  <div class="event-block">
+    <div class="center-media">
       <img src="/images/PracticeSpace-Fall.webp" alt="Practice Space Fall Season">
     </div>
     <p class="event-datetime">Mondays in September to December</p>
