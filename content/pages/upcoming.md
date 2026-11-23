@@ -136,24 +136,13 @@ Status: published
 <ul class="cal-list">
 
   <li class="cal-entry">
-    <span class="cal-date">Sat Nov 14</span>
+    <span class="cal-date">Thu Dec 3</span>
     <div class="cal-body">
       <div class="cal-title-row">
-        <span class="cal-symbol">△</span>
-        <a class="cal-title" href="https://pools.events/event/6W5YtClO/" target="_blank" rel="noopener" style="color: var(--text);">Wasted! (1996)</a>
+        <span class="cal-symbol">◑</span>
+        <a class="cal-title" href="https://pools.events/event/ZQadrPOZ/rinse-presents-isabel-boutiette-ben-gassman-tobi-kassim-kimiko-tanabe/" target="_blank" rel="noopener" style="color: var(--text);">RINSE</a>
       </div>
-      <div class="cal-meta">Seek &amp; Find Films</div>
-    </div>
-  </li>
-
-  <li class="cal-entry">
-    <span class="cal-date">Fri Nov 20</span>
-    <div class="cal-body">
-      <div class="cal-title-row">
-        <span class="cal-symbol">△</span>
-        <a class="cal-title" href="https://pools.events/event/3knRczXu/" target="_blank" rel="noopener" style="color: var(--text);">PowerPoint LivingRoom HappyHour</a>
-      </div>
-      <div class="cal-meta">Happy hour vibes</div>
+      <div class="cal-meta">Isabel Boutiette, Ben Gassman, Tobi Kassim, Kimiko Tanabe</div>
     </div>
   </li>
 
@@ -165,6 +154,28 @@ Status: published
         <a class="cal-title" href="https://partiful.com/e/sV7xuH1Z9qGsi8X9OP59" target="_blank" rel="noopener" style="color: var(--text);">Muted Freq</a>
       </div>
       <div class="cal-meta">Nanae Itoi, Kanami Kusajima and JLash</div>
+    </div>
+  </li>
+
+  <li class="cal-entry">
+    <span class="cal-date">Fri Dec 11</span>
+    <div class="cal-body">
+      <div class="cal-title-row">
+        <span class="cal-symbol">△</span>
+        <a class="cal-title" href="https://www.tickettailor.com/events/shadowswell/2343425" target="_blank" rel="noopener" style="color: var(--text);">DUSK DOG</a>
+      </div>
+      <div class="cal-meta">A Performance and Screening</div>
+    </div>
+  </li>
+
+  <li class="cal-entry">
+    <span class="cal-date">Wed Dec 16</span>
+    <div class="cal-body">
+      <div class="cal-title-row">
+        <span class="cal-symbol">◑</span>
+        <span class="cal-title" style="color: var(--text);"><a href="https://supromen.com/curatorial-programs/">DRIFT</a> presents 502 Bad Gateway</span>
+      </div>
+      <div class="cal-meta">A live video music opera</div>
     </div>
   </li>
 
