@@ -173,7 +173,7 @@ Status: published
     <div class="cal-body">
       <div class="cal-title-row">
         <span class="cal-symbol">◑</span>
-        <span class="cal-title" style="color: var(--text);"><a href="https://supromen.com/curatorial-programs/">DRIFT</a> presents 502 Bad Gateway</span>
+        <span class="cal-title" style="color: var(--text);">DRIFT presents 502 Bad Gateway</span>
       </div>
       <div class="cal-meta">A live video music opera</div>
     </div>
