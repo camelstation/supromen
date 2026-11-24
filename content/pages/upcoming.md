@@ -173,7 +173,7 @@ Status: published
     <div class="cal-body">
       <div class="cal-title-row">
         <span class="cal-symbol">◑</span>
-        <span class="cal-title" style="color: var(--text);">DRIFT presents 502 Bad Gateway</span>
+        <a class="cal-title" href="https://pools.events/event/cS6NqYlS/" target="_blank" rel="noopener" style="color: var(--text);">DRIFT presents 502 Bad Gateway</a>
       </div>
       <div class="cal-meta">A live video music opera</div>
     </div>
