@@ -69,14 +69,6 @@ Status: published
   margin-top: 1rem;
 }
 
-.studio-photo-caption {
-  margin: 8px 0 0;
-  font-size: 0.85em;
-  font-style: italic;
-  color: #aaa;
-  text-align: left;
-}
-
 .studio-slideshow-arrow--next {
   right: 0;
   justify-content: flex-end;
@@ -190,7 +182,6 @@ Status: published
     <p>SUPR OMEN’s current studio members span dance, sculpture, new media, conceptual art and painting, and all lean into experimental performance to varying degrees. We also have rehearsal members who use the 1000 sf performance space (see photos above), where we host workshops and events several times a month. As a studio member, you can use the rehearsal space when available.</p>
     <p>Please contact <a href="mailto:info@supromen.com" style="color: var(--accent);">info@supromen.com</a> with any enquiries. Come through and say hi!</p>
     <img class="studio-photo" src="/images/Studio-1.webp" alt="Studio showing window, hardwood floor and wall">
-    <p class="studio-photo-caption">The photo above shows part of the studio to highlight the window, floor and wall. The 225 sf studio is larger than shown in the photo.</p>
   </div>
 </div>
 
